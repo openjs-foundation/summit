@@ -16,6 +16,7 @@ The foundation would like to host a summit for active contributors to the node.j
      * A point of collaboration or process that didn't work at all in a project or WG you're in.
   * Map projects, WGs, and points of collaboration.
   * Create "Best Practices" draft document for projects and Working Groups.
+  * Starting at 10:00 A.M. Pacific
 
 * **Session 2 (Automation and CI)**
   * Create a list of all current automation and the working groups that manage them.
