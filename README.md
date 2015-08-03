@@ -8,7 +8,7 @@ The foundation would like to host a summit for active contributors to the node.j
 * 
 ## Agenda: — [discuss](https://github.com/nodejs/summit/issues/7)
 
-* **Session 1 (Intros and Best Practices)**
+* **Session 1 (Intros and Best Practices)** *10am - 12pm Thursday*
    * Each person introduces themselves: 2 minute limit.
      * Name
      * Working Groups and projects you're involved in.
@@ -18,13 +18,13 @@ The foundation would like to host a summit for active contributors to the node.j
   * Create "Best Practices" draft document for projects and Working Groups.
   * Starting at 10:00 A.M. Pacific
 
-* **Session 2 (Automation and CI)**
+* **Session 2 (Automation and CI)** *1pm - 3pm Thursday*
   * Create a list of all current automation and the working groups that manage them.
   * Map automation to processes from various working groups (what is tied to build? what is tied to PR? what is tied to a website commit?)
   * Create a list of future automation.
   * Create a prioritized list of current and future automation and assign/plan each high value item.
 
-* **Session 3 (Broadening the Collaborator Base)**
+* **Session 3 (Broadening the Collaborator Base)** *4pm - 6pm Thursday*
   * A holistic session to address increasing the number of contributors and broadening the demographics of those participants.
   * Set target goals for end-of-year participation metrics.
   * Develop guidelines for diversity, accessibility and international participation. These guidelines should be specific, as in "do this" "do not do this" rather than subjective. The purpose of these guidelines is to provide guidance to future contribution policies and outreach programs.
@@ -32,23 +32,23 @@ The foundation would like to host a summit for active contributors to the node.j
    * Create a prioritized list of changes to existing processes.
    * Create an outreach plan for achieving participation goals.
 
-* **Session 4 (What is Node.js?)**
+* **Session 4 (What is Node.js?)** *10am - 12pm Friday*
   * A discussion of what "the node platform" is.
     * Produce a map of platform areas and APIs packages and applications depend on.
   * A discussion of what the "Node API" should be.
     * Separate the API in to platform areas.
     * Create parallel roadmaps for each to arrive at an API definition.
 
-* **Session 5.1 (Node Fails)**
+* **Session 5.1 (Node Fails)** *1pm - 2pm Friday*
   * What happens when failures happen in node?
   * Categorize and Map the variety of failures to their current and possible solutions (promise catches, asyncwrap, tracing, post mortem)
   * Draft parallel roadmaps for each solution.
-* **Session 5.2 (The v8 problem)**
+* **Session 5.2 (The v8 problem)** *2pm - 3pm Friday*
   * Create a list of all the ways in which we are tied to v8 noting which change/break between releases and how.
   * Create a list of issues we encounter when updating v8 and prioritize by severity.
   * Propose solutions to each issue and prioritize.
 
-* **Session 6 (Future)**
+* **Session 6 (Future)** *4pm - 6pm Friday*
 
 * **Social Activities**
   * [WaffleJS Wednesday Evening](http://wafflejs.com/)
