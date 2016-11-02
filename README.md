@@ -8,7 +8,7 @@ Free!
 Although the summits may be coordinated with other events/confrences, you do not need to pay/attend those events to participate in a summit.
 
 ## Upcoming Events
-- Dec 01-02 2016, Austin, Texas, USA
+- [Dec 01-02 2016, Austin, Texas, USA](https://github.com/nodejs/summit/issues/35)
 
 ## Past Events
 - [Sep 17-18 2016, Amsterdam, Netherlands](https://github.com/nodejs/summit/issues/16)
