@@ -8,7 +8,7 @@ Free!
 Although the summits may be coordinated with other events/confrences, you do not need to pay/attend those events to participate in a summit.
 
 ## Upcoming Events
-- [Let's discuss](https://github.com/nodejs/summit/issues/39)!
+- [May 04-05 2017, Berlin, Germany](https://github.com/nodejs/summit/issues/39)
 
 ## Past Events
 - [Dec 01-02 2016, Austin, Texas, USA](https://github.com/nodejs/summit/issues/35)
