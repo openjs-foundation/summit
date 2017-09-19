@@ -19,9 +19,11 @@
 |  1:00p - 3:00p  | TBD  | Working Sessions | Working Sessions         |
 |  3:00p - 5:00p  | TBD  | Closing Plenary  | All-Collaborator Plenary |
 
-## Working Group Sessions
+## Working Sessions
 
-There are three blocks of time allocated for Working Groups to meet and work.
+There are three blocks of time allocated for Working Groups and Teams to meet
+and work.
+
 These are currently:
 
 * 3:00p-5:00p on 2017-10-06
@@ -36,6 +38,12 @@ TBD
 
 MC/Facilitators: @jasnell and @hackygolucky
 
+## CommComm Plenary
+
+TBD
+
+MC/Facilitators: ?
+
 ## Closing Plenary
 
 There will be a closing Plenary session from 3:00p-5:00p on 2017-10-07 for
@@ -44,4 +52,4 @@ Working Group should plan on presenting *something* during this time, as it
 is a fantastic opportunity for the WG to let the rest of the project know what
 it is working on.
 
-MC/Facilitators: @jasnell and @hackygolucky
+MC/Facilitators: ?? @MylesBorins and @bnb ??
