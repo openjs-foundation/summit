@@ -47,9 +47,10 @@ MC/Facilitators: ?
 ## Closing Plenary
 
 There will be a closing Plenary session from 3:00p-5:00p on 2017-10-07 for
-Working Groups to present on their status and progress. Every chartered
-Working Group should plan on presenting *something* during this time, as it
-is a fantastic opportunity for the WG to let the rest of the project know what
-it is working on.
+Working Groups and Teams to present on status, progress or whatever they
+accomplished during the summit Working Sessions. Every group/team that meets
+during the Working Sessions should plan on presenting *something* during this
+time, as it is a fantastic opportunity to let the rest of the project know what
+is being worked on.
 
 MC/Facilitators: ?? @MylesBorins and @bnb ??
