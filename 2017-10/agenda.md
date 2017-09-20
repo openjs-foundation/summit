@@ -33,7 +33,7 @@ and work.
 
 These are currently:
 
-* 3:00p-5:00p on 2017-10-06
+* 3:00p-4:30p on 2017-10-06
 * 9:00a-12:00p on 2017-10-07
 * 1:00p-3:00p on 2017-10-07
 
@@ -62,8 +62,7 @@ Core Plenary Schedule:
 CommComm Plenary Schedule: (CommComm folks, please fill this
 out
 
-|    Time Slot    |     Session      |        Description       
-
+|    Time Slot    |     Session      |        Description       |
 | --------------- | ---------------- | ------------------------ |
 | TBD             | TBD              | TBD                      |
 
