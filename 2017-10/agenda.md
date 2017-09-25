@@ -45,17 +45,15 @@ MC/Facilitators: @jasnell and @hackygolucky
 
 Core Plenary Schedule:
 
-|    Time Slot    |     Session      |        Description       |
-| --------------- | ---------------- | ------------------------ |
-|  1:30p - 1:35p  |      Intro       | Introduction             |
-|  1:35p - 1:45p  |   @MylesBorins   | TSC Director Intro       |
-|  1:45p - 1:55p  |    @mhdawson     | TSC Chair Intro          |
-|  1:55p - 2:05p  |@bnb/@rachelnicole| CommComm Chair Intro     |
-|  2:05p - 2:10p  |  @hackygolucky   | Education Intro          |
-|  2:10p - 2:30p  |  (Speaker TBD)   | Enterprise Priorities    |
-|  2:30p - 3:00p  |  Agenda Bashing  | Agenda Bashing           |
-
-* Note(@jasnell): I am currently working on arranging a speaker for this slot.
+|    Time Slot    |      Session      |        Description       |
+| --------------- | ----------------- | ------------------------ |
+|  1:30p - 1:35p  |       Intro       | Introduction             |
+|  1:35p - 1:45p  |    @MylesBorins   | TSC Director Intro       |
+|  1:45p - 1:55p  |     @mhdawson     | TSC Chair Intro          |
+|  1:55p - 2:05p  | @bnb/@rachelnicole| CommComm Chair Intro     |
+|  2:05p - 2:10p  |   @hackygolucky   | Education Intro          |
+|  2:10p - 2:30p  | Trevor Livingston |(Invited Talk, Title TBD) |
+|  2:30p - 3:00p  |   Agenda Bashing  | Agenda Bashing           |
 
 ## CommComm Plenary
 
