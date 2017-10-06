@@ -9,7 +9,7 @@
 |  1:30p - 3:00p  | TBD  | Core Plenary           | All-Collaborator Plenary | West Ballroom A                 |
 |  3:00p - 4:00p  | TBD  | Core Values--all hands | All hands discussion     | West Ballroom A                 |
 |  4:00p - 5:00p  | TBD  | Working Sessions       | Working Sessions         | Select breakout rooms from map  |
-|  4:30p - 5:00p  | TBD  | Day 1 Summaries        | Summary of Day 1 Results | West Ballroom A                 |
+|  5:00p - 5:30p  | TBD  | Day 1 Summaries        | Summary of Day 1 Results | West Ballroom A                 |
 
 (See below for Core Plenary Schedule)
 
