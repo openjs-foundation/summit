@@ -5,7 +5,7 @@ The Node.js Foundation hosts regular summits for active contributors to the node
 ## Cost
 Free!
 
-Although the summits may be coordinated with other events/confrences, you do not need to pay/attend those events to participate in a summit.
+Although the summits may be coordinated with other events/confrences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/nodejs/TSC/blob/master/Member-Travel-Fund.md) for details.
 
 ## Upcoming Events
 - [Oct 06-07 2017, Vancouver, British Columbia, Canada](https://github.com/nodejs/summit/issues/44)
