@@ -45,7 +45,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 37. [Gus Caplan](https://github.com/devsnek)- MAYBE
 38. [Matheus Marchini](https://github.com/mmarchini)- MAYBE
 39. [Tobias Nießen](https://github.com/tniessen)- MAYBE
-40. [Benjamin Zaslavsky](https://github.com/Tiriel)- MAYBE
+40. [Benjamin Zaslavsky](https://github.com/Tiriel)
 41. [Rachel White](https://github.com/rachelnicole)- MAYBE
 42. [Michael Dawson](https://github.com/mhdawson)- MAYBE
 43. [Richard Littauer](https://github.com/RichardLitt)- MAYBE
