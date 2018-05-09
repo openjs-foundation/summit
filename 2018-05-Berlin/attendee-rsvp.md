@@ -85,4 +85,5 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 8. [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
 9. [Franziska Hinkelmann](https://github.com/fhinkel)
 10. [Michaël Zasso](https://github.com/targos) - no dietary restrictions
+11. [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 
