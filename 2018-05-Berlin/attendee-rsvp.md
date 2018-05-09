@@ -61,6 +61,7 @@ There will be breakout sessions and we will do our best to optimize for remote a
 
 1. [Bradley Meck](https://github.com/bmeck)
 2. [Liran Tal](https://github.com/lirantal)
+3. [Trivikram Kamat](https://github.com/trivikr)
  
 
 # Node Collaborator’s Dinner - 2018-05-31, 7pm
