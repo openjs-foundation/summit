@@ -52,6 +52,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 44. [Joyee Cheung](https://github.com/joyeecheung)- MAYBE
 45. [Ujjwal Sharma](https://github.com/ryzokuken)
 46. [Franziska Hinkelmann](https://github.com/fhinkel)
+47. [Yosuke Furukawa](https://github.com/yosuke-furukawa)
 
 
 ### Attendees Remote
