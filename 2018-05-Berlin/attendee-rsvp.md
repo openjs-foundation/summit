@@ -51,6 +51,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 43. [Richard Littauer](https://github.com/RichardLitt)- MAYBE
 44. [Joyee Cheung](https://github.com/joyeecheung)- MAYBE
 45. [Ujjwal Sharma](https://github.com/ryzokuken)
+46. [Franziska Hinkelmann](https://github.com/fhinkel)
 
 
 ### Attendees Remote
@@ -79,3 +80,5 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 6. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 7. [Tierney Cyren](https://github.com/bnb) - vegetarian
 8. [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
+9. [Franziska Hinkelmann](https://github.com/fhinkel)
+
