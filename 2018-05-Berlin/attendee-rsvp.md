@@ -54,6 +54,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 46. [Franziska Hinkelmann](https://github.com/fhinkel)
 47. [Yosuke Furukawa](https://github.com/yosuke-furukawa)
 48. [Michaël Zasso](https://github.com/targos)
+49. [Jan Krems](https://github.com/jkrems)
 
 
 ### Attendees Remote
