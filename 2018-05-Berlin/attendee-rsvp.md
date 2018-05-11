@@ -96,3 +96,4 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
 [Yunong Xiao](https://github.com/yunong) - no dietary restrictions
 [Abraham Agiri Jr](https://github.com/codeekage) - no dietary restrictions
+[Zeke Sikelianos](https://github.com/zeke) - vegetarian
