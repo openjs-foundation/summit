@@ -79,6 +79,7 @@ DIRCKSENSTR. 143
 Please list if you have dietary restrictions below and submit a PR if you will be joining.
 
 ### Guests
+[Anna Henningsen](https://github.com/addaleax) - vegetarian
 [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 [Dan Shaw](https://github.com/dshaw) - ?
 [Franziska Hinkelmann](https://github.com/fhinkel)
