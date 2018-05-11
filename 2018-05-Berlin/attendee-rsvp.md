@@ -31,6 +31,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 [Myles Borins](https://github.com/MylesBorins) // Organizer
 [Nicola Del Gobbo](https://github.com/NickNaso)
 [olivia](https://github.com/oe) // Organizer
+[Rich Trott](https://github.com/Trott)
 [Shelley Vohr](https://github.com/codebytere)
 [Stephen Belanger](https://github.com/Qard)
 [Thomas Watson](https://github.com/watson)
