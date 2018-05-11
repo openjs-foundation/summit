@@ -85,6 +85,7 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 [Franziska Hinkelmann](https://github.com/fhinkel)
 [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 [Matteo Collina](https://github.com/mcollina) - ?
+[Michael Dawson](https://github.com/mhdawson) - no dietary restrictions
 [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
 [olivia](https://github.com/oe) - ?
