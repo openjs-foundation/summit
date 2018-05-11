@@ -3,6 +3,8 @@ This document serves as an RSVP list for attendees in person, attendees remote, 
 
 This is how we will track amount of food and seats. Submit a PR if you need to RSVP or update your RSVP.
 
+PLEASE ADD YOURSELF ALPHABETICALLY :D
+
 ### Attendees In-Person 
 If you will be in Berlin to attend the Collaborator's Summit - add your name.
 
@@ -16,57 +18,54 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 [Ben Michel](https://github.com/obensource)
 [Benedikt Meurer](https://github.com/bmeurer)
 [Benjamin Gruenbaum](https://github.com/benjamingr)
+[Benjamin Zaslavsky](https://github.com/Tiriel)
 [Bryan English](https://github.com/bengl)
-[Dan Shaw](https://github.com/dshaw) // Organizer
+[Dan Shaw](https://github.com/dshaw) (Organizer)
 [Danese Cooper](https://github.com/Danese)
 [Daniel Bevenius](https://github.com/danbev)
 [Daniel Ehrenberg](https://github.com/littledan)
 [Dhruv Jain](https://github.com/maddhruv)
+[Franziska Hinkelmann](https://github.com/fhinkel)
 [Gibson Fahnestock](https://github.com/gibfahn)
 [Hassan Sani](https://github.com/inidaname)
+[Jan Krems](https://github.com/jkrems)
 [Joyee Cheung](https://github.com/joyeecheung)
 [Lin Clark](https://github.com/linclark)
-[Mark Hinkle](https://github.com/mrhinkle) // Node Foundation
-[Matteo Collina](https://github.com/mcollina) // Organizer
-[Myles Borins](https://github.com/MylesBorins) // Organizer
+[Mark Hinkle](https://github.com/mrhinkle) (Node Foundation)
+[Matteo Collina](https://github.com/mcollina) (Organizer)
+[Michael Dawson](https://github.com/mhdawson)
+[Michaël Zasso](https://github.com/targos)
+[Myles Borins](https://github.com/MylesBorins) (Organizer)
 [Nicola Del Gobbo](https://github.com/NickNaso)
-[olivia](https://github.com/oe) // Organizer
+[olivia](https://github.com/oe) (Organizer)
+[Rachel White](https://github.com/rachelnicole)- MAYBE
 [Rich Trott](https://github.com/Trott)
+[Richard Littauer](https://github.com/RichardLitt)- MAYBE
 [Shelley Vohr](https://github.com/codebytere)
 [Stephen Belanger](https://github.com/Qard)
 [Thomas Watson](https://github.com/watson)
 [Tierney Cyren](https://github.com/bnb)
-[Tracy Hinds](https://github.com/hackygolucky) // Organizer
+[Tobias Nießen](https://github.com/tniessen)
+[Tracy Hinds](https://github.com/hackygolucky) (Organizer)
+[Ujjwal Sharma](https://github.com/ryzokuken)
 [Vladimir de Turckheim](https://github.com/vdeturckheim)
 [Waleed Ashraf](https://github.com/WaleedAshraf)
 [Yang Guo](https://github.com/hashseed)
 [Yihong Wang](https://github.com/yhwang)
+[Yosuke Furukawa](https://github.com/yosuke-furukawa)
 [Yunong Xiao](https://github.com/yunong)
 [Zeke Sikelianos](https://github.com/zeke)
-
-
-36. [James M Snell](https://github.com/jasnell) - MAYBE
-37. [Gus Caplan](https://github.com/devsnek)- MAYBE
-38. [Matheus Marchini](https://github.com/mmarchini)- MAYBE
-39. [Tobias Nießen](https://github.com/tniessen)- MAYBE
-40. [Benjamin Zaslavsky](https://github.com/Tiriel)
-41. [Rachel White](https://github.com/rachelnicole)- MAYBE
-42. [Michael Dawson](https://github.com/mhdawson)- MAYBE
-43. [Richard Littauer](https://github.com/RichardLitt)- MAYBE
-
-45. [Ujjwal Sharma](https://github.com/ryzokuken)
-46. [Franziska Hinkelmann](https://github.com/fhinkel)
-47. [Yosuke Furukawa](https://github.com/yosuke-furukawa)
-48. [Michaël Zasso](https://github.com/targos)
-49. [Jan Krems](https://github.com/jkrems)
 
 
 ### Attendees Remote
 There will be breakout sessions and we will do our best to optimize for remote attendance. More information will be posted on the agenda. Please let us know if you have any questions!
 
-1. [Bradley Meck](https://github.com/bmeck)
-2. [Liran Tal](https://github.com/lirantal)
-3. [Trivikram Kamat](https://github.com/trivikr)
+[Bradley Meck](https://github.com/bmeck)
+[Colin Ihrig](https://github.com/cjihrig)
+[Gus Caplan](https://github.com/devsnek)
+[Liran Tal](https://github.com/lirantal)
+[Matheus Marchini](https://github.com/mmarchini)
+[Trivikram Kamat](https://github.com/trivikr)
  
 
 # Node Collaborator’s Dinner - 2018-05-31, 7pm
@@ -74,21 +73,23 @@ Dinner will hosted by Node Foundation the first day of the Summit at Brauhaus Le
 
 BRAUHAUS LEMKE
 AM HACKESCHEN MARKT
-DIRCKSENSTR., S-BAHNBOGEN 143
+DIRCKSENSTR. 143
 10178 BERLIN-MITTE
 
 Please list if you have dietary restrictions below and submit a PR if you will be joining.
 
 ### Guests
-1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
-2. [Matteo Collina](https://github.com/mcollina) - ?
-3. [Dan Shaw](https://github.com/dshaw) - ?
-4. [olivia](https://github.com/oe) - ?
-5. [Tracy Hinds](https://github.com/hackygolucky) 
-6. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
-7. [Tierney Cyren](https://github.com/bnb) - vegetarian
-8. [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
-9. [Franziska Hinkelmann](https://github.com/fhinkel)
-10. [Michaël Zasso](https://github.com/targos) - no dietary restrictions
-11. [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
-
+[Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
+[Dan Shaw](https://github.com/dshaw) - ?
+[Franziska Hinkelmann](https://github.com/fhinkel)
+[Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
+[Matteo Collina](https://github.com/mcollina) - ?
+[Michaël Zasso](https://github.com/targos) - no dietary restrictions
+[Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
+[olivia](https://github.com/oe) - ?
+[Stephen Belanger](https://github.com/Qard) - no dietary restrictions
+[Thomas Watson](https://github.com/watson) - no dietary restrictions
+[Tierney Cyren](https://github.com/bnb) - vegetarian
+[Tracy Hinds](https://github.com/hackygolucky) 
+[Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
+[Yunong Xiao](https://github.com/yunong) - no dietary restrictions
