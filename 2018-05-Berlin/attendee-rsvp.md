@@ -31,6 +31,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 [Jan Krems](https://github.com/jkrems)
 [Joyee Cheung](https://github.com/joyeecheung)
 [Lin Clark](https://github.com/linclark)
+[Manil Chowdhury](https://github.com/chowdhurian)
 [Mark Hinkle](https://github.com/mrhinkle) (Node Foundation)
 [Matteo Collina](https://github.com/mcollina) (Organizer)
 [Michael Dawson](https://github.com/mhdawson)
@@ -83,6 +84,7 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 [Dan Shaw](https://github.com/dshaw) - ?
 [Franziska Hinkelmann](https://github.com/fhinkel)
+[Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 [Matteo Collina](https://github.com/mcollina) - ?
 [Michael Dawson](https://github.com/mhdawson) - no dietary restrictions
