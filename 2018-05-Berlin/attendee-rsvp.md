@@ -91,6 +91,7 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
 [olivia](https://github.com/oe) - ?
+[Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
 [Stephen Belanger](https://github.com/Qard) - no dietary restrictions
 [Thomas Watson](https://github.com/watson) - no dietary restrictions
 [Tierney Cyren](https://github.com/bnb) - vegetarian
