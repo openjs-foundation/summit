@@ -108,6 +108,7 @@ be joining.
 1. [Stephen Belanger](https://github.com/Qard) - no dietary restrictions
 1. [Thomas Watson](https://github.com/watson) - no dietary restrictions
 1. [Tierney Cyren](https://github.com/bnb) - vegetarian
+1. [Tobias Nießen](https://github.com/tniessen) - no dietary restrictions
 1. [Tracy Hinds](https://github.com/hackygolucky) - ?
 1. [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
 1. [Yunong Xiao](https://github.com/yunong) - no dietary restrictions
