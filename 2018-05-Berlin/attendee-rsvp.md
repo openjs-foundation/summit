@@ -103,6 +103,7 @@ be joining.
 1. [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
 1. [olivia](https://github.com/oe) - ?
+1. [Rich Trott](https://github.com/Trott) - no dietary restrictions
 1. [Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
 1. [Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
 1. [Stephen Belanger](https://github.com/Qard) - no dietary restrictions
