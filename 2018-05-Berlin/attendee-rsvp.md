@@ -42,6 +42,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 [Rachel White](https://github.com/rachelnicole)- MAYBE
 [Rich Trott](https://github.com/Trott)
 [Richard Littauer](https://github.com/RichardLitt)- MAYBE
+[Ruben Bridgewater](https://github.com/BridgeAR)
 [Shelley Vohr](https://github.com/codebytere)
 [Stephen Belanger](https://github.com/Qard)
 [Thomas Watson](https://github.com/watson)
@@ -91,6 +92,7 @@ Please list if you have dietary restrictions below and submit a PR if you will b
 [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
 [olivia](https://github.com/oe) - ?
+[Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
 [Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
 [Stephen Belanger](https://github.com/Qard) - no dietary restrictions
 [Thomas Watson](https://github.com/watson) - no dietary restrictions
