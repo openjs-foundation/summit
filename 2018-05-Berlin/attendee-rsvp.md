@@ -37,6 +37,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Joyee Cheung](https://github.com/joyeecheung)
 1. [Lin Clark](https://github.com/linclark)
 1. [Liv Hugger](https://github.com/oe) (Organizer)
+1. [Luke Wagner](https://github.com/lukewagner)
 1. [Manil Chowdhury](https://github.com/chowdhurian)
 1. [Mark Hinkle](https://github.com/mrhinkle) (Node Foundation)
 1. [Matteo Collina](https://github.com/mcollina) (Organizer)
@@ -52,6 +53,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Stephen Belanger](https://github.com/Qard)
 1. [Thomas Watson](https://github.com/watson)
 1. [Tierney Cyren](https://github.com/bnb)
+1. [Till Schneidereit](https://github.com/tschneidereit)
 1. [Tobias Nießen](https://github.com/tniessen)
 1. [Tracy Hinds](https://github.com/hackygolucky) (Organizer)
 1. [Ujjwal Sharma](https://github.com/ryzokuken)
@@ -104,7 +106,9 @@ be joining.
 1. [Jan Krems](https://github.com/jkrems) - no dietary restrictions
 1. [Jeremiah Senkpiel](https://github.com/fishrock123) - minimal dietary restrictions
 1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
+1. [Lin Clark](https://github.com/linclark) - no dietary restrictions
 1. [Liv Hugger](https://github.com/oe) - no fish
+1. [Luke Wagner](https://github.com/lukewagner) - no dietary restrictions
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 1. [Matteo Collina](https://github.com/mcollina) - ?
@@ -117,6 +121,7 @@ be joining.
 1. [Stephen Belanger](https://github.com/Qard) - no dietary restrictions
 1. [Thomas Watson](https://github.com/watson) - no dietary restrictions
 1. [Tierney Cyren](https://github.com/bnb) - vegetarian
+1. [Till Schneidereit](https://github.com/tschneidereit) - no dietary restrictions
 1. [Tobias Nießen](https://github.com/tniessen) - no dietary restrictions
 1. [Tracy Hinds](https://github.com/hackygolucky) - ?
 1. [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
