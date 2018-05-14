@@ -94,6 +94,7 @@ be joining.
 
 1. [Anatoli Papirovski](https://github.com/apapirovski) - no dietary restrictions
 1. [Anna Henningsen](https://github.com/addaleax) - vegetarian
+1. [Adam Miller](https://github.com/amiller-gh) - no dietary restrictions
 1. [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 1. [Dan Shaw](https://github.com/dshaw) - ?
 1. [Daniel Bevenius](https://github.com/danbev) - no dietary restrictions
