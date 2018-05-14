@@ -33,6 +33,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Gibson Fahnestock](https://github.com/gibfahn)
 1. [Hassan Sani](https://github.com/inidaname)
 1. [Jan Krems](https://github.com/jkrems)
+1. [Jeremiah Senkpiel](https://github.com/fishrock123)
 1. [Joyee Cheung](https://github.com/joyeecheung)
 1. [Lin Clark](https://github.com/linclark)
 1. [Liv Hugger](https://github.com/oe) (Organizer)
@@ -100,6 +101,7 @@ be joining.
 1. [Daniel Bevenius](https://github.com/danbev) - no dietary restrictions
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Jan Krems](https://github.com/jkrems) - no dietary restrictions
+1. [Jeremiah Senkpiel](https://github.com/fishrock123) - minimal dietary restrictions
 1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
 1. [Liv Hugger](https://github.com/oe) - no fish
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
