@@ -95,6 +95,7 @@ be joining.
 1. [Anna Henningsen](https://github.com/addaleax) - vegetarian
 1. [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 1. [Dan Shaw](https://github.com/dshaw) - ?
+1. [Daniel Bevenius](https://github.com/danbev) - no dietary restrictions
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
