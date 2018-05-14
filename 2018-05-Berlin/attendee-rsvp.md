@@ -97,6 +97,7 @@ be joining.
 1. [Dan Shaw](https://github.com/dshaw) - ?
 1. [Daniel Bevenius](https://github.com/danbev) - no dietary restrictions
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
+1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 1. [Matteo Collina](https://github.com/mcollina) - ?
