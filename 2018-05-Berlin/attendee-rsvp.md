@@ -35,6 +35,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Jan Krems](https://github.com/jkrems)
 1. [Joyee Cheung](https://github.com/joyeecheung)
 1. [Lin Clark](https://github.com/linclark)
+1. [Liv Hugger](https://github.com/oe) (Organizer)
 1. [Manil Chowdhury](https://github.com/chowdhurian)
 1. [Mark Hinkle](https://github.com/mrhinkle) (Node Foundation)
 1. [Matteo Collina](https://github.com/mcollina) (Organizer)
@@ -42,7 +43,6 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Michaël Zasso](https://github.com/targos)
 1. [Myles Borins](https://github.com/MylesBorins) (Organizer)
 1. [Nicola Del Gobbo](https://github.com/NickNaso)
-1. [olivia](https://github.com/oe) (Organizer)
 1. [Rachel White](https://github.com/rachelnicole)- MAYBE
 1. [Rich Trott](https://github.com/Trott)
 1. [Richard Littauer](https://github.com/RichardLitt)- MAYBE
@@ -100,13 +100,13 @@ be joining.
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Jan Krems](https://github.com/jkrems) - no dietary restrictions
 1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
+1. [Liv Hugger](https://github.com/oe) - no fish
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 1. [Matteo Collina](https://github.com/mcollina) - ?
 1. [Michael Dawson](https://github.com/mhdawson) - no dietary restrictions
 1. [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
-1. [olivia](https://github.com/oe) - ?
 1. [Rich Trott](https://github.com/Trott) - no dietary restrictions
 1. [Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
 1. [Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
