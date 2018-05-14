@@ -118,3 +118,4 @@ be joining.
 1. [Abraham Agiri Jr](https://github.com/codeekage) - no dietary restrictions
 1. [Zeke Sikelianos](https://github.com/zeke) - vegetarian
 1. [Vladimir de Turckheim](https://github.com/vdeturckheim) - no dietary restrictions
+1. [Anatoli Papirovski](https://github.com/apapirovski) - no dietary restrictions
