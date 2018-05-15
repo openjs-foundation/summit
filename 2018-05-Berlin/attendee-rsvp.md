@@ -48,7 +48,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Myles Borins](https://github.com/MylesBorins) (Organizer)
 1. [Nicola Del Gobbo](https://github.com/NickNaso)
 1. [Peter Marshall](https://github.com/psmarshall)
-1. [Rachel White](https://github.com/rachelnicole)- MAYBE
+1. [Rachel White](https://github.com/rachelnicole)
 1. [Rich Trott](https://github.com/Trott)
 1. [Richard Littauer](https://github.com/RichardLitt)- MAYBE
 1. [Ruben Bridgewater](https://github.com/BridgeAR)
@@ -130,6 +130,7 @@ be joining.
 1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
 1. [Nicola Del Gobbo](https://github.com/NickNaso) - no dietary restrictions
 1. [Peter Marshall](https://github.com/psmarshall) - no dietary restrictions
+1. [Rachel White](https://github.com/rachelnicole)
 1. [Rich Trott](https://github.com/Trott) - no dietary restrictions
 1. [Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
 1. [Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
