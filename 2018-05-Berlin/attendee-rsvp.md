@@ -41,10 +41,12 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Manil Chowdhury](https://github.com/chowdhurian)
 1. [Mark Hinkle](https://github.com/mrhinkle) (Node Foundation)
 1. [Matteo Collina](https://github.com/mcollina) (Organizer)
+1. [Maya Lekova](MayaLekova)
 1. [Michael Dawson](https://github.com/mhdawson)
 1. [Michaël Zasso](https://github.com/targos)
 1. [Myles Borins](https://github.com/MylesBorins) (Organizer)
 1. [Nicola Del Gobbo](https://github.com/NickNaso)
+1. [Peter Marshall](https://github.com/psmarshall)
 1. [Rachel White](https://github.com/rachelnicole)- MAYBE
 1. [Rich Trott](https://github.com/Trott)
 1. [Richard Littauer](https://github.com/RichardLitt)- MAYBE
@@ -101,6 +103,7 @@ be joining.
 1. [Anatoli Papirovski](https://github.com/apapirovski) - no dietary restrictions
 1. [Anna Henningsen](https://github.com/addaleax) - vegetarian
 1. [Adam Miller](https://github.com/amiller-gh) - no dietary restrictions
+1. [Benedikt Meurer](https://github.com/bmeurer) - no pork, no wheat, no sugar
 1. [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 1. [Bryan English](https://github.com/bengl) - no dietary restrictions
 1. [Dan Shaw](https://github.com/dshaw) - ?
@@ -116,9 +119,11 @@ be joining.
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 1. [Matteo Collina](https://github.com/mcollina) - ?
+1. [Maya Lekova](MayaLekova) - no dietary restrictions
 1. [Michael Dawson](https://github.com/mhdawson) - no dietary restrictions
 1. [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
+1. [Peter Marshall](https://github.com/psmarshall) - no dietary restrictions
 1. [Rich Trott](https://github.com/Trott) - no dietary restrictions
 1. [Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
 1. [Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
@@ -134,3 +139,4 @@ be joining.
 1. [Zeke Sikelianos](https://github.com/zeke) - vegetarian
 1. [Vladimir de Turckheim](https://github.com/vdeturckheim) - no dietary restrictions
 1. [Ali Ijaz Sheikh](https://github.com/ofrobots) - allergies to shellfish, no pork
+1. [Yang Guo](https://github.com/hashseed) - no dietary restrictions
