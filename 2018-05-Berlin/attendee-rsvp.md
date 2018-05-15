@@ -126,6 +126,7 @@ be joining.
 1. [Michael Dawson](https://github.com/mhdawson) - no dietary restrictions
 1. [Michaël Zasso](https://github.com/targos) - no dietary restrictions
 1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
+1. [Nicola Del Gobbo](https://github.com/NickNaso) - no dietary restrictions
 1. [Peter Marshall](https://github.com/psmarshall) - no dietary restrictions
 1. [Rich Trott](https://github.com/Trott) - no dietary restrictions
 1. [Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
