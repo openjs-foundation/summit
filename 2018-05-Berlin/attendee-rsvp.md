@@ -89,6 +89,9 @@ AM HACKESCHEN MARKT
 DIRCKSENSTR. 143
 10178 BERLIN-MITTE
 ```
+[Google Maps :round_pushpin:](https://goo.gl/8uFWUX)
+
+[Google Maps Direction from Venue :arrow_double_up:](https://goo.gl/a2JxXk)
 
 Please list if you have dietary restrictions below and submit a PR if you will
 be joining.
