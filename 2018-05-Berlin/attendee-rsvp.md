@@ -42,6 +42,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Manil Chowdhury](https://github.com/chowdhurian)
 1. [Mark Hinkle](https://github.com/mrhinkle) (Node Foundation)
 1. [Mark Marron](https://github.com/mrkmarron)
+1. [Mathias Buus)(https://github.com/mafintosh)
 1. [Matteo Collina](https://github.com/mcollina) (Organizer)
 1. [Maya Lekova](https://github.com/MayaLekova)
 1. [Michael Dawson](https://github.com/mhdawson)
@@ -125,6 +126,7 @@ be joining.
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
 1. [Mark Marron](https://github.com/mrkmarron) - no dietary restrictions
+1. [Mathias Buus](https://github.com/mafintosh) - allergies to shellfish
 1. [Matteo Collina](https://github.com/mcollina) - ?
 1. [Maya Lekova](https://github.com/MayaLekova) - no dietary restrictions
 1. [Michael Dawson](https://github.com/mhdawson) - no dietary restrictions
