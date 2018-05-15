@@ -23,6 +23,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Benedikt Meurer](https://github.com/bmeurer)
 1. [Benjamin Gruenbaum](https://github.com/benjamingr)
 1. [Benjamin Zaslavsky](https://github.com/Tiriel)
+1. [Beth Griggs](http://github.com/bethgriggs)
 1. [Bryan English](https://github.com/bengl)
 1. [Dan Shaw](https://github.com/dshaw) (Organizer)
 1. [Danese Cooper](https://github.com/Danese)
@@ -100,9 +101,11 @@ be joining.
 
 ### Guests
 
+1. [Abraham Agiri Jr](https://github.com/codeekage) - no dietary restrictions
+1. [Adam Miller](https://github.com/amiller-gh) - no dietary restrictions
+1. [Ali Ijaz Sheikh](https://github.com/ofrobots) - allergies to shellfish, no pork
 1. [Anatoli Papirovski](https://github.com/apapirovski) - no dietary restrictions
 1. [Anna Henningsen](https://github.com/addaleax) - vegetarian
-1. [Adam Miller](https://github.com/amiller-gh) - no dietary restrictions
 1. [Benedikt Meurer](https://github.com/bmeurer) - no pork, no wheat, no sugar
 1. [Benjamin Zaslavsky](https://github.com/Tiriel) - allergies to shellfishes
 1. [Bryan English](https://github.com/bengl) - no dietary restrictions
@@ -134,9 +137,7 @@ be joining.
 1. [Tobias Nießen](https://github.com/tniessen) - no dietary restrictions
 1. [Tracy Hinds](https://github.com/hackygolucky) - ?
 1. [Ujjwal Sharma](https://github.com/ryzokuken) - vegetarian
-1. [Yunong Xiao](https://github.com/yunong) - no dietary restrictions
-1. [Abraham Agiri Jr](https://github.com/codeekage) - no dietary restrictions
-1. [Zeke Sikelianos](https://github.com/zeke) - vegetarian
 1. [Vladimir de Turckheim](https://github.com/vdeturckheim) - no dietary restrictions
-1. [Ali Ijaz Sheikh](https://github.com/ofrobots) - allergies to shellfish, no pork
 1. [Yang Guo](https://github.com/hashseed) - no dietary restrictions
+1. [Yunong Xiao](https://github.com/yunong) - no dietary restrictions
+1. [Zeke Sikelianos](https://github.com/zeke) - vegetarian
