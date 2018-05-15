@@ -132,7 +132,7 @@ be joining.
 1. [Myles Borins](https://github.com/MylesBorins) - no dietary restrictions
 1. [Nicola Del Gobbo](https://github.com/NickNaso) - no dietary restrictions
 1. [Peter Marshall](https://github.com/psmarshall) - no dietary restrictions
-1. [Rachel White](https://github.com/rachelnicole)
+1. [Rachel White](https://github.com/rachelnicole) - no dietary restrictions
 1. [Rich Trott](https://github.com/Trott) - no dietary restrictions
 1. [Ruben Bridgewater](https://github.com/BridgeAR) - vegetarian
 1. [Shelley Vohr](https://github.com/codebytere) - no dietary restrictions
