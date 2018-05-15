@@ -103,6 +103,7 @@ be joining.
 
 1. [Abraham Agiri Jr](https://github.com/codeekage) - no dietary restrictions
 1. [Adam Miller](https://github.com/amiller-gh) - no dietary restrictions
+1. [Addison Berry](https://github.com/add1sun) - no dietary restrictions
 1. [Ali Ijaz Sheikh](https://github.com/ofrobots) - allergies to shellfish, no pork
 1. [Anatoli Papirovski](https://github.com/apapirovski) - no dietary restrictions
 1. [Anna Henningsen](https://github.com/addaleax) - vegetarian
