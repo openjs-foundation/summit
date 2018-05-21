@@ -68,6 +68,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Yosuke Furukawa](https://github.com/yosuke-furukawa)
 1. [Yunong Xiao](https://github.com/yunong)
 1. [Zeke Sikelianos](https://github.com/zeke)
+1. [Yoshua Wuyts](https://github.com/yoshuawuyts)
 
 ### Attendees Remote
 
@@ -149,3 +150,4 @@ be joining.
 1. [Yang Guo](https://github.com/hashseed) - no dietary restrictions
 1. [Yunong Xiao](https://github.com/yunong) - no dietary restrictions
 1. [Zeke Sikelianos](https://github.com/zeke) - vegetarian
+1. [Yoshua Wuyts](https://github.com/yoshuawuyts) - no clams
