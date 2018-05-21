@@ -116,6 +116,7 @@ be joining.
 1. [Daniel Bevenius](https://github.com/danbev) - no dietary restrictions
 1. [Dhruv Jain](https://github.com/maddhruv) - vegetarian
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
+1. [Hassan Sani](https://github.com/inidaname) - no alcohol, no pork
 1. [Jan Krems](https://github.com/jkrems) - no dietary restrictions
 1. [Jeremiah Senkpiel](https://github.com/fishrock123) - minimal dietary restrictions
 1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
