@@ -30,6 +30,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Daniel Bevenius](https://github.com/danbev)
 1. [Daniel Ehrenberg](https://github.com/littledan)
 1. [Dhruv Jain](https://github.com/maddhruv)
+1. [Emil Bay](https://github.com/emilbayes)
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Gibson Fahnestock](https://github.com/gibfahn)
 1. [Hassan Sani](https://github.com/inidaname)
@@ -116,6 +117,7 @@ be joining.
 1. [Dan Shaw](https://github.com/dshaw) - ?
 1. [Daniel Bevenius](https://github.com/danbev) - no dietary restrictions
 1. [Dhruv Jain](https://github.com/maddhruv) - vegetarian
+1. [Emil Bay](https://github.com/emilbayes)
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Hassan Sani](https://github.com/inidaname) - no alcohol, no pork
 1. [Jan Krems](https://github.com/jkrems) - no dietary restrictions
