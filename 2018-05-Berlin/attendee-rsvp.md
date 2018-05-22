@@ -48,6 +48,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Maya Lekova](https://github.com/MayaLekova)
 1. [Michael Dawson](https://github.com/mhdawson)
 1. [Michaël Zasso](https://github.com/targos)
+1. [Mike Samuel](https://github.com/mikesamuel)
 1. [Myles Borins](https://github.com/MylesBorins) (Organizer)
 1. [Nicola Del Gobbo](https://github.com/NickNaso)
 1. [Peter Marshall](https://github.com/psmarshall)
