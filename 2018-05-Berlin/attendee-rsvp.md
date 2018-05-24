@@ -34,6 +34,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Gibson Fahnestock](https://github.com/gibfahn)
 1. [Hassan Sani](https://github.com/inidaname)
+1. [Irina Shestak](https://github.com/lrlna)
 1. [Jan Krems](https://github.com/jkrems)
 1. [Jeremiah Senkpiel](https://github.com/fishrock123)
 1. [Joyee Cheung](https://github.com/joyeecheung)
@@ -121,6 +122,7 @@ be joining.
 1. [Emil Bay](https://github.com/emilbayes)
 1. [Franziska Hinkelmann](https://github.com/fhinkel)
 1. [Hassan Sani](https://github.com/inidaname) - no alcohol, no pork
+1. [Irina Shestak](https://github.com/lrlna) - no beef
 1. [Jan Krems](https://github.com/jkrems) - no dietary restrictions
 1. [Jeremiah Senkpiel](https://github.com/fishrock123) - minimal dietary restrictions
 1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
