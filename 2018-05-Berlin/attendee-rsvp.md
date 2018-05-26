@@ -128,7 +128,6 @@ be joining.
 1. [Jeremiah Senkpiel](https://github.com/fishrock123) - minimal dietary restrictions
 1. [Joyee Cheung](https://github.com/joyeecheung) - no dietary restrictions
 1. [Lin Clark](https://github.com/linclark) - no dietary restrictions
-1. [Liv Hugger](https://github.com/oe) - no fish
 1. [Luke Wagner](https://github.com/lukewagner) - no dietary restrictions
 1. [Manil Chowdhury](https://github.com/chowdhurian) - vegetarian
 1. [Mark Hinkle](https://github.com/mrhinkle) - no dietary restrictions
