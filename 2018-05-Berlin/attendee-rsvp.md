@@ -12,7 +12,6 @@ __PLEASE ADD YOURSELF ALPHABETICALLY :D__
 
 If you will be in Berlin to attend the Collaborator's Summit - add your name.
 
-1. [Abraham Agiri Jr.](https://github.com/codeekage)
 1. [Adam Miller](https://github.com/amiller-gh)
 1. [Addison Berry](https://github.com/add1sun)
 1. [Ali Ijaz Sheikh](https://github.com/ofrobots)
@@ -107,7 +106,6 @@ be joining.
 
 ### Guests
 
-1. [Abraham Agiri Jr](https://github.com/codeekage) - no dietary restrictions
 1. [Adam Miller](https://github.com/amiller-gh) - no dietary restrictions
 1. [Addison Berry](https://github.com/add1sun) - no dietary restrictions
 1. [Ali Ijaz Sheikh](https://github.com/ofrobots) - allergies to shellfish, no pork
