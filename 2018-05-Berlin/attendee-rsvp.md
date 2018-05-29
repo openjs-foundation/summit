@@ -86,6 +86,7 @@ you have any questions!
 1. [Matheus Marchini](https://github.com/mmarchini)
 1. [Trivikram Kamat](https://github.com/trivikr)
 1. [Jon Moss](https://github.com/maclover7)
+1. [Waleed Ashraf](https://github.com/waleedashraf)
 
 # Node Collaborator’s Dinner - 2018-05-31, 7pm
 
