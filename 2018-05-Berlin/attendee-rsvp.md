@@ -72,6 +72,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Yunong Xiao](https://github.com/yunong)
 1. [Zeke Sikelianos](https://github.com/zeke)
 1. [Yoshua Wuyts](https://github.com/yoshuawuyts)
+1. [Ryan Dahl](https://github.com/ry)
 
 ### Attendees Remote
 
