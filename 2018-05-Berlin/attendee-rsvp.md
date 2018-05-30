@@ -56,6 +56,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Rachel White](https://github.com/rachelnicole)
 1. [Rich Trott](https://github.com/Trott)
 1. [Ruben Bridgewater](https://github.com/BridgeAR)
+1. [Ryan Dahl](https://github.com/ry)
 1. [Shelley Vohr](https://github.com/codebytere)
 1. [Stephen Belanger](https://github.com/Qard)
 1. [Thomas Watson](https://github.com/watson)
