@@ -36,6 +36,7 @@ If you will be in Berlin to attend the Collaborator's Summit - add your name.
 1. [Hassan Sani](https://github.com/inidaname)
 1. [Irina Shestak](https://github.com/lrlna)
 1. [Jan Krems](https://github.com/jkrems)
+1. [Jason Miller](https://github.com/developit)
 1. [Jeremiah Senkpiel](https://github.com/fishrock123)
 1. [Joyee Cheung](https://github.com/joyeecheung)
 1. [Lin Clark](https://github.com/linclark)
