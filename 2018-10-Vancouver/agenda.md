@@ -1,6 +1,6 @@
 # Collaborator Summit Vancouver 2018 - October 12th and 13th 2018
 
-We are back with the date for the Node.js Collaborator Summit in Vancouver next to JS Interactive (which is on October 10th and 11th, 2018).
+We are back with the date for the Node.js Collaborator Summit in Vancouver next to Node+JS Interactive (which is on October 10th and 11th, 2018).
 This is a live issue that will be constantly updated to match the proposed agenda.
 
 
@@ -39,11 +39,11 @@ _We are expecting 300 people to participate_.
 | 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  |
 | 3:30          | Main         | Free                                          |                                        | |
 | 3:30          | Main         | Free                                          |                                        | |
-| 3:30          | Breakout 1   | Diagnostics                                   | @yunong                                | |
+| 3:30          | Breakout 1   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 |
 | 3:30          | Breakout 2   | Promises                                      | @BridgeAR                              | |
 
 
-_If you want to speak and present a topic in the main room, feel free to reply to this issue with a title and abstract. If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86_.
+_If you want to speak and present a topic in the main room, feel free to make a pull request to update this document with a title and abstract. If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86_.
 
 
 ## Collaborator Summit Day Two: October 13th, 2018
@@ -67,12 +67,12 @@ _We are expecting 70-100 people to partecipate__.
 | 8:00          |              | Breakfast and registration                                          |                               |                                            |
 | 9:00          | Main         | Intro, Code of Conduct                                              | @mcollina @dshaw @chowdhurian |                                            |
 | 9:15          | Main         | Modules                                                             | @MylesBorins                  | https://github.com/nodejs/modules/issues/177 | 
-| 9:15          | Breakout 1   | Website Redesign                                                    | @AdamMiller                   | https://github.com/nodejs/website-redesign/issues/88 |
+| 9:15          | Breakout 1   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 |
 | 9:15          | Breakout 2   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 |
 | 10:45         |              | __Coffee Break__                                                    |                               |  |
 | 11:00         | Main         | Streams (tentative)                                                 | @mcollina                     |
 | 11:00         | Breakout 1   | i18n (tentative)                                                    | ?                             | ? |
-| 11:00         | Breakout 2   | N-API                                                               | @mhdawson                     |                              | |
+| 11:00         | Breakout 2   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
 | 12:30         |              | __Lunch__                                                           |                               | |
 | 1:30          | Main         | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
 | 1:30          | Breakout 1   | Free / Hacking Room / Fixathon                                      |                               | |
@@ -123,8 +123,7 @@ PLEASE follow the instructions for application to receive travel funds [HERE](ht
 
   
 ------------------------
-  
-@nodejs/collaborators @nodejs/tsc @nodejs/community-committee 
+
 
 We should figure out what topics we want to cover. 
 We think we will be best served with some monotrack presentations and discussions in the first day, and then breakout rooms in the second day. __We can change everything__, so if you think a better structure will suit us better, let us know! 
