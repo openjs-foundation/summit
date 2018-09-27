@@ -71,7 +71,7 @@ _We are expecting 70-100 people to partecipate__.
 | 9:15          | Breakout 2   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 |
 | 10:45         |              | __Coffee Break__                                                    |                               |  |
 | 11:00         | Main         | Streams (tentative)                                                 | @mcollina                     |
-| 11:00         | Breakout 1   | i18n (tentative)                                                    | ?                             | ? |
+| 11:00         | Breakout 1   | i18n                                                    | @obensource                             | https://github.com/nodejs/i18n/issues/164 |
 | 11:00         | Breakout 2   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
 | 12:30         |              | __Lunch__                                                           |                               | |
 | 1:30          | Main         | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
@@ -84,7 +84,7 @@ _We are expecting 70-100 people to partecipate__.
 |               |              | Academic perspectives on Node.js | @davisjam |
 | 4:00          | Main         | __Session presentations, group photo, and thanks!__                 | |
 
-
+f
 
 _If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86._
 
