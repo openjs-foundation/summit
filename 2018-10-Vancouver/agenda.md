@@ -37,7 +37,7 @@ _We are expecting 300 people to participate_.
 | 3:30          | Main         | Moderation                                    | @hackygolucky                          | |
 | 3:30          | Main         | Mentorship                                    | @Bamieh                                | |
 | 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  |
-| 3:30          | Main         | Free                                          |                                        | |
+| 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 |
 | 3:30          | Main         | Free                                          |                                        | |
 | 3:30          | Breakout 1   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 |
 | 3:30          | Breakout 2   | Promises                                      | @BridgeAR                              | |
