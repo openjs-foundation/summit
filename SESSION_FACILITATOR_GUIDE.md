@@ -15,7 +15,8 @@ The new learnings and tools from a summit will ideally be PR'd in when each is c
 - [ ] Have a person be take charge of each tool being used for the session. For a full list of tools see below.
 - [ ] Go to Zoom, start the call.
 - [ ] In Zoom, make sure the link to the zoom session is posted on the relevant thread in [nodejs/summit](https://github.com/nodejs/summit/issues/).
-- [ ] In Zoom, start recording the session.
+- [ ] In Zoom, start recording the session. If the available Zoom accounts are maxed out, use Hangouts.
+- 
 - [ ] (Optional) Go to [Otter](https://otter.ai), start recording the audio.
 
 ## 🛠 tools for effective sessions
@@ -30,3 +31,4 @@ The new learnings and tools from a summit will ideally be PR'd in when each is c
 - [ ] Chair/facilitator syncs up with participants and note-takers.
 - [ ] Action items are posted as a comment in summit issues and linked to in the relevant repos.
 - [ ] Relevant teams and working groups are pinged using Github mentions. Note that teams not originally involved in the session may now need to be looped in if it became relevant during the session.
+- [ ] (optional) If your sessions were not automatically published to youtube, please do that
