@@ -6,17 +6,17 @@ The new learnings and tools from a summit will ideally be PR'd in when each is c
 🎉 Lists are included 🎉
 
 ## 📅 in the days leading up to the session
-- [ ] If applicable, port the agenda into [tcq](https://tcq.app/)
 - [ ] Set a chair/facilitator for the session
+- [ ] (optional) if your session is open ended where a broader issue is discussed, you may choose to prepare [tcq](https://tcq.app/) to facilitate discussion
 
 ## 🛫 pre-flight checklist (when about to begin the session)
-- [ ]  If not pre-arranged, find consensus on a chair for the session. Scheduled sessions are likely to already have a facilitator/chair. Ad-hoc sessions will need someone to make sure everyone walks out of the room with actionable items.
+- [ ] The facilitator is the person whose name is listed in the agenda. Facilitators will need to make sure the group walks out of the room with actionable items.
 - [ ] If not pre-arranged, ask the table for volunteer note taker.
 - [ ] Have a person be take charge of each tool being used for the session. For a full list of tools see below.
 - [ ] Go to Zoom, start the call.
 - [ ] In Zoom, make sure the link to the zoom session is posted on the relevant thread in [nodejs/summit](https://github.com/nodejs/summit/issues/).
 - [ ] In Zoom, start recording the session.
-- [ ] Go to Otter, start recording the audio.
+- [ ] (Optional) Go to [Otter](https://otter.ai), start recording the audio.
 
 ## 🛠 tools for effective sessions
 
@@ -29,3 +29,4 @@ The new learnings and tools from a summit will ideally be PR'd in when each is c
 
 - [ ] Chair/facilitator syncs up with participants and note-takers.
 - [ ] Action items are posted as a comment in summit issues and linked to in the relevant repos.
+- [ ] Relevant teams and working groups are pinged using Github mentions. Note that teams not originally involved in the session may now need to be looped in if it became relevant during the session.
