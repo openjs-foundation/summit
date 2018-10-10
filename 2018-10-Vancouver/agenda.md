@@ -57,7 +57,7 @@ We have 3 rooms available:
 - 1 main room with 100 people capacity.
 - 2 rooms for 50 people each. (Breakout 1 and Breakout 2)
 
-__We are expecting 70-100 people to partecipate__.
+_We are expecting 70-100 people to participate_.
 
 <br>
 
