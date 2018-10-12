@@ -41,7 +41,8 @@ _We are expecting 300 people to participate_.
 | 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 |
 | 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   |
 | 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 |
-| 3:30          | Breakout 2 (Room 121)   | Free |                               | |
+| 3:30          | Breakout 2 (Room 121)   | Free                              |                             | 
+| 5:00          | Breakout 3 (Meet in Main BallRoom A at back)   | Node Optimizations              | @ssuresh , @uttampawar ||
 
 
 _If you want to speak and present a topic in the main room, feel free to make a pull request to update this document with a title and abstract. If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86_.
