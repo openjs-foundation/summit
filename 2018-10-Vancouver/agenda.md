@@ -76,7 +76,7 @@ _We are expecting 70-100 people to participate_.
 | 12:30         |              | __Lunch__                                                           |                               | |
 | 1:30          | Main         | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
 | 1:30          | Breakout 2 (Room 121)   | Free / Hacking Room / Fixathon                                      |                               | |
-| 2:30          | Main         | Streams                                                             | @mcollina                     |
+| 2:30          | Main         | Streams                                                             | @mcollina                     | https://github.com/nodejs/summit/issues/110 |
 | 2:30          | Breakout 1 (Room 118)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
 | 3:45          |              | __Break__                                                           |                               | |
 | 4:00          | Main         | __Lighting talks__                                                  |                               | |
