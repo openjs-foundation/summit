@@ -77,9 +77,8 @@ _We are expecting 70-100 people to participate_.
 | 11:00         | Breakout 2 (Room 121)   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
 | 12:30         |              | __Lunch__                                                           |                               | |
 | 1:30          | Main         | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
-| 1:30          | Breakout 2 (Room 121)   | Free / Hacking Room / Fixathon                                      |                               | |
+| 1:30 - 3:00   | Breakout 1 (Room 118)   | Open standards & Web compatibility                       |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
 | 2:30          | Main         | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
-| 2:30          | Breakout 1 (Room 118)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
 | 3:45          |              | __Break__                                                           |                               | |
 | 4:00          | Main         | __Lighting talks__                                                  |                               | |
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | |
