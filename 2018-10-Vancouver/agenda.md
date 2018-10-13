@@ -80,7 +80,7 @@ _We are expecting 70-100 people to participate_.
 | 1:30 - 2:45   | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                 |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
 | 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
 | 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
-| 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
+| 2:45 - 3:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
 | 2:45 - 3:45   | Breakout 2 (Room 119)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 |
 | 3:45          |              | __Break__                                                           |                               | |
 | 4:00          | Main (Room 121)        | __Lightning talks__                                                  |                               | |
