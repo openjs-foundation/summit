@@ -74,14 +74,14 @@ _We are expecting 70-100 people to participate_.
 | 10:45         |              | __Coffee Break__                                                    |                               |  |
 | 11:00 - 12:30 | Main (Room 121)        | Promises                                      | @BridgeAR                              | |
 | 11:00 - 12:30 | Breakout 1 (Room 118)        | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
-| 11:00 - 12:30 | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
+| 11:00 - 12:30 | Breakout 2 (Room 119)   | Free | | |
 | 12:30 - 1:30  |              | __Lunch__                                                           |                               | |
 | 1:30 - 2:45   | Main (Room 121)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
 | 1:30 - 12:30 | Breakout 1 (Room 118)   | Free | | |
 | 1:30 - 2:45   | Breakout 2 (Room 119)   | Free / Hacking Room / Fixathon                                      |                               | |
 | 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
 | 2:45 - 3:45   | Breakout 1 (Room 118)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 |
-| 2:45 - 3:45   | Breakout 2 (Room 119)   | Free | | |
+| 2:45 - 3:45   | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
 | 3:45          |              | __Break__                                                           |                               | |
 | 4:00          | Main (Room 121)        | __Lighting talks__                                                  |                               | |
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | |
