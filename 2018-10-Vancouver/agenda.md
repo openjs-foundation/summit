@@ -26,23 +26,23 @@ _We are expecting 300 people to participate_.
 <br>
 
 
-| Time          | Place        | Topic                                         | Speakers/Champions                     | Issue                                      |
-|---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|
-| 1:00          | Main         | Intro, Sponsor Talk, Code of Conduct          | @mcollina @dshaw @chowdhurian          |                                            |
-| 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 |
-| 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 |
-| 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 |
-| 2:00          | Main         | Merger presentation & open forum              | @MylesBorins                           | |
-| 2:45          |              | Break                                         |                                        | |
-| 3:15          | Main         | Session presentation, set up the Main room    | @mcollina @dshaw @chowdhurian          | |
-| 3:30          | Main         | Moderation                                    | @hackygolucky                          | |
-| 3:30          | Main         | Mentorship                                    | @Bamieh                                | |
-| 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  |
-| 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 |
-| 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   |
-| 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 |
-| 3:30          | Breakout 2 (Room 121)   | Free                              |                             | 
-| 5:00          | Breakout 3 (Meet in Main BallRoom A at back)   | Node Optimizations              | @ssuresh , @uttampawar ||
+| Time          | Place        | Topic                                         | Speakers/Champions                     | Issue                                      | Slides                                    |
+|---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
+| 1:00          | Main         | Intro, Sponsor Talk, Code of Conduct          | @mcollina @dshaw @chowdhurian          |                                            | |
+| 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 | |
+| 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | |
+| 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | |
+| 2:00          | Main         | Merger presentation & open forum              | @MylesBorins                           | | |
+| 2:45          |              | Break                                         |                                        | | |
+| 3:15          | Main         | Session presentation, set up the Main room    | @mcollina @dshaw @chowdhurian          | | |
+| 3:30          | Main         | Moderation                                    | @hackygolucky                          | | |
+| 3:30          | Main         | Mentorship                                    | @Bamieh                                | | |
+| 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  | |
+| 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 | |
+| 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   | |
+| 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 | |
+| 3:30          | Breakout 2 (Room 121)   | Free                              |                             |  |
+| 5:00          | Breakout 3 (Meet in Main BallRoom A at back)   | Node Optimizations              | @ssuresh , @uttampawar || |
 
 
 _If you want to speak and present a topic in the main room, feel free to make a pull request to update this document with a title and abstract. If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86_.
@@ -64,31 +64,31 @@ _We are expecting 70-100 people to participate_.
 <br>
 
 
-| Time          | Place        | Topic                                                               | Speakers/Champions            | Issue                                      |
-|---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|
-| 8:00          |              | Breakfast and registration                                          |                               |                                            |
-| 9:00          | Main (Room 121)        | Intro, Code of Conduct                                              | @mcollina @dshaw @chowdhurian |                                            |
-| 9:15 - 10:45  | Main (Room 121)        | Modules                                                             | @MylesBorins                  | https://github.com/nodejs/modules/issues/177 |
-| 9:15 - 10:45  | Breakout 1 (Room 118)   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 |
-| 9:15 - 10:45  | Breakout 2 (Room 119)   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 |
-| 10:45         |              | __Coffee Break__                                                    |                               |  |
-| 11:00 - 12:30 | Main (Room 121)        | Promises                                      | @BridgeAR                              | |
-| 11:00 - 12:30 | Breakout 1 (Room 118)        | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
+| Time          | Place        | Topic                                                               | Speakers/Champions            | Issue                                      | Slides                                    |
+|---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------------------|
+| 8:00          |              | Breakfast and registration                                          |                               |                                            | |
+| 9:00          | Main (Room 121)        | Intro, Code of Conduct                                              | @mcollina @dshaw @chowdhurian |                                            | |
+| 9:15 - 10:45  | Main (Room 121)        | Modules                                                             | @MylesBorins                  | https://github.com/nodejs/modules/issues/177 | |
+| 9:15 - 10:45  | Breakout 1 (Room 118)   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 | |
+| 9:15 - 10:45  | Breakout 2 (Room 119)   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 | |
+| 10:45         |              | __Coffee Break__                                                    |                               |  | |
+| 11:00 - 12:30 | Main (Room 121)        | Promises                                      | @BridgeAR                              | | |
+| 11:00 - 12:30 | Breakout 1 (Room 118)        | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  | |
 | 11:00 - 12:30 | Breakout 2 (Room 119)   | Free | | |
-| 12:30 - 1:30  |              | __Lunch__                                                           |                               | |
-| 1:30 - 2:45   | Main (Room 121)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
-| 1:30 - 2:45   | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                 |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
-| 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
-| 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
-| 2:45 - 3:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
-| 2:45 - 3:45   | Breakout 2 (Room 119)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 |
-| 3:45          |              | __Break__                                                           |                               | |
-| 4:00          | Main (Room 121)        | __Lightning talks__                                                  |                               | |
-|               |              | Deep dive on Timers                                                 | @apapirovski                  | |
-|               |              | Diagnostics at Netflix                                              | @hekike                       | |
-|               |              | Academic perspectives on Node.js | @davisjam |
-|               |              | Navigating Node.js C++ code | @addaleax | |
-| 4:30          | Main (Room 121)         | __Session presentations, group photo, and thanks!__                 | |
+| 12:30 - 1:30  |              | __Lunch__                                                           |                               | | |
+| 1:30 - 2:45   | Main (Room 121)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 | |
+| 1:30 - 2:45   | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                 |  https://github.com/nodejs/abi-stable-node/issues/339                              || |
+| 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | | |
+| 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 | |
+| 2:45 - 3:45   | Breakout 1 (Room 118)   | Governance                                       |                               | | |
+| 2:45 - 3:45   | Breakout 2 (Room 119)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 | |
+| 3:45          |              | __Break__                                                           |                               | | |
+| 4:00          | Main (Room 121)        | __Lightning talks__                                                  |                               | | |
+|               |              | Deep dive on Timers                                                 | @apapirovski                  | | |
+|               |              | Diagnostics at Netflix                                              | @hekike                       | | |
+|               |              | Academic perspectives on Node.js | @davisjam | |
+|               |              | Navigating Node.js C++ code | @addaleax | | |
+| 4:30          | Main (Room 121)         | __Session presentations, group photo, and thanks!__                 | | |
 
 
 _If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86._
