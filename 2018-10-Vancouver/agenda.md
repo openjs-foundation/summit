@@ -31,7 +31,7 @@ _We are expecting 300 people to participate_.
 | 1:00          | Main         | Intro, Sponsor Talk, Code of Conduct          | @mcollina @dshaw @chowdhurian          |                                            | |
 | 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 | |
 | 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | |
-| 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | [automation_of_nodejs_workflows.pdf](https://github.com/joyeecheung/talks/blob/master/node_js_interactive_2018/automation_of_nodejs_workflows.pdf) |
+| 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | [automation-of-nodejs-workflows](https://github.com/joyeecheung/talks/blob/master/node_js_interactive_2018/automation_of_nodejs_workflows.pdf) |
 | 2:00          | Main         | Merger presentation & open forum              | @MylesBorins                           | | |
 | 2:45          |              | Break                                         |                                        | | |
 | 3:15          | Main         | Session presentation, set up the Main room    | @mcollina @dshaw @chowdhurian          | | |
