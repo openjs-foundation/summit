@@ -82,7 +82,7 @@ _We are expecting 70-100 people to participate_.
 | 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
 | 2:45 - 3:45   | Breakout 1 (Room 118)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 |
 | 3:45          |              | __Break__                                                           |                               | |
-| 4:00          | Main (Room 121)        | __Lighting talks__                                                  |                               | |
+| 4:00          | Main (Room 121)        | __Lightning talks__                                                  |                               | |
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | |
 |               |              | Diagnostics at Netflix                                              | @hekike                       | |
 |               |              | Academic perspectives on Node.js | @davisjam |
