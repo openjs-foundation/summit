@@ -56,8 +56,8 @@ _If you want to speak and present a topic in the main room, feel free to make a 
 
 We have 3 rooms available:
 
-- 1 main room with 100 people capacity.
-- 2 rooms for 50 people each. (Breakout 1 (Room 118) and Breakout 2 (Room 121))
+- 1 main room with 100 people capacity (Room 121).
+- 2 rooms for 50 people each. (Breakout 1 (Room 118) and Breakout 2 (Room 119))
 
 _We are expecting 70-100 people to participate_.
 
@@ -67,25 +67,25 @@ _We are expecting 70-100 people to participate_.
 | Time          | Place        | Topic                                                               | Speakers/Champions            | Issue                                      |
 |---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|
 | 8:00          |              | Breakfast and registration                                          |                               |                                            |
-| 9:00          | Main         | Intro, Code of Conduct                                              | @mcollina @dshaw @chowdhurian |                                            |
-| 9:15          | Main         | Modules                                                             | @MylesBorins                  | https://github.com/nodejs/modules/issues/177 | 
+| 9:00          | Main (Room 121)        | Intro, Code of Conduct                                              | @mcollina @dshaw @chowdhurian |                                            |
+| 9:15          | Main (Room 121)        | Modules                                                             | @MylesBorins                  | https://github.com/nodejs/modules/issues/177 | 
 | 9:15          | Breakout 1 (Room 118)   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 |
-| 9:15          | Breakout 2 (Room 121)   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 |
+| 9:15          | Breakout 2 (Room 119)   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 |
 | 10:45         |              | __Coffee Break__                                                    |                               |  |
-| 11:00         | Main         | Promises                                      | @BridgeAR                              | |
+| 11:00         | Main (Room 121)        | Promises                                      | @BridgeAR                              | |
 | 11:00         | Breakout 1 (Room 118)   | i18n                                                    | @obensource                             | https://github.com/nodejs/i18n/issues/164 |
-| 11:00         | Breakout 2 (Room 121)   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
+| 11:00         | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                     |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
 | 12:30         |              | __Lunch__                                                           |                               | |
-| 1:30          | Main         | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
-| 1:30          | Breakout 2 (Room 121)   | Free / Hacking Room / Fixathon                                      |                               | |
-| 2:30          | Main         | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
+| 1:30          | Main (Room 121)        | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  |
+| 1:30          | Breakout 2 (Room 119)   | Free / Hacking Room / Fixathon                                      |                               | |
+| 2:30          | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
 | 2:30          | Breakout 1 (Room 118)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
 | 3:45          |              | __Break__                                                           |                               | |
-| 4:00          | Main         | __Lighting talks__                                                  |                               | |
+| 4:00          | Main (Room 121)        | __Lighting talks__                                                  |                               | |
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | |
 |               |              | Diagnostics at Netflix                                              | @hekike                       | |
 |               |              | Academic perspectives on Node.js | @davisjam |
-| 4:30          | Main         | __Session presentations, group photo, and thanks!__                 | |
+| 4:30          | Main (Room 121)         | __Session presentations, group photo, and thanks!__                 | |
 
 _If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86._
 
