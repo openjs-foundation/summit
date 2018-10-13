@@ -85,7 +85,9 @@ _We are expecting 70-100 people to participate_.
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | |
 |               |              | Diagnostics at Netflix                                              | @hekike                       | |
 |               |              | Academic perspectives on Node.js | @davisjam |
+|               |              | Navigating Node.js C++ code | @addaleax | |
 | 4:30          | Main (Room 121)         | __Session presentations, group photo, and thanks!__                 | |
+
 
 _If you want to propose a full session in a breakout room, add a link to an issue in this repo, similar to https://github.com/nodejs/summit/issues/86._
 
