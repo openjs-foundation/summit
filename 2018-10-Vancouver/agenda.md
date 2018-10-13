@@ -78,9 +78,10 @@ _We are expecting 70-100 people to participate_.
 | 12:30 - 1:30  |              | __Lunch__                                                           |                               | |
 | 1:30 - 2:45   | Main (Room 121)   | Open standards & Web compatibility                                  |  @joyeecheung                 | https://github.com/nodejs/summit/issues/106 |
 | 1:30 - 2:45   | Breakout 2 (Room 119)   | N-API                                                               | @mhdawson                 |  https://github.com/nodejs/abi-stable-node/issues/339                             | |
-| 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance (followup)                                      |                               | |
+| 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
 | 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 |
-| 2:45 - 3:45   | Breakout 1 (Room 118)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 |
+| 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | |
+| 2:45 - 3:45   | Breakout 2 (Room 119)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 |
 | 3:45          |              | __Break__                                                           |                               | |
 | 4:00          | Main (Room 121)        | __Lightning talks__                                                  |                               | |
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | |
