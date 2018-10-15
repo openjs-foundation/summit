@@ -72,7 +72,7 @@ _We are expecting 70-100 people to participate_.
 | 9:15 - 10:45  | Breakout 1 (Room 118)   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 | |
 | 9:15 - 10:45  | Breakout 2 (Room 119)   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 | |
 | 10:45         |              | __Coffee Break__                                                    |                               |  | |
-| 11:00 - 12:30 | Main (Room 121)        | Promises                                      | @BridgeAR                              | | |
+| 11:00 - 12:30 | Main (Room 121)        | Promises                                      | @BridgeAR                              | | [Code examples](https://gist.github.com/mmarchini/1f7476e0ee21a1f17832971289c3f4b5)|
 | 11:00 - 12:30 | Breakout 1 (Room 118)        | Governance                                                          |  @amiller-gh                  | https://github.com/nodejs/admin/issues/228  | |
 | 11:00 - 12:30 | Breakout 2 (Room 119)   | Free | | |
 | 12:30 - 1:30  |              | __Lunch__                                                           |                               | | |
