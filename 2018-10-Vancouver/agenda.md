@@ -30,8 +30,8 @@ _We are expecting 300 people to participate_.
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
 | 1:00          | Main         | Intro, Sponsor Talk, Code of Conduct          | @mcollina @dshaw @chowdhurian          |                                            | |
 | 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 | |
-| 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | |
-| 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | [automation-of-nodejs-workflows](https://github.com/joyeecheung/talks/blob/master/node_js_interactive_2018/automation_of_nodejs_workflows.pdf) |
+| 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | [The Embedder's POV](https://github.com/codebytere/gives-talks/blob/master/node-collab-summit-2018/the_embedders_pov.pdf)|
+| 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | [automation-of-nodejs-workflows](https://docs.google.com/presentation/d/1SZwEOoBxUgaYQLiNk7OAmtvgZ8tFUgdq0IRM6rEAJho/edit?usp=sharing) |
 | 2:00          | Main         | Merger presentation & open forum              | @MylesBorins                           | | |
 | 2:45          |              | Break                                         |                                        | | |
 | 3:15          | Main         | Session presentation, set up the Main room    | @mcollina @dshaw @chowdhurian          | | |
@@ -39,8 +39,8 @@ _We are expecting 300 people to participate_.
 | 3:30          | Main         | Mentorship                                    | @Bamieh                                | | |
 | 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  | |
 | 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 | |
-| 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   | |
-| 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 | |
+| 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   | [The Embedder's POV](https://github.com/codebytere/gives-talks/blob/master/node-collab-summit-2018/the_embedders_pov.pdf)|
+| 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 | [Diagnostics](https://docs.google.com/a/google.com/presentation/d/e/2PACX-1vS19WYtuxxx6I7_Y7Qy7c4wLARbKEcveYsY-8XgBes0YTVw70j3x22KBltaUGGTNa73TIET6Vvx7Cw7/pub?start=false&loop=false&delayms=3000)|
 | 3:30          | Breakout 2 (Room 121)   | Free                              |                             |  |
 | 5:00          | Breakout 3 (Meet in Main BallRoom A at back)   | Node Optimizations              | @ssuresh , @uttampawar || |
 
@@ -81,13 +81,13 @@ _We are expecting 70-100 people to participate_.
 | 1:30 - 2:45   | Breakout 1 (Room 118)   | Governance                                       |                               | | |
 | 2:45 - 3:45   | Main (Room 121)        | Streams                                                             | @mcollina @Fishrock123 @mafintosh | https://github.com/nodejs/summit/issues/110 | [node-whatwg-streams-proposal](https://mcollina.github.io/node-whatwg-streams-proposal/#0)|
 | 2:45 - 3:45   | Breakout 1 (Room 118)   | Governance                                       |                               | | |
-| 2:45 - 3:45   | Breakout 2 (Room 119)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 | |
+| 2:45 - 3:45   | Breakout 2 (Room 119)        | Benchmarking | @davisjam | https://github.com/nodejs/summit/issues/120 | [Benchmarking and Performance WG](http://people.cs.vt.edu/~davisjam/downloads/misc/Davis-NodeJSInteractive-BenchmarkingAndPerformanceBreakout.pptx)|
 | 3:45          |              | __Break__                                                           |                               | | |
 | 4:00          | Main (Room 121)        | __Lightning talks__                                                  |                               | | |
 |               |              | Deep dive on Timers                                                 | @apapirovski                  | | |
-|               |              | Diagnostics at Netflix                                              | @hekike                       | | |
-|               |              | Academic perspectives on Node.js | @davisjam | |
-|               |              | Navigating Node.js C++ code | @addaleax | | |
+|               |              | Diagnostics at Netflix                                              | @hekike                       | |[Diagnostics at Netflix](https://github.com/nodejs/summit/files/2476654/Peter.Marton.Diagnostics.at.Netflix.-.Collaborator.Summit.2018.Vancouver.pdf) |
+|               |              | Academic perspectives on Node.js | @davisjam | | [Academic perspectives on Node.js](http://people.cs.vt.edu/~davisjam/downloads/misc/Davis-NodeJSInteractive-AcademicPerspectivesOnNode.pptx)
+|               |              | Navigating Node.js C++ code | @addaleax | |[node-cpp-vancouver](https://addaleax.net/node-cpp-vancouver/) |
 | 4:30          | Main (Room 121)         | __Session presentations, group photo, and thanks!__                 | | |
 
 
