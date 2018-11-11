@@ -39,7 +39,7 @@ _We are expecting 300 people to participate_.
 | 3:30          | Main         | Mentorship                                    | @Bamieh                                | | |
 | 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  | |
 | 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 | |
-| 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   | [The Embedder's POV](https://github.com/codebytere/gives-talks/blob/master/node-collab-summit-2018/the_embedders_pov.pdf)|
+| 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   | |
 | 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 | [Diagnostics](https://docs.google.com/a/google.com/presentation/d/e/2PACX-1vS19WYtuxxx6I7_Y7Qy7c4wLARbKEcveYsY-8XgBes0YTVw70j3x22KBltaUGGTNa73TIET6Vvx7Cw7/pub?start=false&loop=false&delayms=3000)|
 | 3:30          | Breakout 2 (Room 121)   | Free                              |                             |  |
 | 5:00          | Breakout 3 (Meet in Main BallRoom A at back)   | Node Optimizations              | @ssuresh , @uttampawar || |
