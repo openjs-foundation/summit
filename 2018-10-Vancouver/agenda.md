@@ -40,7 +40,7 @@ _We are expecting 300 people to participate_.
 | 3:30          | Main         | LTS + release                                          |    @MylesBorins          | https://github.com/nodejs/Release/issues/358  | |
 | 3:30          | Main         | Tooling                                          | @boneskull                                       | https://github.com/nodejs/tooling/issues/4 | |
 | 3:30          | Main         | Embedding                                     | @codebytere                       | https://github.com/nodejs/summit/issues/125   | |
-| 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 | [Diagnostics](https://docs.google.com/presentation/d/1lFkqkTMbSad7Km-CRiCGcd4Wcwnc18wOkWsbuMKB1J)|
+| 3:30          | Breakout 1 (Room 118)   | Diagnostics                                   | @kjin , @yunong                   | https://github.com/nodejs/diagnostics/issues/229 | [Diagnostics](https://docs.google.com/presentation/d/1lFkqkTMbSad7Km-CRiCGcd4Wcwnc18wOkWsbuMKB1Jo)|
 | 3:30          | Breakout 2 (Room 121)   | Free                              |                             |  |
 | 5:00          | Breakout 3 (Meet in Main BallRoom A at back)   | Node Optimizations              | @ssuresh , @uttampawar || |
 
