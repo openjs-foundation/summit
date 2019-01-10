@@ -8,9 +8,10 @@ Free!
 Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md) for details.
 
 ## Upcoming Events
-- [Oct 12-13 2018, Vancouver, Canada](https://github.com/nodejs/summit/issues/59)
+- [May 30-31 2019, Berlin, Germany](https://github.com/nodejs/summit/issues/135)
 
 ## Past Events
+- [Oct 12-13 2018, Vancouver, Canada](https://github.com/nodejs/summit/issues/59)
 - [May 31-June 01 2018, Berlin, Germany](https://github.com/nodejs/summit/issues/60)
 - [Oct 06-07 2017, Vancouver, British Columbia, Canada](https://github.com/nodejs/summit/issues/44)
 - [May 04-05 2017, Berlin, Germany](https://github.com/nodejs/summit/issues/39)
