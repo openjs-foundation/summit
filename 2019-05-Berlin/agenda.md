@@ -59,7 +59,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 
 ## Organizers
 
-- name (@github-handle)
+- Matteo Collina (@mcollina)
 
 
 ## Attendance
