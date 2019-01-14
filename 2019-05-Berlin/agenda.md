@@ -4,7 +4,7 @@ This is a live document that will be constantly updated to match the proposed ag
 
 Our time will be best served with some monotrack presentations and discussions in the first day, and then breakout rooms in the second day. __We can change everything__, so if you think a better structure will suit us better, let us know in #135!
 
-It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together.
+It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md).
 
 ✨ We're excited for Node.js' 5th round of collaboration IRL! Even better, we're excited that folks from the JSF will be joining us for the first time! ✨
 
