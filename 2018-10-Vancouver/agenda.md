@@ -29,7 +29,7 @@ _We are expecting 300 people to participate_.
 | Time          | Place        | Topic                                         | Speakers/Champions                     | Issue                                      | Slides                                    |
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
 | 1:00          | Main         | Intro, Sponsor Talk, Code of Conduct          | @mcollina @dshaw @chowdhurian          |                                            | |
-| 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 | |
+| 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 | [Slides](https://docs.google.com/presentation/d/1OMQbYognUZoSlSdwDsHXiNm0bimPlutU6ZOAhma6rIY) |
 | 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | [The Embedder's POV](https://github.com/codebytere/gives-talks/blob/master/node-collab-summit-2018/the_embedders_pov.pdf)|
 | 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | [automation-of-nodejs-workflows](https://docs.google.com/presentation/d/1SZwEOoBxUgaYQLiNk7OAmtvgZ8tFUgdq0IRM6rEAJho/edit?usp=sharing) |
 | 2:00          | Main         | Merger presentation & open forum              | @MylesBorins                           | | |
@@ -69,7 +69,7 @@ _We are expecting 70-100 people to participate_.
 | 8:00          |              | Breakfast and registration                                          |                               |                                            | |
 | 9:00          | Main (Room 121)        | Intro, Code of Conduct                                              | @mcollina @dshaw @chowdhurian |                                            | |
 | 9:15 - 10:45  | Main (Room 121)        | Modules                                                             | @MylesBorins                  | https://github.com/nodejs/modules/issues/177 | |
-| 9:15 - 10:45  | Breakout 1 (Room 118)   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 | |
+| 9:15 - 10:45  | Breakout 1 (Room 118)   | Website Redesign                                                    | @amiller-gh                   | https://github.com/nodejs/website-redesign/issues/88 | [Slides](docs.google.com/presentation/d/1kHsqeQxg1lxWUvz4pVENsK9wY4FFFzeUORD-UwYfrNo)  |
 | 9:15 - 10:45  | Breakout 2 (Room 119)   | Security WG                                      |        @mhdawson         | https://github.com/nodejs/security-wg/issues/358 | |
 | 10:45         |              | __Coffee Break__                                                    |                               |  | |
 | 11:00 - 12:30 | Main (Room 121)        | Promises                                      | @BridgeAR                              | | [Code examples](https://gist.github.com/mmarchini/1f7476e0ee21a1f17832971289c3f4b5)|
