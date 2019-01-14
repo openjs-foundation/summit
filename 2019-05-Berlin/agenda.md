@@ -2,7 +2,9 @@
 
 This is a live document that will be constantly updated to match the proposed agenda.
 
-Our time will be best served with some monotrack presentations and discussions in the first day, and then breakout rooms in the second day. __We can change everything__, so if you think a better structure will suit us better, let us know in #135!
+A collaborator summit is a mix of presentations and interactive sessions lead by the Teams, Working Groups, and Projects that participate in the summit. For interactive sessions, our time is best served if a the team/working groups/project participate in good numbers (quorum etc).
+
+__We can change everything__, so if you think a better structure will suit us better, let us know in #135, or just send a PR!
 
 It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md).
 
