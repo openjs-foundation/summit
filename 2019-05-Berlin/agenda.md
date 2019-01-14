@@ -27,7 +27,7 @@ Berlin, Germany
 _(Expected participation number)_.
 
 
-| Time          | Place        | Topic                                         | Speakers/Champions                     | Issue                                      | Slides                                    |
+| Time          | Place        | Topic                                         | Speakers/Facilitators                     | Issue                                      | Slides                                    |
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
 | | Main         | Intro, Sponsor Talk, Code of Conduct          | |                                            | |
 
