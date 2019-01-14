@@ -60,7 +60,14 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 ## Organizers
 
 - Matteo Collina (@mcollina)
-
+- Manil Chowdhury (@chowdhurian)
+-  (@trivikr)
+-  (@thefourtheye)
+-  (@mmarchini)
+-  (@sagirk)
+-  (@WaleedAshraf)
+-  (@joyeecheung)
+-  (@jorydotcom)
 
 ## Attendance
 
