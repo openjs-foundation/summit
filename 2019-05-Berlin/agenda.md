@@ -49,7 +49,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 _(Expected participation number)_.
 
 
-| Time          | Place        | Topic                                                               | Speakers/Champions            | Issue                                      | Slides                                    |
+| Time          | Place        | Topic                                                               | Speakers/Facilitators            | Issue                                      | Slides                                    |
 |---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------------------|
 | | Main | Intro, Code of Conduct                                              | |                                            | |
 
