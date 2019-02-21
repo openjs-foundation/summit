@@ -53,7 +53,7 @@ _(Expected participation number)_.
 
 | Time          | Place        | Topic                                                               | Speakers/Facilitators            | Issue                                      | Slides                                    |
 |---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------------------|
-| | Main | Intro, Code of Conduct                                              | |                                           
+| | Main | Intro, Code of Conduct                                              | | | |                                         
 | | | Build with GN | @hashseed | [issue 144](https://github.com/nodejs/summit/issues/144) | |
 
 
