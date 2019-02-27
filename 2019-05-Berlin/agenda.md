@@ -54,7 +54,7 @@ _(Expected participation number)_.
 | Time          | Place        | Topic                                                               | Speakers/Facilitators            | Issue                                      | Slides                                    |
 |---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------------------|
 | | Main | Intro, Code of Conduct                                              | |                                            | |
-
+| | | Build with GN | @hashseed | [issue 144](https://github.com/nodejs/summit/issues/144) | |
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a topic, contact @github-handle. Include a link to an issue in this repo with more detail, similar to https://github.com/nodejs/summit/issues/86_ that contains at least an abstract, a link to the planning issue in the working group repo, and any extra requests (minimum space during conf, av/sound, etc.).
 
