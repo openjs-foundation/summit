@@ -74,7 +74,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 ## Attendance
 
 Anyone can come, but we will not be explicitly onboarding at Collab 
-Summit Vancouver. Conversations can move fast as working groups have 
+Summit Berlin. Conversations can move fast as working groups have 
 a lot of context. Unlike the Fall instance of the Collab Summit, this Spring instance does not include a morning of Code + Learn, the session that guides people through contributing to the project.
 
 Working groups will put together a brief schedule so that people can 
