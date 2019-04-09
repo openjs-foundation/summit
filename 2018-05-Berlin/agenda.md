@@ -1,29 +1,27 @@
-TEMP FOR NOW
+# PLACEHOLDER CREATED FROM LAST COLLAB SUMMIT
 
-# Collaborator Summit Vancouver 2018 - October 12th and 13th 2018
+# WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIP
 
-We are back with the date for the Node.js Collaborator Summit in Vancouver next to Node+JS Interactive (which is on October 10th and 11th, 2018).
+# Collaborator Summit Berlin 2019 - May 30 and May 31 2019
+
+We are back with the date for the Node.js Collaborator Summit in Berlin next to JSConfEU.
+
 This is a live issue that will be constantly updated to match the proposed agenda.
 
 
-> __Vancouver Convention Centre West Building__
-1055 Canada Place
-Vancouver, British Columbia V6C 0C3
-Canada
+> __Marriott Courtyard Berlin City Centre__
+Axel Springer Strasse 55, Berlin  10117 Germany
 
-
-## Collaborator Summit Day One: October 12th, 2018
-
-1:00 PM - 5:00 PM
+## Collaborator Summit Day One: May 30th, 2019
 
 ### Agenda
 
-We have a big room and 2 breakout rooms available:
+We have a big room and 3 breakout rooms available:
 
-* 1 big room for 300 people. (Main)
-* 2 rooms for 60 people each. (Breakout 1 (Room 118) and Breakout 2 (Room 121))
+* 1 big room for 100 people. (Main)
+* 3 small rooms
 
-_We are expecting 300 people to participate_.
+_We are expecting 100 people to participate_.
 
 <br>
 
@@ -97,23 +95,25 @@ _If you want to propose a full session in a breakout room, add a link to an issu
 
 ## Organizers
 
-- Dan Shaw @dshaw
-- Manil Chowdhurian @chowdhurian
+- Manil Chowdhurian @keywordnew
 - Matteo Collina @mcollina
 - Tracy Lee @ladyleet
+- Jory Burson @jorydotcom
+- Eva Howe @evahowe
 
 ## Attendance
 
 Anyone can come, but we will not be explicitly onboarding at Collab 
-Summit Vancouver. Conversations can move fast as working groups have 
-a lot of context. Unlike the Spring instance of the Collab Summit, this Fall instance includes a morning of Code + Learn. The Code + Learn session guides people through contributing to the project, prior to congregating for the Summit.
+Summit. 
+
+Conversations can move fast as working groups have a lot of context. The Code + Learn session guides people through contributing to the project, prior to congregating for the Summit.
 
 Working groups will put together a brief schedule so that people can 
 familiarize themselves before folks get onsite, having the general collaborator 
 discussions, and then dive into breakout sessions.
 
-Atteneeds must register at: https://www.regonline.com/?eventID=2152653&rTypeID=511098
-Access code: COLLABSUMMITONLY
+Atteneeds must register at: https://www.eventbrite.com/e/openjs-collaborator-summit-tickets-55985971548
+Access code: collabsummit
 
 ## Working groups in attendance
 
