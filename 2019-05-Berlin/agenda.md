@@ -17,7 +17,7 @@ Axel-Springer-Str. 55
 
 ## Collaborator Summit Day One: 30th May, 2019
 
-08:00 - 18:00
+09:00 - 18:00
 
 ### Agenda
 
@@ -47,7 +47,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 
 ## Collaborator Summit Day Two: 31st May, 2019
 
-08:00 - 18:00
+09:00 - 18:00
 
 ### Agenda
 
