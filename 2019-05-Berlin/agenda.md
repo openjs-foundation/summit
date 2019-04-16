@@ -94,6 +94,7 @@ Working groups will put together a brief schedule so that people can
 familiarize themselves before folks get onsite, having the general collaborator 
 discussions, and then dive into breakout sessions.
 
+Attendees must register at [Eventbrite](https://www.eventbrite.com/e/openjs-collaborator-summit-tickets-55985971548) with the password "collabsummit"
   
 ## Travel Fund
 There are funds available for any Individual Member of the Node.js Foundation to receive travel funds to Collab Summit.  Membership is free for active collaborators. Sign up [HERE](https://github.com/nodejs/members#members).
