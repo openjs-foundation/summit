@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Thank you! You are submitting a topic for the next Collaborator's Summit, Berlin 2019!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Berlin 2019! After you send this, feel free to compile https://github.com/nodejs/summit/issues/149 with some information. That form will help us in collecting the information for the agenda.
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
