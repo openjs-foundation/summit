@@ -21,4 +21,11 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 **Describe the session**
 
 
+**Session facilitator(s) and Github handle(s)** 
+
+<!--
+Here's a handy [guide](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md) for the person or persons who will facilitate this session.
+-->
+
+
 **Additional context (optional)**
