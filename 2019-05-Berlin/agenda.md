@@ -76,7 +76,6 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 - Matteo Collina (@mcollina)
 - Manil Chowdhury (@chowdhurian)
 - Tracy Lee (@ladyleet)
--  (@trivikr)
 -  (@thefourtheye)
 -  (@mmarchini)
 -  (@sagirk)
