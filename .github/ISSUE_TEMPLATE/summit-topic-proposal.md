@@ -1,5 +1,5 @@
 ---
-name: "\U+270F Summit Topic Proposal"
+name: Summit Topic Proposal
 about: Submit a topic proposal for a session at the Collab Summit
 title: ''
 labels: ''
