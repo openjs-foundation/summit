@@ -76,10 +76,28 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 _40 responses to the survey._
 
 
-| Time          | Place        | Topic                                                               | Speakers/Facilitators            | Issue                                      | Slides                                    |
-|---------------|--------------|---------------------------------------------------------------------|-------------------------------|--------------------------------------------|-------------------------------------------|
-| | Main | Intro, Code of Conduct                                              | |                                            | |
-| | | Build with GN | @hashseed | [issue 144](https://github.com/nodejs/summit/issues/144) | |
+| Time | Place | Topic | Speakers/Facilitators | Issue | Slides |
+|---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
+| 0900 | Main | Intro to the Conference (Day 2 | organizers | | | 
+| 0930 | Main | [Open Standards Working Group @ OpenJSF](https://github.com/nodejs/open-standards/issues/18) | Jory | | | 
+| 1000 | Main | _previous session continues_ | | | | 
+| 1030 | Main | ☕️ coffee break | organizers | | | 
+| 1100 | Main | Promises in Node Core | Myles, Ruben | | | 
+| 1130 | Main | _previous session continues_ | | | | 
+| 1200 | | 🍍 Lunch | | | | 
+| 1230 | Main | _lunch continues_ | | | | 
+| 1300 | Main | [TC39 Proposals <3 Feedback from Node & OpenJSF](https://github.com/nodejs/open-standards/issues/18#issuecomment-492309790) | littledan | | 
+| 1330 | Main | _previous session continues_ | | | | 
+| 1400 | Main | [Proposal to drive Node.js diagnostics initiatives through user journeys](https://github.com/nodejs/diagnostics/issues/295) | Peter Marton (mhdawson requested) | | | 
+| 1400 | Munich 1 | [NodeJS Tooling Group Meeting](https://github.com/nodejs/tooling/issues/29) | Chris Hiller | | | 
+| 1430 | Main | | | | | 
+| 1500 | Main | [Building Node.js with GN](https://github.com/nodejs/summit/issues/144) | Yang | | | 
+| 1530 | Main | ☕️ coffee break | | | | 
+| 1600 | Main | [Module Ecosystem and Package Maintenance](https://github.com/nodejs/summit/issues/148) | mhdawson | | | 
+| 1630 | Main | _previous session continues_ | | | | 
+| 1700 | Main |  | | | | 
+| 1730 | Main |  | | | | 
+
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a topic, contact @github-handle. Include a link to an issue in this repo with more detail, similar to https://github.com/nodejs/summit/issues/86_ that contains at least an abstract, a link to the planning issue in the working group repo, and any extra requests (minimum space during conf, av/sound, etc.).
 
