@@ -32,27 +32,27 @@ Axel-Springer-Str. 55
  
 _40 responses to the survey._
 
-| Time          | Place        | Topic                                         | Speakers/Facilitators                     | Issue                                      | Slides                                    |
+| Time | Place | Topic | Speakers/Facilitators | Issue | Slides |
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
-| 0900 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 0930 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1000 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1030 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1100 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1130 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1200 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1230 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1300 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1330 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1400 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1430 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1500 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1530 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1600 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 0900 | Main | Intro to the Conference (Day 1) | organizers | | | 
+| 0930 | Main | Modules | Myles, Guy | | | 
+| 1000 | Main | _previous session continues_ | | | | 
+| 1030 | Main | ☕️ coffee break | organizers | | | 
+| 1100 | Main | AMA on (former) JSF projects | Jory | | | 
+| 1130 | Main | AMA on Node.js Core Subsystems | Manil | | | 
+| 1200 | | 🍍 Lunch | | | | 
+| 1230 | Main | _previous session continues_ | | | | 
+| 1300 | Main | OpenJS Foundation CPC Session | Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson | | | 
+| 1330 | Main | _previous session continues_ | | | | 
+| 1400 | Main | Security, modules and Node.js | Guy Bedford | | | 
+| 1430 | Main | | | | | 
+| 1500 | Main | Fetch in Node.js | @MylesBorins @mcollina | | | 
+| 1530 | Main | ☕️ coffee break | | | | 
+| 1600 | Main | _previous session continues_ | | | | 
 | 1630 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1700 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1730 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
-| 1800 | | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1700 | Main | Rethinking Transpilation in JavaScript Package Distribution | Amal Hussein / Val Young | | | 
+| 1730 | Main | _previous session continues_ | | | | 
+| 1800 | | 🧀 Dinner with Sauce Labs | | | | 
 
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a title, abstract, and a link to an issue with more detail in this repo, similar to https://github.com/nodejs/summit/issues/86_.
