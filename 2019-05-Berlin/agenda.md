@@ -10,7 +10,7 @@ It would be fantastic if each one of the breakouts is facilitated by a person wh
 
 ✨ We're excited for Node.js' 5th round of collaboration IRL! Even better, we're excited that folks from the JSF will be joining us for the first time! ✨
 
-##Courtyard by Marriot, Berlin City Center
+## Courtyard by Marriot, Berlin City Center
 Axel-Springer-Str. 55
 10117 Berlin, Germany
 
@@ -38,7 +38,7 @@ _40 responses to the survey._
 | 0930 | Main | Modules | Myles, Guy | | | 
 | 1000 | Main | _previous session continues_ | | | | 
 | 1030 | Main | ☕️ coffee break | organizers | | | 
-| 1100 | Main | AMA on (former) JSF projects | Jory | | | 
+| 1100 | Main | AMA on (former) JSF projects | Jory | | [Google Slides](https://docs.google.com/presentation/d/1SemAifhI1IloVJnR1gyuQZsB6A-nAME9_iC5qwgMHHc/edit?usp=sharing)| 
 | 1130 | Main | AMA on Node.js Core Subsystems | Manil | | | 
 | 1200 | | 🍍 Lunch | | | | 
 | 1230 | Main | _previous session continues_ | | | | 
