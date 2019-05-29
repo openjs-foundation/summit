@@ -38,7 +38,6 @@ _40 responses to the survey._
 | 0930 | Main | Modules | Myles, Guy | N/A | |
 | 1000 | Main | _previous session continues_ | | | |
 | 1000 | Munich 1 | MDN Web Docs and frameworks content — what makes sense in 2019? | @chrisdavidmills | N/A | |
-| 1000 | Munich 2 | Website Redesign: Past, Present, and Future | @keywordnew @amiller-gh | [website-redesign/155](https://github.com/nodejs/website-redesign/issues/155) | |
 | 1030 | Main | ☕️ coffee break | organizers | | |
 | 1100 | Main | AMA on (former) JSF projects | Jory | | [Google Slides](https://docs.google.com/presentation/d/1SemAifhI1IloVJnR1gyuQZsB6A-nAME9_iC5qwgMHHc/edit?usp=sharing)|
 | 1100 | Munich 1 | Bootstrap of Node.js Core: Recent Refactor and the Missing Pieces | Joyee Cheung | [147](https://github.com/nodejs/summit/issues/147) |  |
@@ -89,6 +88,7 @@ _40 responses to the survey._
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
 | 0900 | Main | Intro to the Conference (Day 2 | organizers | | |
 | 0930 | Main | [Open Standards Working Group @ OpenJSF](https://github.com/nodejs/open-standards/issues/18) | Jory | | |
+| 0930 | Munich 2 | Website Redesign: Past, Present, and Future | @keywordnew @amiller-gh | [website-redesign/155](https://github.com/nodejs/website-redesign/issues/155) | |
 | 1000 | Main | _previous session continues_ | | | |
 | 1030 | Main | ☕️ coffee break | organizers | | |
 | 1100 | Main | Promises in Node Core | Myles, Ruben | | |
