@@ -21,8 +21,6 @@ Axel-Springer-Str. 55
 
 ### Agenda
 
-
-
 * Munchen 1/2, 4 - breakout rooms
   - setup - pre-set rounds for 35 people
   - AV - projector, screen and a flip chart (working on getting more AV set up)
@@ -32,15 +30,30 @@ Axel-Springer-Str. 55
   - 100 people, blocks of 6 table blocks
    - projector, screen, sound system and 4 speakers, mixing table, 1 microphone 
  
-
-
-_(Expected participation number)_.
-
+_40 responses to the survey._
 
 | Time          | Place        | Topic                                         | Speakers/Facilitators                     | Issue                                      | Slides                                    |
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
-| | Main  | Intro, Sponsor Talk, Code of Conduct          | |                                            | |
-| | 
+| 0900 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 0930 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1000 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1030 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1100 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1130 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1200 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1230 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1300 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1330 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1400 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1430 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1500 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1530 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1600 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1630 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1700 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1730 | Main | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1800 | | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a title, abstract, and a link to an issue with more detail in this repo, similar to https://github.com/nodejs/summit/issues/86_.
 
@@ -60,7 +73,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
   - 100 people, blocks of 6 table blocks
    - projector, screen, sound system and 4 speakers, mixing table, 1 microphone 
 
-_(Expected participation number)_.
+_40 responses to the survey._
 
 
 | Time          | Place        | Topic                                                               | Speakers/Facilitators            | Issue                                      | Slides                                    |
