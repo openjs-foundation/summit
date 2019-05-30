@@ -32,26 +32,26 @@ Axel-Springer-Str. 55
 
 _40 responses to the survey._
 
-| Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
+| Time | Main | Munich 1/2 | Munich 3 | Munich 4 | Issue | Slides |
 |------|------|----------|----------|----------|-------|--------|
 | Zoom | https://zoom.us/j/381668642 | https://zoom.us/j/372142646 | | https://zoom.us/j/787000094 | | |
 | 0900 | Intro to the Conference (Day 1) - organizers | | | | | |
 | 0930 | Modules - Myles, Guy | | | | | |
 | 1000 | _previous session continues_ | MDN Web Docs and frameworks content — what makes sense in 2019? - Chris Mills | | | | |
 | 1030 | ☕️ coffee break | | | | | |
-| 1100 | AMA on (former) JSF projects - Jory | | | | | |
-| 1130 | AMA on Node.js Core Subsystems - Manil | Inspector protocol in production - @ak239 | | | | |
-| 1200 | OpenJS Foundation CPC Session - Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson | Deprecations future - Ruben Bridgewater, Anna Henningsen | | | | |
+| 1100 | AMA on (former) JSF projects - Jory - [Google Slides](https://docs.google.com/presentation/d/1SemAifhI1IloVJnR1gyuQZsB6A-nAME9_iC5qwgMHHc/edit?usp=sharing) | | | | | |
+| 1130 | AMA on Node.js Core Subsystems - Manil - [154](https://github.com/nodejs/summit/issues/154) | Inspector protocol in production - @ak239 | | | | |
+| 1200 | OpenJS Foundation CPC Session - Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson - [openjs/cpc/123](https://github.com/openjs-foundation/cross-project-council/issues/125) | Deprecations future - Ruben Bridgewater, Anna Henningsen - [153](https://github.com/nodejs/summit/issues/153) | | | | |
 | 1230 | _previous session continues_ | _previous session continues_ | | | | |
 | 1300 | 🍍 Lunch | | | | | |
 | 1330 | 🍍 Lunch | | | | | |
-| 1400 | Security, modules and Node.js - Guy Bedford | Insights from nodejs/help repo - Gireesh Punathil | i18n: Moving forward with the i18n WG, Node.js Intl, and ECMA 402 - @obensource, @amiller-gh, @littledan | | | |
-| 1430 | _previous session continues_ | _previous session continues_ | _previous session continues_ | | | |
-| 1500 | Fetch in Node.js - @MylesBorins @mcollina | Build open source capacity with Getting Started in Open Source workshops - Manil @keywordnew | | | | |
+| 1400 | Security, modules and Node.js - Guy Bedford - [155](https://github.com/nodejs/summit/issues/155) | Insights from nodejs/help repo - Gireesh Punathil | | i18n: Moving forward with the i18n WG, Node.js Intl, and ECMA 402 - [164](https://github.com/nodejs/summit/issues/164) - @obensource, @amiller-gh, @littledan | | |
+| 1430 | _previous session continues_ | _previous session continues_ | | _previous session continues_ | | |
+| 1500 | Fetch in Node.js - [165](https://github.com/nodejs/summit/issues/165) - @MylesBorins @mcollina | Build open source capacity with Getting Started in Open Source workshops - Manil @keywordnew | | | | |
 | 1530 | ☕️ coffee break | | | | | |
 | 1600 | _previous session continues_ | Node.js Release Working Group - Beth Griggs (@BethGriggs)| | | | |
 | 1630 | _previous session continues_ | _previous session continues_ | | | | |
-| 1700 | Rethinking Transpilation in JavaScript Package Distribution - Amal Hussein / Val Young | Node.js Collection & Social Media - @waleedashraf, @RRomoff | | | | |
+| 1700 | Rethinking Transpilation in JavaScript Package Distribution - Amal Hussein / Val Young | Node.js Collection & Social Media - [161](https://github.com/nodejs/summit/issues/161) - @waleedashraf, @RRomoff | | | | |
 | 1730 | _previous session continues_ | _previous session continues_ | | | | |
 | 1800 | 🧀 Dinner with Sauce Labs | | | | | |
 
@@ -91,9 +91,9 @@ _40 responses to the survey._
 | 1330 | _previous session continues_ | | | | | |
 | 1400 | [Proposal to drive Node.js diagnostics initiatives through user journeys](https://github.com/nodejs/diagnostics/issues/295) - Peter Marton (@hekike), @mhdawson | [NodeJS Tooling Group Meeting](https://github.com/nodejs/tooling/issues/29) - Christopher Hiller | | | | |
 | 1430 | _previous session continues_ | _previous session continues_ | | | | |
-| 1500 | [Building Node.js with GN](https://github.com/nodejs/summit/issues/144) -  Yang | Workers - @benjamingr & @addaleax | | | | |
+| 1500 | [Building Node.js with GN](https://github.com/nodejs/summit/issues/144) -  Yang | Workers - [141](https://github.com/nodejs/summit/issues/141) - @benjamingr & @addaleax | | | | |
 | 1530 | ☕️ coffee break | | | | | |
-| 1600 | [Module Ecosystem and Package Maintenance](https://github.com/nodejs/summit/issues/148) - @mhdawson | Bootstrap of Node.js Core: Recent Refactor and the Missing Pieces - Joyee Cheung | | | | |
+| 1600 | [Module Ecosystem and Package Maintenance](https://github.com/nodejs/summit/issues/148) - @mhdawson | Bootstrap of Node.js Core: Recent Refactor and the Missing Pieces - Joyee Cheung  [147](https://github.com/nodejs/summit/issues/147) | | | | |
 | 1630 | _previous session continues_ | _previous session continues_ | | | | |
 | 1700 | | | | | | |
 | 1730 | | | | | | |
