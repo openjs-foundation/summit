@@ -76,28 +76,26 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 _40 responses to the survey._
 
 
-| Time | Place | Topic | Speakers/Facilitators | Issue | Slides |
-|---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
-| 0900 | Main | Intro to the Conference (Day 2 | organizers | | |
-| 0930 | Main | [Open Standards Working Group @ OpenJSF](https://github.com/nodejs/open-standards/issues/18) | Jory | | |
-| 0930 | Munich 2 | Website Redesign: Past, Present, and Future | @keywordnew @amiller-gh | [website-redesign/155](https://github.com/nodejs/website-redesign/issues/155) | |
-| 1000 | Main | _previous session continues_ | | | |
-| 1030 | Main | ☕️ coffee break | organizers | | |
-| 1100 | Main | Promises in Node Core | Myles, Ruben | | |
-| 1130 | Main | _previous session continues_ | | | |
-| 1200 | | 🍍 Lunch | | | |
-| 1230 | Main | _lunch continues_ | | | |
-| 1300 | Main | [TC39 Proposals <3 Feedback from Node & OpenJSF](https://github.com/nodejs/open-standards/issues/18#issuecomment-492309790) | littledan | |
-| 1330 | Main | _previous session continues_ | | | |
-| 1400 | Main | [Proposal to drive Node.js diagnostics initiatives through user journeys](https://github.com/nodejs/diagnostics/issues/295) | Peter Marton (mhdawson requested) | | |
-| 1400 | Munich 1 | [NodeJS Tooling Group Meeting](https://github.com/nodejs/tooling/issues/29) | Chris Hiller | | |
-| 1430 | Main | | | | |
-| 1500 | Main | [Building Node.js with GN](https://github.com/nodejs/summit/issues/144) | Yang | | |
-| 1530 | Main | ☕️ coffee break | | | |
-| 1600 | Main | [Module Ecosystem and Package Maintenance](https://github.com/nodejs/summit/issues/148) | mhdawson | | |
-| 1630 | Main | _previous session continues_ | | | |
-| 1700 | Main |  | | | |
-| 1730 | Main |  | | | |
+| Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
+|------|------|----------|----------|----------|-------|--------|
+| 0900 | Intro to the Conference (Day 2) - organizers | | | | | |
+| 0930 | [Open Standards Working Group @ OpenJSF](https://github.com/nodejs/open-standards/issues/18) - Jory | [Website Redesign: Past, Present, and Future](https://github.com/nodejs/website-redesign/issues/155) - @keywordnew @amiller-gh [website-redesign/155]() | | | | |
+| 1000 | _previous session continues_ | _previous session continues_ | | | | |
+| 1030 | ☕️ coffee break | | | | | |
+| 1100 | [TC39 Proposals <3 Feedback from Node & OpenJSF](https://github.com/nodejs/open-standards/issues/18#issuecomment-492309790) - littledan | | | | | |
+| 1130 | _previous session continues_ | | | | | |
+| 1200 | 🍍 Lunch | | | | | |
+| 1230 | 🍍 Lunch | | | | | |
+| 1300 | Promises in Node core - @MylesBorins, @BridgeAR | | | | | |
+| 1330 | _previous session continues_ | | | | | |
+| 1400 | [Proposal to drive Node.js diagnostics initiatives through user journeys](https://github.com/nodejs/diagnostics/issues/295) - Peter Marton (@hekike), @mhdawson | [NodeJS Tooling Group Meeting](https://github.com/nodejs/tooling/issues/29) - Christopher Hiller | | | | |
+| 1430 | _previous session continues_ | _previous session continues_ | | | | |
+| 1500 | [Building Node.js with GN](https://github.com/nodejs/summit/issues/144) -  Yang | Workers - @benjamingr & @addaleax | | | | |
+| 1530 | ☕️ coffee break | | | | | |
+| 1600 | [Module Ecosystem and Package Maintenance](https://github.com/nodejs/summit/issues/148) - @mhdawson | Bootstrap of Node.js Core: Recent Refactor and the Missing Pieces - Joyee Cheung | | | | |
+| 1630 | _previous session continues_ | _previous session continues_ | | | | |
+| 1700 | | | | | | |
+| 1730 | | | | | | |
 
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a topic, contact @github-handle. Include a link to an issue in this repo with more detail, similar to https://github.com/nodejs/summit/issues/86_ that contains at least an abstract, a link to the planning issue in the working group repo, and any extra requests (minimum space during conf, av/sound, etc.).
