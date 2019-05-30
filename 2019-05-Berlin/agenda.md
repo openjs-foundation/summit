@@ -11,15 +11,15 @@ It would be fantastic if each one of the breakouts is facilitated by a person wh
 ✨ We're excited for Node.js' 5th round of collaboration IRL! Even better, we're excited that folks from the JSF will be joining us for the first time! ✨
 
 ## Courtyard by Marriot, Berlin City Center
-Axel-Springer-Str. 55
-10117 Berlin, Germany
+[Axel-Springer-Str. 55
+10117 Berlin, Germany](https://goo.gl/maps/GdN1QrEZF8gWHZra9)
 
 
 ## Collaborator Summit Day One: 30th May, 2019
 
 09:00 - 18:00
 
-### Agenda
+### Agenda - both days
 
 * Munchen 1/2, 4 - breakout rooms
   - setup - pre-set rounds for 35 people
@@ -60,21 +60,6 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 
 
 ## Collaborator Summit Day Two: 31st May, 2019
-
-09:00 - 18:00
-
-### Agenda
-
-* Munchen 1/2, 4 - breakout rooms
-  - setup - pre-set rounds for 35 people
-  - AV - projector, screen and a flip chart (working on getting more AV set up)
-* Munchen 3 - breakout room
-  - theater style, 25 people
-* Berlin - main room
-  - 100 people, blocks of 6 table blocks
-   - projector, screen, sound system and 4 speakers, mixing table, 1 microphone
-
-_40 responses to the survey._
 
 
 | Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
