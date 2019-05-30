@@ -34,6 +34,7 @@ _40 responses to the survey._
 
 | Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
 |------|------|----------|----------|----------|-------|--------|
+| Zoom | https://zoom.us/j/381668642 | https://zoom.us/j/372142646 | | https://zoom.us/j/787000094 | | |
 | 0900 | Intro to the Conference (Day 1) - organizers | | | | | |
 | 0930 | Modules - Myles, Guy | | | | | |
 | 1000 | _previous session continues_ | MDN Web Docs and frameworks content — what makes sense in 2019? - Chris Mills | | | | |
