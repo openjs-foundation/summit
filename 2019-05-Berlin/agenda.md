@@ -76,7 +76,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 | 1130 | _previous session continues_ | | | | | |
 | 1200 | 🍍 Lunch | | | | | |
 | 1230 | 🍍 Lunch | | | | | |
-| 1300 | Promises in Node core - @MylesBorins, @BridgeAR | | | | | |
+| 1300 | Promises in Node core - @MylesBorins, @BridgeAR | Rethinking CommComm - Tierney | | | | |
 | 1330 | _previous session continues_ | | | | | |
 | 1400 | [Proposal to drive Node.js diagnostics initiatives through user journeys](https://github.com/nodejs/diagnostics/issues/295) - Peter Marton (@hekike), @mhdawson | [NodeJS Tooling Group Meeting](https://github.com/nodejs/tooling/issues/29) - Christopher Hiller | | | | |
 | 1430 | _previous session continues_ | _previous session continues_ | | | | |
