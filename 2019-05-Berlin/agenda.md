@@ -43,7 +43,7 @@ _40 responses to the survey._
 | 1030 | ☕️ coffee break | | | | | |
 | 1100 | AMA on (former) JSF projects - Jory - [Google Slides](https://docs.google.com/presentation/d/1SemAifhI1IloVJnR1gyuQZsB6A-nAME9_iC5qwgMHHc/edit?usp=sharing) | | | | | |
 | 1130 | AMA on Node.js Core Subsystems - Manil - [154](https://github.com/nodejs/summit/issues/154) | Inspector protocol in production - @ak239 | | | | |
-| 1200 | OpenJS Foundation CPC Session - Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson - [openjs/cpc/123](https://github.com/openjs-foundation/cross-project-council/issues/125) | Deprecations future - Ruben Bridgewater, Anna Henningsen - [153](https://github.com/nodejs/summit/issues/153) | | | | |
+| 1200 | OpenJS Foundation CPC Session - Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson - [openjs/cpc/123](https://github.com/openjs-foundation/cross-project-council/issues/125) [slides](https://docs.google.com/presentation/d/10yn888MFKFZDlPLKvNcCOTX0PiY1Vsp1P_AcLT6m5xk/edit?usp=sharing)| Deprecations future - Ruben Bridgewater, Anna Henningsen - [153](https://github.com/nodejs/summit/issues/153) | | | | |
 | 1230 | _previous session continues_ | _previous session continues_ | | | | |
 | 1300 | 🍍 Lunch | | | | | |
 | 1330 | 🍍 Lunch | | | | | |
