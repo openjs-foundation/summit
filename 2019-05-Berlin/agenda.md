@@ -14,13 +14,10 @@ It would be fantastic if each one of the breakouts is facilitated by a person wh
 [Axel-Springer-Str. 55
 10117 Berlin, Germany](https://goo.gl/maps/GdN1QrEZF8gWHZra9)
 
+### Timings: 
+  09:00 - 18:00
 
-## Collaborator Summit Day One: 30th May, 2019
-
-09:00 - 18:00
-
-### Agenda - both days
-
+### Room Setup - both days
 * Munchen 1/2, 4 - breakout rooms
   - setup - pre-set rounds for 35 people
   - AV - projector, screen and a flip chart (working on getting more AV set up)
@@ -31,6 +28,11 @@ It would be fantastic if each one of the breakouts is facilitated by a person wh
    - projector, screen, sound system and 4 speakers, mixing table, 1 microphone
 
 _40 responses to the survey._
+
+## Collaborator Summit Day One: 30th May, 2019
+
+### Agenda
+
 
 | Time | Main | Munich 1/2 | Munich 3 | Munich 4 | Issue | Slides |
 |------|------|----------|----------|----------|-------|--------|
@@ -61,6 +63,8 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 
 ## Collaborator Summit Day Two: 31st May, 2019
 
+### Agenda
+
 
 | Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
 |------|------|----------|----------|----------|-------|--------|
@@ -89,12 +93,12 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 
 ## Organizers
 
-- Matteo Collina (@mcollina)
-- Manil Chowdhury (@keywordnew)
-- Tracy Lee (@ladyleet)
-- Waleed (@WaleedAshraf)
-- Joyee (@joyeecheung)
-- Jory (@jorydotcom)
+- Matteo Collina ([@mcollina](https://github.com/mcollina))
+- Manil Chowdhury ([@keywordnew](https://github.com/keywordnew))
+- Tracy Lee ([@ladyleet](https://github.com/ladyleet))
+- Waleed ([@WaleedAshraf](https://github.com/WaleedAshraf))
+- Joyee ([@joyeecheung](https://github.com/joyeecheung))
+- Jory ([@jorydotcom](https://github.com/jorydotcom))
 
 ## Attendance
 
