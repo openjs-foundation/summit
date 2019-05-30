@@ -32,35 +32,27 @@ Axel-Springer-Str. 55
 
 _40 responses to the survey._
 
-| Time | Place | Topic | Speakers/Facilitators | Issue | Slides |
-|---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
-| 0900 | Main | Intro to the Conference (Day 1) | organizers | | |
-| 0930 | Main | Modules | Myles, Guy | N/A | |
-| 1000 | Main | _previous session continues_ | | | |
-| 1000 | Munich 1 | MDN Web Docs and frameworks content — what makes sense in 2019? | @chrisdavidmills | N/A | |
-| 1030 | Main | ☕️ coffee break | organizers | | |
-| 1100 | Main | AMA on (former) JSF projects | Jory | | [Google Slides](https://docs.google.com/presentation/d/1SemAifhI1IloVJnR1gyuQZsB6A-nAME9_iC5qwgMHHc/edit?usp=sharing)|
-| 1100 | Munich 1 | Bootstrap of Node.js Core: Recent Refactor and the Missing Pieces | Joyee Cheung | [147](https://github.com/nodejs/summit/issues/147) |  |
-| 1130 | Main | AMA on Node.js Core Subsystems | Manil | [154](https://github.com/nodejs/summit/issues/154) | |
-| 1130 | Munich 1 | Insights from nodejs/help repo | Gireesh Punathil. Michael Dawson | N/A |  |
-| 1200 | | 🍍 Lunch | | | |
-| 1230 | Main | _previous session continues_ | | | |
-| 1300 | Main | OpenJS Foundation CPC Session | Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson | [openjs/cpc/123](https://github.com/openjs-foundation/cross-project-council/issues/125) | |
-| 1300 | Munich 1 | Deprecations future | Ruben Bridgewater, Anna Henningsen | [153](https://github.com/nodejs/summit/issues/153) | |
-| 1330 | Main | _previous session continues_ | | | |
-| 1400 | Main | Security, modules and Node.js | Guy Bedford | [155](https://github.com/nodejs/summit/issues/155) | |
-| 1400 | Munich 1 | Inspector protocol in production | @ak239 | N/A | |
-| 1400 | Munich 4 | i18n: Moving forward with the i18n WG, Node.js Intl, and ECMA 402 | @obensource, @zeke, @amiller-gh, @littledan | [164](https://github.com/nodejs/summit/issues/164) | |
-| 1500 | Main | Fetch in Node.js | @MylesBorins @mcollina | [165](https://github.com/nodejs/summit/issues/165) | |
-| 1500 | Munich 1 | Build open source capacity with Getting Started in Open Source workshops | Manil Chowdhury | N/A |  |
-| 1530 | Main | ☕️ coffee break | | | |
-| 1600 | Main | _previous session continues_ | | | |
-| 1600 | Munich 1 | Node.js Release Working Group | Beth Griggs (@BethGriggs) | N/A | |
-| 1600 | Munich 4 | Node.js Collection & Social Media | Waleed Ashraf (@waleedashraf), @RRomoff | [161](https://github.com/nodejs/summit/issues/161) | |
-| 1700 | Main | Rethinking Transpilation in JavaScript Package Distribution | Amal Hussein / Val Young | | |
-| 1700 | Munich 1 | Workers | benjamingr & addaleax | [141](https://github.com/nodejs/summit/issues/141) | |
-| 1730 | Main | _previous session continues_ | | | |
-| 1800 | | 🧀 Dinner with Sauce Labs | | | |
+| Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
+|---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|---|
+| 0900 | Intro to the Conference (Day 1) - organizers | | | | 
+| 0930 | Modules - Myles, Guy | | | | 
+| 1000 | _previous session continues_ | | | | 
+| 1030 | ☕️ coffee break | | | | 
+| 1100 | AMA on (former) JSF projects - Jory| | | | 
+| 1130 | AMA on Node.js Core Subsystems | Manil | | | 
+| 1200 | | 🍍 Lunch | | | | 
+| 1230 | _previous session continues_ | | | | 
+| 1300 | OpenJS Foundation CPC Session | Jory, Myles, &/or Tracy Hinds, or new CPC Director or Chairperson | | | 
+| 1330 | _previous session continues_ | | | | 
+| 1400 | Security, modules and Node.js | Guy Bedford | | | 
+| 1430 | | | | | 
+| 1500 | Fetch in Node.js | @MylesBorins @mcollina | | | 
+| 1530 | ☕️ coffee break | | | | 
+| 1600 | _previous session continues_ | | | | 
+| 1630 | Intro, Sponsor Talk, Code of Conduct | organizers | | | 
+| 1700 | Rethinking Transpilation in JavaScript Package Distribution | Amal Hussein / Val Young | | | 
+| 1730 | _previous session continues_ | | | | 
+| 1800 | | 🧀 Dinner with Sauce Labs | | | | 
 
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a title, abstract, and a link to an issue with more detail in this repo, similar to https://github.com/nodejs/summit/issues/86_.
