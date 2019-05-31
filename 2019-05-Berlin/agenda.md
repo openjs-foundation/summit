@@ -84,8 +84,8 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 | 1530 | ☕️ coffee break | | | | | |
 | 1600 | [Module Ecosystem and Package Maintenance](https://github.com/nodejs/summit/issues/148) - @mhdawson | Bootstrap of Node.js Core: Recent Refactor and the Missing Pieces - Joyee Cheung  [147](https://github.com/nodejs/summit/issues/147) | | | | |
 | 1630 | _previous session continues_ | _previous session continues_ | | | | |
-| 1700 | | | | | | |
-| 1730 | | | | | | |
+| 1700 | ["Bob" Streams in Node.js](https://github.com/nodejs/summit/issues/172) - @jasnell & @Fishrock123 | | | | | |
+| 1730 | _previous session continues_ | | | | | |
 
 
 _To speak/present a topic/do a sesssion, make a pull request to update this document with a topic, contact @github-handle. Include a link to an issue in this repo with more detail, similar to https://github.com/nodejs/summit/issues/86_ that contains at least an abstract, a link to the planning issue in the working group repo, and any extra requests (minimum space during conf, av/sound, etc.).
