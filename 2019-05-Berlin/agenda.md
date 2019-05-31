@@ -69,7 +69,7 @@ _To speak/present a topic/do a sesssion, make a pull request to update this docu
 | Time | Main | Munich 1 | Munich 3 | Munich 4 | Issue | Slides |
 |------|------|----------|----------|----------|-------|--------|
 | 0900 | Intro to the Conference (Day 2) - organizers | | | | | |
-| 0930 | [Open Standards Working Group @ OpenJSF](https://github.com/nodejs/open-standards/issues/18) - Jory | [Website Redesign: Past, Present, and Future](https://github.com/nodejs/website-redesign/issues/155) - @keywordnew @amiller-gh | | | | |
+| 0930 | [Open Standards Working Group @ OpenJSF](https://github.com/nodejs/open-standards/issues/18) - Jory | [Website Redesign: Past, Present, and Future](https://github.com/nodejs/website-redesign/issues/155) - @amiller-gh | | | | |
 | 1000 | _previous session continues_ | _previous session continues_ | | | | |
 | 1030 | ☕️ coffee break | | | | | |
 | 1100 | [TC39 Proposals <3 Feedback from Node & OpenJSF](https://github.com/nodejs/open-standards/issues/18#issuecomment-492309790) - littledan | | | | | |
