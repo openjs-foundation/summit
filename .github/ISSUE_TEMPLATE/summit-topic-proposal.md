@@ -8,7 +8,7 @@ assignees: christian-bromann, evahowe, jorydotcom, keywordnew
 ---
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Montreal 2020!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Montreal 2019!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
