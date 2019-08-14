@@ -17,6 +17,14 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 
 **Topic of the session**
 
+**Type of the session**
+- [] Collaborate
+- [] Workshop
+- [] Talk
+
+
+**Follow-up / Set-up sessions (if any)**
+
 
 **Describe the session**
 
