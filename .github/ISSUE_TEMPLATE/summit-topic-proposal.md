@@ -26,6 +26,15 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 **Follow-up / Set-up sessions (if any)**
 
 
+**Level**
+- [] Beginner
+- [] Intermediate
+- [] Advanced
+
+**Pre-requisite knowledge**
+> This is required for both Intermediate and Advanced sessions
+
+
 **Describe the session**
 
 
