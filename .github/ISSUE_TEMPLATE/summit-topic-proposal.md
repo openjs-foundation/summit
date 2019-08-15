@@ -24,6 +24,7 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 
 
 **Follow-up / Set-up sessions (if any)**
+> List the sessions that are related. 
 
 
 **Level**
@@ -32,7 +33,7 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 - [] Advanced
 
 **Pre-requisite knowledge**
-> This is required for both Intermediate and Advanced sessions
+> List pre-requisite knowledge that it would be required for participants to have.
 
 
 **Describe the session**
