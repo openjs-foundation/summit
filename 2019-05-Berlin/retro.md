@@ -33,3 +33,7 @@
         - do it regularly - need to talk to Tracy about logistics
     - do it every 3 months and socialize it a month beforehand
     - add a time when we lock the schedule so there are no changes
+    
+## Resources
+
+* Recording of retro meeting: [https://invisionapp.zoom.us/recording/share/y_PXpxJ45HM5YCRsNmvlUzR6gl-5DjvrHQs7s_q21USwIumekTziMw](https://invisionapp.zoom.us/recording/share/y_PXpxJ45HM5YCRsNmvlUzR6gl-5DjvrHQs7s_q21USwIumekTziMw)
