@@ -17,6 +17,24 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 
 **Topic of the session**
 
+**Type of the session**
+- [] Collaborate
+- [] Workshop
+- [] Talk
+
+
+**Follow-up / Set-up sessions (if any)**
+> List the sessions that are related. 
+
+
+**Level**
+- [] Beginner
+- [] Intermediate
+- [] Advanced
+
+**Pre-requisite knowledge**
+> List pre-requisite knowledge that it would be required for participants to have.
+
 
 **Describe the session**
 
