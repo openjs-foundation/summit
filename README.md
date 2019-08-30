@@ -11,6 +11,7 @@ Every 2 weeks on Tuesday, until Dec 10, 2019
 7:00 – 7:30pm CEST
 
 Join via Google Hangout: https://meet.google.com/isf-dbpw-nyz
+Everyone is welcome!
 
 ## Cost
 Free!
