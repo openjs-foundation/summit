@@ -1,4 +1,4 @@
-# Collaborator Summit Montreal 2019 - December 13th and 14th 🇩🇪
+# Collaborator Summit Montreal 2019 - December 13th and 14th 🇨🇦
 
 This is a live document that will be constantly updated to match the proposed agenda.
 
