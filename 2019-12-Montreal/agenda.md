@@ -26,7 +26,7 @@ TBA
 _To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details.
 
 
-## Collaborator Summit Day Two: 14st December, 2019
+## Collaborator Summit Day Two: 14th December, 2019
 
 ### Agenda
 TBA
@@ -41,7 +41,7 @@ _To speak/present a topic/do a sesssion, please open a issue in repo. Check http
 
 ## Attendance
 
-Anyone can come, but we will not be explicitly onboarding at Collab Summit Berlin. Conversations can move fast as working groups have a lot of context.
+Anyone can come, but we will not be explicitly onboarding at Collab Summit Montreal. Conversations can move fast as working groups have a lot of context.
 This instance does not include a morning of Code + Learn, the session that guides people through contributing to the project.
 
 Working groups will put together a brief schedule so that people can familiarize themselves before folks get onsite, having the general collaborator discussions, and then dive into breakout sessions.
