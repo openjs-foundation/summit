@@ -4,7 +4,7 @@ This is a live document that will be constantly updated to match the proposed ag
 
 A collaborator summit is a mix of presentations and interactive sessions lead by the Teams, Working Groups, and Projects that participate in the summit. For interactive sessions, our time is best served if a the team/working groups/project participate in good numbers (quorum etc).
 
-__We can change everything__, so if you think a better structure will suit us better, let us know in #201, or just send a PR!
+__We can change everything__, so if you think a better structure will suit us better, let us know in [#202](https://github.com/openjs-foundation/summit/issues/202), or just send a PR!
 
 It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md).
 
@@ -23,14 +23,14 @@ TBA
 
 ### Agenda
 TBA
-_To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details.
+_To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
 
 ## Collaborator Summit Day Two: 14th December, 2019
 
 ### Agenda
 TBA
-_To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details.
+_To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
 
 ## Organizers
@@ -103,4 +103,4 @@ Note: At the current time, all email sent to the [report@nodejs.org](mailto:repo
 
 ------------------------
 
-✨ Super stoked to see everyone in May! ✨
+✨ Super stoked to see everyone in December! ✨
