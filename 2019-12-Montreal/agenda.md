@@ -22,22 +22,25 @@ TBA
 ## Collaborator Summit Day One: 13th December, 2019
 
 ### Agenda
-TBA
+| Time | Main | Room | Issue | Slides |
+|------|------|----------|-------|--------|
+
 _To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
 
 ## Collaborator Summit Day Two: 14th December, 2019
 
 ### Agenda
-TBA
+| Time | Main | Room | Issue | Slides |
+|------|------|----------|-------|--------|
 _To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
-
 
 ## Organizers
 
-- Tracy Lee ([@ladyleet](https://github.com/ladyleet))
+- Eva Howe ([@evahowe](https://github.com/evahowe))
 - Jory ([@jorydotcom](https://github.com/jorydotcom))
-- TBA
+- Tracy Lee ([@ladyleet](https://github.com/ladyleet))
+- Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
 
 ## Attendance
 
