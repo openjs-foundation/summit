@@ -49,7 +49,7 @@ This instance does not include a morning of Code + Learn, the session that guide
 
 Working groups will put together a brief schedule so that people can familiarize themselves before folks get onsite, having the general collaborator discussions, and then dive into breakout sessions.
 
-Attendees must register at (TBA)
+Attendees must register [HERE]( https://www.cvent.com/events/node-js-interactive-2019/registration-cd8a157b1e074233a1c5222b6e58dd55.aspx?r=e83a52ea-60e2-4fe1-b594-4a8cc88c55d6&tystub=1hqsfg&fqp=true)
 
 ## Travel Fund
 There are funds available for any Individual Member of the Node.js Foundation to receive travel funds to Collab Summit.  Membership is free for active collaborators. Sign up [HERE](https://github.com/nodejs/members#members).
