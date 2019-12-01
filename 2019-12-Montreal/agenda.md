@@ -17,7 +17,7 @@ Montreal Convention Centre, Montreal,
 [Palais des congrès de Montréal, Montréal, Canada](https://goo.gl/maps/UAkCWyVxGhwp3BDD7)
 
 ## Timings: 
-  09:00 - 18:00
+  0800 - 1800
 
 ## Room Setup - both days:
   1 Main Room with a/v
