@@ -16,24 +16,53 @@ It would be fantastic if each one of the breakouts is facilitated by a person wh
 ### Timings: 
   09:00 - 18:00
 
-### Room Setup - both days
-TBA
+### Room Setup - both days:
+  1 Main Room with a/v
+
+### Feedback Forum:
+  TBA
 
 ## Collaborator Summit Day One: 13th December, 2019
 
 ### Agenda
-| Time | Main | Room | Issue | Slides |
-|------|------|----------|-------|--------|
+| Time | Main | Issue | Slides |
+|------|------|----------|----------|
+| Zoom | https://zoom.us/j/? | | |
+| 0800 | Welcome and Introduction to Collab Summit | | | |
+| 0830 | Node.js Collection & Social Media | [198](https://github.com/openjs-foundation/summit/issues/198) | | |
+| 0930 | npm open rfc meeting | [197](https://github.com/openjs-foundation/summit/issues/197) | | |
+| 1030 | **BREAK** | | | |
+| 1100 | Node.js Release working group | [195](https://github.com/openjs-foundation/summit/issues/195) | | |
+| 1230 | **LUNCH** | | | |
+| 1330 | An Update on Unflagged ES Modules in Node.js | [207](https://github.com/openjs-foundation/summit/issues/207) | | |
+| 1530 | **BREAK** | | | |
+| 1600 | Node.js Tooling Group Meeting | [194](https://github.com/openjs-foundation/summit/issues/194) | | |
+| 1700 | Package Maintenance working group session | [209](https://github.com/openjs-foundation/summit/issues/209) | | |
+| 1800 | END OF DAY 1 | | | |
 
-_To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
-
+_To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
 ## Collaborator Summit Day Two: 14th December, 2019
 
 ### Agenda
-| Time | Main | Room | Issue | Slides |
-|------|------|----------|-------|--------|
-_To speak/present a topic/do a sesssion, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
+| Time | Main | Issue | Slides |
+|------|------|----------|----------|
+| Zoom | https://zoom.us/j/? | | |
+| 0800 | Welcome and Introduction | | | |
+| 0815 | QUIC In-Depth | [185](https://github.com/openjs-foundation/summit/issues/185)
+| 0845 | Streams - async iterators and promises | []()
+| 0915 | Node.js diagnostics | [206](https://github.com/openjs-foundation/summit/issues/206)
+| 1015 | **BREAK** |
+| 1045 | Streams - Future Streams / "BOB" initiative | [196](https://github.com/openjs-foundation/summit/issues/196)
+| 1145 | Node.js diagnostics | [206](https://github.com/openjs-foundation/summit/issues/206)
+| 1245 | **LUNCH** |
+| 1345 | CPC Session | [199](https://github.com/openjs-foundation/summit/issues/199)
+| 1545 | **BREAK** |
+| 1615 | Node.js Community Committee: OKR building | [203](https://github.com/openjs-foundation/summit/issues/203)
+| 1715 | Node.js Community Committee: OKR building | [203](https://github.com/openjs-foundation/summit/issues/203)
+| 1800 | Ending Note |
+
+_To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
 ## Organizers
 
@@ -44,7 +73,7 @@ _To speak/present a topic/do a sesssion, please open a issue in repo. Check http
 
 ## Attendance
 
-Anyone can come, but we will not be explicitly onboarding at Collab Summit Montreal. Conversations can move fast as working groups have a lot of context.
+Anyone can come, but we will not be explicitly on boarding at Collab Summit Montreal. Conversations can move fast as working groups have a lot of context.
 This instance does not include a morning of Code + Learn, the session that guides people through contributing to the project.
 
 Working groups will put together a brief schedule so that people can familiarize themselves before folks get onsite, having the general collaborator discussions, and then dive into breakout sessions.
