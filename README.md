@@ -1,11 +1,22 @@
-# Node.js Collaborator Summit
+# OpenJS Foundation Collaborator Summit
 
-The Node.js Foundation hosts regular summits for active contributors to the node.js project, this repository is being used to organize them.
+The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
+
+## Upcoming Events
+- Dec 13-14 2019, Montreal, Canada
+
+## Planning Meetings
+
+Every 2 weeks on Tuesday, until Dec 10, 2019
+7:00 – 7:30pm CEST
+
+Join via Google Hangout: https://meet.google.com/isf-dbpw-nyz
+Everyone is welcome!
 
 ## Cost
 Free!
 
-Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md) for details.
+Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/openjs-foundation/cross-project-council/tree/master/proposals/stage-2/TRAVEL_FUND#openjs-travel-fund) for details.
 
 ## Upcoming Events
 - [Dec 13-14 2019, Montreal, Canada](https://github.com/openjs-foundation/summit/issues/202)
@@ -22,4 +33,3 @@ Although the summits may be coordinated with other events/conferences, you do no
 
 ## Code of Conduct
 http://events.linuxfoundation.org/events/node-interactive/attend/code-of-conduct
-
