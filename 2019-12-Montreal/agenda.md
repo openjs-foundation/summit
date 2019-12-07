@@ -57,7 +57,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | Zoom | https://zoom.us/j/ | https://zoom.us/j/ | https://zoom.us/j/ |
 | 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) | |
 | 1030 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | _previous session continues_ | |
-| 1100 | (1) Streams (Node.js) [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ | |
+| 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ | |
 | 1130 | _previous session continues_ | _previous session continues_ | |
 | 1230 | 🍍 Lunch
 | 1330 | Node.js diagnostics [206](https://github.com/openjs-foundation/summit/issues/206) | _previous session continues_ | |
