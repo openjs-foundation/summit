@@ -34,12 +34,12 @@ We will have 3 room on both days. All three room will have Zoom Id to join remot
 ### Agenda
 | Time | Room 510AC | Room 513EF | Room 512DH |
 |------|-----------------------------|----------------------------|---------------------------|
-| Zoom | https://zoom.us/j/ | https://zoom.us/j/ | https://zoom.us/j/ |
+| Zoom | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 | https://zoom.us/j/680085630 |
 | 1000 | Introduction
 | 1030 | Node.js Streams Promise Support [216](https://github.com/openjs-foundation/summit/issues/216) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | Node.js Release working group [195](https://github.com/openjs-foundation/summit/issues/195) |
 | 1130 | npm open rfc meeting [197](https://github.com/openjs-foundation/summit/issues/197) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | |
 | 1230 | 🍍 Lunch
-| 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) | CPC Blue Sky Thinking and Breakout Planning |
+| 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) | CPC Blue Sky Thinking and Breakout Planning [199](https://github.com/openjs-foundation/summit/issues/199) |
 | 1430 | _previous session continues_ | Roadshows and Events for OpenJS Projects [211](https://github.com/openjs-foundation/summit/issues/211) | _previous session continues_
 | 1530 | ☕️ coffee break
 | 1600 | Node.js Tooling Group Meeting [194](https://github.com/openjs-foundation/summit/issues/194) | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
@@ -52,18 +52,18 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 ## Collaborator Summit Day Two: 14th December, 2019
 
 ### Agenda
-| Time | Room 510AC | Room 513EF | Room 512DH |
-|------|-----------------------------|----------------------------|---------------------------|
-| Zoom | https://zoom.us/j/ | https://zoom.us/j/ | https://zoom.us/j/ |
-| 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) | |
-| 1030 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | _previous session continues_ | |
-| 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ | |
-| 1130 | _previous session continues_ | _previous session continues_ | |
+| Time | Room 510AC | Room 513EF |
+|------|-----------------------------|----------------------------|
+| Zoom | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 |
+| 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) [199](https://github.com/openjs-foundation/summit/issues/199) |
+| 1030 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | _previous session continues_ |
+| 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ |
+| 1130 | _previous session continues_ | _previous session continues_ |
 | 1230 | 🍍 Lunch
-| 1330 | Node.js diagnostics [206](https://github.com/openjs-foundation/summit/issues/206) | _previous session continues_ | |
+| 1330 | Node.js diagnostics [206](https://github.com/openjs-foundation/summit/issues/206) | _previous session continues_ |
 | 1430 |
 | 1530 | ☕️ coffee break
-| 1600 | ENDING NOTE | | |
+| 1600 | ENDING NOTE | |
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
