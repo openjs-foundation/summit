@@ -16,54 +16,54 @@ Attendees must register [HERE]( https://www.cvent.com/events/node-js-interactive
 Montreal Convention Centre, Montreal,
 [Palais des congrès de Montréal, Montréal, Canada](https://goo.gl/maps/UAkCWyVxGhwp3BDD7)
 
-## Timings: 
-  09:00 - 18:00
+## Timings:
+- First Day: 0100 - 1800
+- Second Day: 0100 - 1600
 
 ## Room Setup - both days:
-  1 Main Room with a/v
+We will have 3 room on both days. All three room will have Zoom Id to join remotely and hopefully, sessions will be recorded.
+- Room 510AC : ~ 120 People
+- Room 513EF : ~ 70 People
+- Room 512DH : ~ 45 People
 
 ## Feedback Forum:
-  TBA
+  Please submit your feedback about what you liked and how can we improve it next time. [Form Link](https://docs.google.com/forms/d/e/1FAIpQLScc_eFLdNswhx-JI9D-O9TyIAqX5GVRaDz9RrSt_QoFlwSbkg/viewform)
 
 ## Collaborator Summit Day One: 13th December, 2019
 
 ### Agenda
-| Time | Main | Issue | Slides |
-|------|------|----------|----------|
-| Zoom | https://zoom.us/j/? | | |
-| 0800 | Welcome and Introduction to Collab Summit | | | |
-| 0830 | Node.js Collection & Social Media | [198](https://github.com/openjs-foundation/summit/issues/198) | | |
-| 0930 | npm open rfc meeting | [197](https://github.com/openjs-foundation/summit/issues/197) | | |
-| 1030 | **BREAK** | | | |
-| 1100 | Node.js Release working group | [195](https://github.com/openjs-foundation/summit/issues/195) | | |
-| 1230 | **LUNCH** | | | |
-| 1330 | An Update on Unflagged ES Modules in Node.js | [207](https://github.com/openjs-foundation/summit/issues/207) | | |
-| 1530 | **BREAK** | | | |
-| 1600 | Node.js Tooling Group Meeting | [194](https://github.com/openjs-foundation/summit/issues/194) | | |
-| 1700 | Package Maintenance working group session | [209](https://github.com/openjs-foundation/summit/issues/209) | | |
-| 1800 | END OF DAY 1 | | | |
+| Time | Room 510AC | Room 513EF | Room 512DH |
+|------|-----------------------------|----------------------------|---------------------------|
+| Zoom | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 | https://zoom.us/j/680085630 |
+| 1000 | Introduction
+| 1030 | Node.js Streams Promise Support [216](https://github.com/openjs-foundation/summit/issues/216) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | Node.js Release working group [195](https://github.com/openjs-foundation/summit/issues/195) |
+| 1130 | npm open rfc meeting [197](https://github.com/openjs-foundation/summit/issues/197) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | |
+| 1230 | 🍍 Lunch
+| 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) | CPC Blue Sky Thinking and Breakout Planning [199](https://github.com/openjs-foundation/summit/issues/199) |
+| 1430 | _previous session continues_ | Roadshows and Events for OpenJS Projects [211](https://github.com/openjs-foundation/summit/issues/211) | _previous session continues_
+| 1530 | ☕️ coffee break
+| 1600 | Node.js Tooling Group Meeting [194](https://github.com/openjs-foundation/summit/issues/194) | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
+| 1630 | _previous session continues_ | Marcomm Support: What's available and how to get plugged in: Getting projects connected to marketing resources from the Open JSF | _previous session continues_
+| 1700 | Package Maintenance working group session [209](https://github.com/openjs-foundation/summit/issues/209) | _previous session continues_ | Code Of  Conduct
+| 1800 | END OF DAY 1 - Happy Hour Sponsored by Netflix - right outside of room 510 A and B
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
 ## Collaborator Summit Day Two: 14th December, 2019
 
 ### Agenda
-| Time | Main | Issue | Slides |
-|------|------|----------|----------|
-| Zoom | https://zoom.us/j/? | | |
-| 0800 | Welcome and Introduction | | | |
-| 0815 | QUIC In-Depth | [185](https://github.com/openjs-foundation/summit/issues/185)
-| 0845 | Streams - async iterators and promises | []()
-| 0915 | Node.js diagnostics | [206](https://github.com/openjs-foundation/summit/issues/206)
-| 1015 | **BREAK** |
-| 1045 | Streams - Future Streams / "BOB" initiative | [196](https://github.com/openjs-foundation/summit/issues/196)
-| 1145 | Node.js diagnostics | [206](https://github.com/openjs-foundation/summit/issues/206)
-| 1245 | **LUNCH** |
-| 1345 | CPC Session | [199](https://github.com/openjs-foundation/summit/issues/199)
-| 1545 | **BREAK** |
-| 1615 | Node.js Community Committee: OKR building | [203](https://github.com/openjs-foundation/summit/issues/203)
-| 1715 | Node.js Community Committee: OKR building | [203](https://github.com/openjs-foundation/summit/issues/203)
-| 1800 | Ending Note |
+| Time | Room 510AC | Room 513EF |
+|------|-----------------------------|----------------------------|
+| Zoom | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 |
+| 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) [199](https://github.com/openjs-foundation/summit/issues/199) |
+| 1030 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | _previous session continues_ |
+| 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ |
+| 1130 | _previous session continues_ | _previous session continues_ |
+| 1230 | 🍍 Lunch
+| 1330 | Node.js diagnostics [206](https://github.com/openjs-foundation/summit/issues/206) | _previous session continues_ |
+| 1430 |
+| 1530 | ☕️ coffee break
+| 1600 | ENDING NOTE | |
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
