@@ -33,7 +33,7 @@ We will have 3 room on both days. All three room will have Zoom Id to join remot
 ### Agenda
 | Time | Room 510AC | Room 513EF | Room 512DH |
 |------|-----------------------------|----------------------------|---------------------------|
-| Zoom | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 | https://zoom.us/j/680085630 |
+| Zoom (ask any [organizer](#organizers) for login credentials to start the zoom meeting) | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 | https://zoom.us/j/680085630 |
 | 1000 | Introduction
 | 1030 | Node.js Streams Promise Support [216](https://github.com/openjs-foundation/summit/issues/216) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | Node.js Release working group [195](https://github.com/openjs-foundation/summit/issues/195) |
 | 1130 | npm open rfc meeting [197](https://github.com/openjs-foundation/summit/issues/197) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | |
@@ -53,7 +53,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 ### Agenda
 | Time | Room 510AC | Room 513EF |
 |------|-----------------------------|----------------------------|
-| Zoom | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 |
+| Zoom (ask any [organizer](#organizers) for login credentials to start the zoom meeting) | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 |
 | 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) [199](https://github.com/openjs-foundation/summit/issues/199) |
 | 1030 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | _previous session continues_ |
 | 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ |
@@ -71,6 +71,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 - Jory ([@jorydotcom](https://github.com/jorydotcom))
 - Tracy Lee ([@ladyleet](https://github.com/ladyleet))
 - Waleed Ashraf ([@waleedashraf](https://github.com/waleedashraf))
+- Manil Chowdhury ([@keywordnew](https://github.com/keywordnew))
 
 ## Attendance
 Anyone can come, but we will not be explicitly on boarding at Collab Summit Montreal. Conversations can move fast as working groups have a lot of context.
