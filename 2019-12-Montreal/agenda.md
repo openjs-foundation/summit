@@ -17,8 +17,8 @@ Montreal Convention Centre, Montreal,
 [Palais des congrès de Montréal, Montréal, Canada](https://goo.gl/maps/UAkCWyVxGhwp3BDD7)
 
 ## Timings:
-- First Day: 0100 - 1800
-- Second Day: 0100 - 1600
+- First Day: 1000 - 1800
+- Second Day: 1000 - 1600
 
 ## Room Setup - both days:
 We will have 3 room on both days. All three room will have Zoom Id to join remotely and hopefully, sessions will be recorded.
