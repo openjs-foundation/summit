@@ -62,7 +62,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | 1330 | Node.js diagnostics [206](https://github.com/openjs-foundation/summit/issues/206) | _previous session continues_ |
 | 1430 | Node.js Tooling Group Meeting [194](https://github.com/openjs-foundation/summit/issues/194) |
 | 1530 | ☕️ coffee break
-| 1800 | ENDING NOTE |  _previous session continues_ |
+| 1800 | ENDING NOTE | |
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
