@@ -17,8 +17,7 @@ Montreal Convention Centre, Montreal,
 [Palais des congrès de Montréal, Montréal, Canada](https://goo.gl/maps/UAkCWyVxGhwp3BDD7)
 
 ## Timings:
-- First Day: 1000 - 1800
-- Second Day: 1000 - 1600
+- Both Days: 1000 - 1800
 
 ## Room Setup - both days:
 We will have 3 room on both days. All three room will have Zoom Id to join remotely and hopefully, sessions will be recorded.
@@ -39,10 +38,10 @@ We will have 3 room on both days. All three room will have Zoom Id to join remot
 | 1030 | Node.js Streams Promise Support [216](https://github.com/openjs-foundation/summit/issues/216) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | Node.js Release working group [195](https://github.com/openjs-foundation/summit/issues/195) |
 | 1130 | npm open rfc meeting [197](https://github.com/openjs-foundation/summit/issues/197) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | |
 | 1230 | 🍍 Lunch
-| 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) | CPC Blue Sky Thinking and Breakout Planning [199](https://github.com/openjs-foundation/summit/issues/199) |
+| 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) |  Joint session Board, CPC, and community members [228](https://github.com/openjs-foundation/summit/issues/228) |
 | 1430 | _previous session continues_ | Roadshows and Events for OpenJS Projects [211](https://github.com/openjs-foundation/summit/issues/211) | _previous session continues_
 | 1530 | ☕️ coffee break
-| 1600 | Node.js Tooling Group Meeting [194](https://github.com/openjs-foundation/summit/issues/194) | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
+| 1600 | CPC Blue Sky Thinking and Breakout Planning [199](https://github.com/openjs-foundation/summit/issues/199)  | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
 | 1630 | _previous session continues_ | Marcomm Support: What's available and how to get plugged in: Getting projects connected to marketing resources from the Open JSF | _previous session continues_
 | 1700 | Package Maintenance working group session [209](https://github.com/openjs-foundation/summit/issues/209) | _previous session continues_ | Code Of  Conduct
 | 1800 | END OF DAY 1 - Happy Hour Sponsored by Netflix - right outside of room 510 A and B
@@ -61,9 +60,9 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | 1130 | _previous session continues_ | _previous session continues_ |
 | 1230 | 🍍 Lunch
 | 1330 | Node.js diagnostics [206](https://github.com/openjs-foundation/summit/issues/206) | _previous session continues_ |
-| 1430 |
+| 1430 | Node.js Tooling Group Meeting [194](https://github.com/openjs-foundation/summit/issues/194) |
 | 1530 | ☕️ coffee break
-| 1600 | ENDING NOTE | |
+| 1800 | ENDING NOTE | |
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
