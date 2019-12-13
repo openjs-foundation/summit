@@ -58,7 +58,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | Time | Room 510AC | Room 513EF |
 |------|-----------------------------|----------------------------|
 | Zoom (ask any [organizer](#organizers) for login credentials to start the zoom meeting) | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 |
-| 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) [199](https://github.com/openjs-foundation/summit/issues/199) |
+| 1000 | Making single-company projects more open [218](https://github.com/openjs-foundation/summit/issues/218) | CPC Breakout Sessions (TBD based on Friday's breakout planning) [199](https://github.com/openjs-foundation/summit/issues/199) |
 | 1030 | | _previous session continues_ |
 | 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ |
 | 1130 | _previous session continues_ | _previous session continues_ |
