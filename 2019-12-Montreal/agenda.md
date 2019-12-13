@@ -19,6 +19,10 @@ Montreal Convention Centre, Montreal,
 ## Timings:
 - Both Days: 1000 - 1800
 
+## Slack - OpenJS Foundation
+Link to join slack: https://communityinviter.com/apps/js-foundation/join-openjs-foundation-on-slack .
+Once you join the OpenJS Foundation Slack Workspace, you can participate in any of the public channels. If you are new to Slack, you can view a full list of available channels by clicking the “Channels” link on the left.
+
 ## Room Setup - both days:
 We will have 3 room on both days. All three room will have Zoom Id to join remotely and hopefully, sessions will be recorded.
 - Room 510AC : ~ 120 People
@@ -36,12 +40,12 @@ We will have 3 room on both days. All three room will have Zoom Id to join remot
 | Zoom (ask any [organizer](#organizers) for login credentials to start the zoom meeting) | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 | https://zoom.us/j/680085630 |
 | 1000 | Introduction
 | 1030 | Node.js Streams Promise Support [216](https://github.com/openjs-foundation/summit/issues/216) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | Node.js Release working group [195](https://github.com/openjs-foundation/summit/issues/195) |
-| 1130 | npm open rfc meeting [197](https://github.com/openjs-foundation/summit/issues/197) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | |
+| 1130 | npm open rfc meeting [197](https://github.com/openjs-foundation/summit/issues/197) | Node.js Community Committee: OKR building [203](https://github.com/openjs-foundation/summit/issues/203) | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) |
 | 1230 | 🍍 Lunch
 | 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) |  Joint session Board, CPC, and community members [228](https://github.com/openjs-foundation/summit/issues/228) |
 | 1430 | _previous session continues_ | Roadshows and Events for OpenJS Projects [211](https://github.com/openjs-foundation/summit/issues/211) | _previous session continues_
 | 1530 | ☕️ coffee break
-| 1600 | | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
+| 1600 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
 | 1630 | | Marcomm Support: What's available and how to get plugged in: Getting projects connected to marketing resources from the Open JSF | _previous session continues_
 | 1700 | Package Maintenance working group session [209](https://github.com/openjs-foundation/summit/issues/209) | _previous session continues_ | Code Of  Conduct
 | 1800 | END OF DAY 1 - Happy Hour Sponsored by Netflix - right outside of room 510 A and B
@@ -55,7 +59,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 |------|-----------------------------|----------------------------|
 | Zoom (ask any [organizer](#organizers) for login credentials to start the zoom meeting) | https://zoom.us/j/173804425 | https://zoom.us/j/349852956 |
 | 1000 | Making single-company projects more open | CPC Breakout Sessions (TBD based on Friday's breakout planning) [199](https://github.com/openjs-foundation/summit/issues/199) |
-| 1030 | QUIC In-Depth [185](https://github.com/openjs-foundation/summit/issues/185) | _previous session continues_ |
+| 1030 | | _previous session continues_ |
 | 1100 | Streams - Node.js [196](https://github.com/openjs-foundation/summit/issues/196) | _previous session continues_ |
 | 1130 | _previous session continues_ | _previous session continues_ |
 | 1230 | 🍍 Lunch
