@@ -66,6 +66,9 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/184 for more details._
 
+## Social Media Hashtag
+The social media hashtag for OpenJS Collab Summit is [#OpenJSCollabSummit](https://twitter.com/search?q=%23OpenJSCollabSummit)
+
 ## Organizers
 - Eva Howe ([@evahowe](https://github.com/evahowe))
 - Jory ([@jorydotcom](https://github.com/jorydotcom))
