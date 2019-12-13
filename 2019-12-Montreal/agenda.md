@@ -41,7 +41,7 @@ We will have 3 room on both days. All three room will have Zoom Id to join remot
 | 1330 | An Update on Unflagged ES Modules in Node.js [207](https://github.com/openjs-foundation/summit/issues/207) | Node.js Collection & Social Media [198](https://github.com/openjs-foundation/summit/issues/198) |  Joint session Board, CPC, and community members [228](https://github.com/openjs-foundation/summit/issues/228) |
 | 1430 | _previous session continues_ | Roadshows and Events for OpenJS Projects [211](https://github.com/openjs-foundation/summit/issues/211) | _previous session continues_
 | 1530 | ☕️ coffee break
-| 1600 | | I'm a lawyer in the Google Open Source Programs office AMA [220](https://github.com/openjs-foundation/summit/issues/220) | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
+| 1600 | | | AMP Infrastructure Working Group [226](https://github.com/openjs-foundation/summit/issues/226)
 | 1630 | | Marcomm Support: What's available and how to get plugged in: Getting projects connected to marketing resources from the Open JSF | _previous session continues_
 | 1700 | Package Maintenance working group session [209](https://github.com/openjs-foundation/summit/issues/209) | _previous session continues_ | Code Of  Conduct
 | 1800 | END OF DAY 1 - Happy Hour Sponsored by Netflix - right outside of room 510 A and B
