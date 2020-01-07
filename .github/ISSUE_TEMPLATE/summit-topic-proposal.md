@@ -23,6 +23,9 @@ Please feel free to link to any other issue, PR, or resource that could be relev
 - [] Talk
 
 
+**Estimated duration of the session**
+
+
 **Follow-up / Set-up sessions (if any)**
 > List the sessions that are related. 
 
@@ -47,3 +50,9 @@ Here's a handy [guide](https://github.com/nodejs/summit/blob/master/SESSION_FACI
 
 
 **Additional context (optional)**
+
+<!--
+Please let us know if this session is:
+- suppose to be led by someone remotely?
+- prefered to be hold at a specific time, of so which time is preferred?
+-->
