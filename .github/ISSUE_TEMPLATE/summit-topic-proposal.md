@@ -2,13 +2,13 @@
 name: Summit Topic Proposal
 about: Submit a topic proposal for a session at the Collab Summit
 title: 'Summit Topic: '
-labels: Montreal 2019, Collaborator Summit, Session Proposal
+labels: Austin 2020, Collaborator Summit, Session Proposal
 assignees: christian-bromann, evahowe, jorydotcom, keywordnew
 
 ---
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Montreal 2019!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Austin (TX) 2020!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 

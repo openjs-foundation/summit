@@ -3,7 +3,7 @@
 The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
 
 ## Upcoming Events
-- Dec 13-14 2019, Montreal, Canada
+- June 2020, Austin, Texas, USA
 
 ## Planning Meetings
 
@@ -19,9 +19,10 @@ Free!
 Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/openjs-foundation/cross-project-council/tree/master/proposals/stage-2/TRAVEL_FUND#openjs-travel-fund) for details.
 
 ## Upcoming Events
-- [Dec 13-14 2019, Montreal, Canada](https://github.com/openjs-foundation/summit/issues/202)
+- [Jun 2020, Austin, Texas, USA](https://github.com/openjs-foundation/summit/issues/236)
 
 ## Past Events
+- [Dec 13-14 2019, Montreal, Canada](https://github.com/openjs-foundation/summit/issues/202)
 - [May 30-31 2019, Berlin, Germany](https://github.com/nodejs/summit/issues/135)
 - [Oct 12-13 2018, Vancouver, Canada](https://github.com/nodejs/summit/issues/59)
 - [May 31-June 01 2018, Berlin, Germany](https://github.com/nodejs/summit/issues/60)
