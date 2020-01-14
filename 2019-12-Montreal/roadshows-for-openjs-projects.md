@@ -1,10 +1,10 @@
 # Roadshows for OpenJS Projects Session
 
-### From [GH issue #211](https://github.com/openjs-foundation/summit/issues/211)
+## From [GH issue #211](https://github.com/openjs-foundation/summit/issues/211)
 
-## Question: Are other OpenJS projects interested in trying out the AMP roadshow model - or collaborating on global developer roadshow events?
+### Question: Are other OpenJS projects interested in trying out the AMP roadshow model - or collaborating on global developer roadshow events?
 
-## Some ideas that emerged:
+#### Some ideas that emerged:
 * At AMP roadshows, could we let people know about other OpenJS projects and how to contribute to them? 
 * Could other projects join AMP in a roadshow or run a session? Perhaps something about testing performance or node-based server-side build tools.
 * Can such events help build OpenJS' community of communities?
