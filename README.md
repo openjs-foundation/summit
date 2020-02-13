@@ -8,9 +8,10 @@ The OpenJS Foundation hosts regular summits for active contributors to the found
 ## Planning Meetings
 
 Every 2 weeks on Tuesday - see [issues](https://github.com/openjs-foundation/summit/issues) for meeting notices and agendas
+
 6:00 – 7:00pm UTC 
-Join via Zoom: https://zoom.us/j/742726725
-Everyone is welcome!
+
+Join via Zoom: https://zoom.us/j/742726725 - Everyone is welcome!
 
 ## Cost
 Free!
