@@ -3,7 +3,7 @@ name: Summit Topic Proposal
 about: Submit a topic proposal for a session at the Collab Summit
 title: 'Summit Topic: '
 labels: Austin 2020, Collaborator Summit, Session Proposal
-assignees: christian-bromann, evahowe, jorydotcom, keywordnew
+assignees: christian-bromann, evahowe, jorydotcom, keywordnew, wesleytodd
 
 ---
 
