@@ -7,6 +7,8 @@ assignees: christian-bromann, evahowe, jorydotcom, keywordnew, wesleytodd, walee
 
 ---
 
+### Proposal
+
 <!--
 Thank you! You are submitting a topic for the next Collaborator's Summit, Austin (TX) 2020!
 
@@ -89,4 +91,20 @@ Please let us know if this session is:
 - needs to be held at a specific time/date, and if so, which which that is
 -->
 
+----
 
+<!--
+Thank you for the Session Proposal. You're done! The next section is for logistics and planning only.
+-->
+
+## This section is for use by contributors handling Collaborator Summit logistics
+
+**Track**
+
+- [ ] New Contributor Orientation Track
+- [ ] Regular Track
+
+**Triage**
+
+- [ ] Track chosen
+- [ ] Scheduled
