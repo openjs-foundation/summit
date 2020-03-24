@@ -97,7 +97,7 @@ Please let us know if this session is:
 Thank you for the Session Proposal. You're done! The next section is for logistics and planning only.
 -->
 
-### This section is for use by contributors handling Collaborator Summit logistics
+### This section is for contributors handling Collaborator Summit logistics
 
 **Track**
 
