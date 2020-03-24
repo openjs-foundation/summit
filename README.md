@@ -5,7 +5,7 @@ The OpenJS Foundation hosts regular summits for active contributors to the found
 ## Upcoming Events
 - June 25 – 26, 2020 - Austin, Texas, USA
 
-__Note:__ given the current [Novel Coronavirus Update](https://events.linuxfoundation.org/openjs-world/attend/novel-coronavirus-update/) the OpenJS World is taking place, so is the OpenJS Collab Summit. Please check regularly for updates on this as it might change due to current circumstances.
+__Note:__ per the current [Novel Coronavirus Update](https://events.linuxfoundation.org/openjs-world/attend/novel-coronavirus-update/) the OpenJS World is still planned to take place, as is the OpenJS Collab Summit. Please check regularly for updates on this as it might change due to current circumstances.
 
 We also ask everyone who is considering applying for the [Travel Fund](https://github.com/openjs-foundation/cross-project-council/blob/master/project-resources/MEMBER_TRAVEL_FUND.md) to hold off any flight ticket purchases and accommodation arrangements until further notice.
 
