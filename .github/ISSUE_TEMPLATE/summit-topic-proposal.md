@@ -3,7 +3,7 @@ name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
 title: 'Session Proposal: '
 labels: Austin 2020, Collaborator Summit, Session Proposal
-assignees: christian-bromann, evahowe, jorydotcom, keywordnew, wesleytodd, waleedashraf
+assignees: christian-bromann, jorydotcom, keywordnew, wesleytodd, waleedashraf
 
 ---
 
@@ -64,9 +64,9 @@ Note that your choice of Level will signal expectations to your potential partic
 **Pre-requisite knowledge**
 
 <!--
-List pre-requisite knowledge that it would be required for participants to have. This is different from Level above. Pre-requisite knowledge 
+List pre-requisite knowledge that it would be required for participants to have or resources you would like them to review before the session. This is different from Level above. Pre-requisite knowledge 
 
-Example: It would be helpful for attendees to have some familiarity with the processes of the Release WG, since we plan to do a minor release during the session. That being said, we are happy to walk newer folks through the process.
+Example: It would be helpful for attendees to have some familiarity with the processes of the Release WG, since we plan to do a minor release during the session. That being said, we are happy to walk newer folks through the process. Please review [this doc]() before the session.
 -->
 
 **Describe the session**
@@ -75,10 +75,10 @@ Example: It would be helpful for attendees to have some familiarity with the pro
 It's ok to keep this very short, especially if you haven't yet finalized the specifics.
 -->
 
-**Session facilitator(s) and Github handle(s)**
+**Session facilitator(s), Github handle(s) and timezone(s)**
 
 <!--
-Example: Your name (@yourgithubhandle), Another name (@anothergithubhandle).
+Example: Your name (@yourgithubhandle) - CEST, Another name (@anothergithubhandle) - PST.
 
 Here's a handy [guide](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md) for the person or persons who will facilitate this session.
 -->
@@ -101,8 +101,9 @@ Thank you for the Session Proposal. You're done! The next section is for logisti
 
 **Track**
 
-- [ ] New Contributor Orientation Track
+- [ ] New Contributor Orientation Track (see #251)
 - [ ] Regular Track
+- [ ] Cross-Project Track
 
 **Triage**
 
