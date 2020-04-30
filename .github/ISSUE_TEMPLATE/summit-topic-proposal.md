@@ -33,6 +33,14 @@ Replace the space between the brackets with an x, like [x], to create a checked 
 - [ ] Workshop
 - [ ] Talk
 
+**Timezone of facilitator**
+
+<!--
+As the event is taking place online the organiser need to know your availability to schedule the track accordingly. For more information, see https://everytimezone.com/
+-->
+
+- <your answer>
+
 **Estimated duration of the session**
 
 <!--
