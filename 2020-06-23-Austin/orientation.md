@@ -2,7 +2,7 @@
 
 We are excited to welcome you to our anual Collaborator Summit. In order to help us make your experience great and ensure that you get the most out of hit we prepared the following little survey. Please follow along:
 
-<div align="center">I am attending the OpenJS Collaborator Summit as<div>
+<p align="center">I am attending the OpenJS Collaborator Summit as<p>
 <p align="center">
   <img src="./assets/arrow.png" />
 </p>
@@ -10,7 +10,7 @@ We are excited to welcome you to our anual Collaborator Summit. In order to help
 <table width="100%" style="position:relative; bottom: 30px;">
   <tr>
     <td width="50%" style="padding: 0 20px">
-        <center><h2>Open Source enthusiast and interested person</h2></center>
+       <h2>Open Source enthusiast and interested person</h2>
         Open Source would not work without the people putting in the work. This event is an excellent opportunity for you to get to meet the people behind your favorite JavaScript projects and collaborate with them on various topics.<br>
         <h3>What this event <b>can</b> help you with:</h3>
         <ul>
@@ -31,11 +31,11 @@ We are excited to welcome you to our anual Collaborator Summit. In order to help
         </ul>
     </td>
     <td width="50%" style="padding: 0 0 0 50px; vertical-align: top;">
-        <center><h2>Maintainer of an <a href="https://openjsf.org/projects/">OpenJS Project</a></h2></center>
+       <h2>Maintainer of an <a href="https://openjsf.org/projects/">OpenJS Project</a></h2>
         This is your chance to get together and be productive. Use the time to speak on important project topics, pair with each other to resolve bugs or tinker on new ideas.
         <h3>How to prepare for the event:</h3>
         <ul>
-          <li>Talk with you project community and evaluate topics that need a broader forum to talk about</li>
+          <li>Speak with your project community and evaluate topics that need a broader forum to talk about</li>
           <li>Create a <a href="https://github.com/openjs-foundation/summit/issues/new?assignees=christian-bromann%2C+jorydotcom%2C+keywordnew%2C+wesleytodd%2C+waleedashraf&labels=Austin+2020%2C+Collaborator+Summit%2C+Session+Proposal&template=summit-topic-proposal.md&title=Session+Proposal%3A+">session proposal</a> and fill out the correspondig issue form</li>
           <li>If you are a session facilitator let the orga team know about specific session requirements by reaching out in the #collabsummit Slack channel (e.g. whiteboard, markers, posteds etc.)</li>
         </ul>
