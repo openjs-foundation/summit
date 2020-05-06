@@ -3,7 +3,7 @@
 The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
 
 ## Upcoming Events
-- June 22, 25 & 26, 2020 - ~Austin, Texas, USA~ Online - [Register Here](https://www.cvent.com/events/openjs-collaborator-summit-2020/registration-71e4281e54dd46a0a0e2da15013e52db.aspx?_ga=2.164120568.674445174.1588801738-1126120395.1571424999&fqp=true) or [Register for OpenJS World](https://events.linuxfoundation.org/openjs-world/)
+- [June 22, 25 & 26, 2020 - ~Austin, Texas, USA~ Online](https://github.com/openjs-foundation/summit/issues/236) - [Register Here](https://www.cvent.com/events/openjs-collaborator-summit-2020/registration-71e4281e54dd46a0a0e2da15013e52db.aspx?_ga=2.164120568.674445174.1588801738-1126120395.1571424999&fqp=true) or [Register for OpenJS World](https://events.linuxfoundation.org/openjs-world/)
 
 __Note:__ The Collab Summit is now an online-only event, per the current [Novel Coronavirus Update](https://events.linuxfoundation.org/openjs-world/attend/novel-coronavirus-update/).
 
@@ -21,9 +21,6 @@ Join via Zoom: https://zoom.us/j/742726725 - Everyone is welcome!
 Free!
 
 Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/openjs-foundation/cross-project-council/tree/master/proposals/stage-2/TRAVEL_FUND#openjs-travel-fund) for details.
-
-## Upcoming Events
-- [Jun 2020, Austin, Texas, USA](https://github.com/openjs-foundation/summit/issues/236)
 
 ## Past Events
 - [Dec 13-14 2019, Montreal, Canada](https://github.com/openjs-foundation/summit/issues/202)
