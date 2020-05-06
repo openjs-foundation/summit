@@ -33,6 +33,7 @@ We are excited to welcome you to our anual Collaborator Summit. In order to help
     <td width="50%" style="padding: 0 0 0 50px; vertical-align: top;">
         <center><h2>Maintainer of an <a href="https://openjsf.org/projects/">OpenJS Project</a></h2></center>
         This is your chance to get together and be productive. Use the time to speak on important project topics, pair with each other to resolve bugs or tinker on new ideas.
+        <h3>How to prepare for the event:</h3>
         <ul>
           <li>Talk with you project community and evaluate topics that need a broader forum to talk about</li>
           <li>Create a <a href="https://github.com/openjs-foundation/summit/issues/new?assignees=christian-bromann%2C+jorydotcom%2C+keywordnew%2C+wesleytodd%2C+waleedashraf&labels=Austin+2020%2C+Collaborator+Summit%2C+Session+Proposal&template=summit-topic-proposal.md&title=Session+Proposal%3A+">session proposal</a> and fill out the correspondig issue form</li>
