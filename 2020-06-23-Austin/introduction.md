@@ -2,7 +2,7 @@
 
 We are excited to welcome you to our anual Collaborator Summit. In order to help us make your experience great and ensure that you get the most out of hit we prepared the following little survey. Please follow along:
 
-<center>I am attending the OpenJS Collaborator Summit as</center>
+<div align="center">I am attending the OpenJS Collaborator Summit as<div>
 <p align="center">
   <img src="./assets/arrow.png" />
 </p>
