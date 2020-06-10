@@ -98,6 +98,8 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 ### Agenda
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|-----|
+| 0900-1600 | ☕️ Ad Hoc Room 1
+| 0900-1600 | ☕️ Ad Hoc Room 2
 | 1000-1300 | TC53 Meeting - Day 2 | Donovan Buck, Peter Hoddie | [273](https://github.com/openjs-foundation/summit/issues/273)
 | 1030-1100 | MDN Web Docs Discussion | Chris Mills | [290](https://github.com/openjs-foundation/summit/issues/290)
 | 1030-1100 | Scaling Open-Source Infrastructure | Ryan Cebulko |
@@ -111,6 +113,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | 1330-1400 | How can AMP make it easier to get involved in contributing? | Ben Morss |
 | 1400-1500 | HTTP 2/3 evolution | Ethan Arrowood | [278](https://github.com/openjs-foundation/summit/issues/278) 
 | 1500-1600 | `npm` OpenRFC meeting | Darcy Clarke & Ruy Adorno | [282](https://github.com/openjs-foundation/summit/issues/282)
+| tbd | Is our approach to consensus working | Maggie Pint & Myles Borins | [297](https://github.com/openjs-foundation/summit/issues/297)
 
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/236 for more details._
