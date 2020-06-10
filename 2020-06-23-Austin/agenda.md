@@ -95,16 +95,23 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 
 ## Collaborator Summit Day Three: Cross-Project Summit Day, 26 June, 2020
 
-### Agenda - AMP Summit, cont'd
+### Agenda
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|-----|
+| 1000-1300 | TC53 Meeting - Day 2 | Donovan Buck, Peter Hoddie | [273](https://github.com/openjs-foundation/summit/issues/273)
+| 1030-1100 | MDN Web Docs Discussion | Chris Mills | [290](https://github.com/openjs-foundation/summit/issues/290)
 | 1030-1100 | Scaling Open-Source Infrastructure | Ryan Cebulko |
+| 1100-1200 | Internationalization & Globalization support for Node.js | Ben Michel | [292](https://github.com/openjs-foundation/summit/issues/292)
 | 1100-1130 | Latest in Bento AMP: How you too can use AMP components outside of AMP |  Dima Voytenko
 | 1130-1200 | How to integrate AMP into your framework or CMS |Sebastian Benz
 | 1200-1230 | AMP Happy Half-Hour | Joey Rozier |
+| 1200-1300 | Package Maintainence WG | Wes Todd | [275](https://github.com/openjs-foundation/summit/issues/275)
 | 1230-1300 | Accessibility in AMP: A Case Study | Caroline Liu |
 | 1300-1330 | So you think AMP needs a new AMP component | Alan Orozco |
-| 1330-1400 | How can AMP make it easier to get involved in contributing? | Ben Morss | 
+| 1330-1400 | How can AMP make it easier to get involved in contributing? | Ben Morss |
+| 1400-1500 | HTTP 2/3 evolution | Ethan Arrowood | [278](https://github.com/openjs-foundation/summit/issues/278) 
+| 1500-1600 | `npm` OpenRFC meeting | Darcy Clarke & Ruy Adorno | [282](https://github.com/openjs-foundation/summit/issues/282)
+
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/236 for more details._
 
