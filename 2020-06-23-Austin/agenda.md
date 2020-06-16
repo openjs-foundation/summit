@@ -10,8 +10,10 @@ Attendees must register [here](http://www.cvent.com/d/pnqqmy/4W?ct=50221cf5-5496
 ### Location:
 This is an online only event - we are using the [QiQoChat Platform](https://collabsummit.qiqochat.com/). If you are a session presenter, please sign up for the platform in advance.
 
+Presenters should watch this [brief video](https://soapbox.wistia.com/videos/h5hOoZmiEE) to acquaint themselves with QiQoChat prior to their session.
+
 ### Timing:
-- Sessions begin no earlier than 9 a.m. GMT-5 (US Central). Timing for each session has been determined based on the availability and timezone of the session host(s).
+A welcome session will be held at 8:45 a.m. GMT-5 (US Central) each day. Working sessions begin no earlier than 9 a.m. GMT-5 (US Central). Timing for each session has been determined based on the availability and timezone of the session host(s).
 
 ### Async Chat via OpenJS Foundation Slack:
 Link to join slack: https://communityinviter.com/apps/js-foundation/join-openjs-foundation-on-slack .
@@ -38,7 +40,7 @@ Coming soon
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|---------------------------|
 | 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers | 
-| 0900-1330 (all day) | Introductions & Info Desk
+| 0900-1330 (all day) | Introductions & Info Desk | Event Organizers
 | 0900-1100 | Introduction to Fastify | Matteo Collina @mcollina | [263](https://github.com/openjs-foundation/summit/issues/263) |
 | 0900-1200 | Building Nodes for Node-RED | Nick O'Leary @knolleary & Dave Conway-Jones @dceejay | [285](https://github.com/openjs-foundation/summit/issues/285) |
 | 1000-1200 | Contributing to WebdriverIO | Christian Bromann @christian-bromann | [264](https://github.com/openjs-foundation/summit/issues/264) |
