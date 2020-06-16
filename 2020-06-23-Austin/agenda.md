@@ -37,6 +37,7 @@ Coming soon
 ### Agenda
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|---------------------------|
+| 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers | 
 | 0900-1330 (all day) | Introductions & Info Desk
 | 0900-1100 | Introduction to Fastify | Matteo Collina @mcollina | [263](https://github.com/openjs-foundation/summit/issues/263) |
 | 0900-1200 | Building Nodes for Node-RED | Nick O'Leary @knolleary & Dave Conway-Jones @dceejay | [285](https://github.com/openjs-foundation/summit/issues/285) |
@@ -53,6 +54,7 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 ### Agenda - AMP Sessions
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|-----|
+| 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers |
 | 0900-1600 | ☕️ AMP Ad Hoc Room 1
 | 0900-1600 | ☕️ AMP Ad Hoc Room 2
 | 1030-1100 | AMP Year in Review | Malte Ubl |
@@ -64,25 +66,28 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 | 1330-1400 | TSC Q&A | Joey Rozier
 | 1400-1430 | ☕️ break
 | 1430-1500 | Latest in Stories | Jon Newmuis |
-| 1500-1530 | AMP Cache Transformations | Amaltas Bohra|
-| 1530-1600 | Fixing AMP URLs | Devin Mullins |
+| 1500-1530 | Fixing AMP URLs | Devin Mullins |
 
 ### Agenda - Node.js Sessions
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|-----|
+| 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers |
 | 0900-1600 | ☕️ Node.js Ad Hoc Room 1
 | 0900-1600 | ☕️ Node.js Ad Hoc Room 2
 | 0900-1030 | Promises Developer Experience | Benjamin Gruenbaum | [272](https://github.com/openjs-foundation/summit/issues/272)
 | 0930-1030 | Node.js Diagnostics | Gireesh Punathil | [293](https://github.com/openjs-foundation/summit/issues/293)
 | 1000-1200 | `AbortController` in core | Benjamin Gruenbaum | [273](https://github.com/openjs-foundation/summit/issues/273)
+| 1030-1130 | Node.js Issue Backlog | Gireesh Punathil | [295](https://github.com/openjs-foundation/summit/issues/272)
 | 1200-1300 | CI Stability | Sam Roberts, Rich Trott & Ash Cripps | [274](https://github.com/openjs-foundation/summit/issues/274)
 | 1300-1400 | Unifying Hook Systems in Node.js | Stephen Belanger | [294](https://github.com/openjs-foundation/summit/issues/294)
+| 1300-1400 | Node.js Tooling Group Collaboration | Chris Hiller, Ben Coe | [299](https://github.com/openjs-foundation/summit/issues/299)|
 | 1400-1600 | Node.js: The next 10 years | Michael Dawson | [279](https://github.com/openjs-foundation/summit/issues/279)
-| tbd | Node.js Issue Backlog | Gireesh Punathil | [295](https://github.com/openjs-foundation/summit/issues/272)
+
 
 ### Agenda - Project Sessions
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|-----|
+| 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers |
 | 0900-1600 | ☕️ Ad Hoc Room 1
 | 0900-1600 | ☕️ Ad Hoc Room 2
 | 0900-1100 | jQuery Core Contributors Meeting | Timmy Willison | [254](https://github.com/openjs-foundation/summit/issues/254)
@@ -98,8 +103,11 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 ### Agenda
 | Time (GMT-5) | Session | Host(s) | Issue # |
 |------|-----------------------------|----------------------------|-----|
+| 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers |
 | 0900-1600 | ☕️ Ad Hoc Room 1
 | 0900-1600 | ☕️ Ad Hoc Room 2
+| 0900-1600 | CPC Meeting Room
+| 0900-1000 | OpenJS Foundation Marketing Support | Rachel Romoff | [300](https://github.com/openjs-foundation/summit/issues/300)
 | 1000-1300 | TC53 Meeting - Day 2 | Donovan Buck, Peter Hoddie | [273](https://github.com/openjs-foundation/summit/issues/273)
 | 1030-1100 | MDN Web Docs Discussion | Chris Mills | [290](https://github.com/openjs-foundation/summit/issues/290)
 | 1030-1100 | Scaling Open-Source Infrastructure | Ryan Cebulko |
@@ -109,11 +117,11 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | 1200-1230 | AMP Happy Half-Hour | Joey Rozier |
 | 1200-1300 | Package Maintainence WG | Wes Todd | [275](https://github.com/openjs-foundation/summit/issues/275)
 | 1230-1300 | Accessibility in AMP: A Case Study | Caroline Liu |
+| 1300-1400 | Is our approach to consensus working | Maggie Pint & Myles Borins | [297](https://github.com/openjs-foundation/summit/issues/297)
 | 1300-1330 | So you think AMP needs a new AMP component | Alan Orozco |
 | 1330-1400 | How can AMP make it easier to get involved in contributing? | Ben Morss |
 | 1400-1500 | HTTP 2/3 evolution | Ethan Arrowood | [278](https://github.com/openjs-foundation/summit/issues/278) 
 | 1500-1600 | `npm` OpenRFC meeting | Darcy Clarke & Ruy Adorno | [282](https://github.com/openjs-foundation/summit/issues/282)
-| tbd | Is our approach to consensus working | Maggie Pint & Myles Borins | [297](https://github.com/openjs-foundation/summit/issues/297)
 
 
 _To speak/present a topic/do a session, please open a issue in repo. Check https://github.com/openjs-foundation/summit/issues/236 for more details._
