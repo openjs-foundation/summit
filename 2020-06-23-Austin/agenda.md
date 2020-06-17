@@ -54,21 +54,21 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 ## Collaborator Summit Day Two: Project Summit Day, 25 June, 2020
 
 ### Agenda - AMP Sessions
-| Time (GMT-5) | Session | Host(s) | Issue # |
+| Time (GMT-5) | Session | Host(s) | Abstract |
 |------|-----------------------------|----------------------------|-----|
 | 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers |
 | 0900-1600 | ☕️ AMP Ad Hoc Room 1
 | 0900-1600 | ☕️ AMP Ad Hoc Room 2
-| 1030-1100 | AMP Year in Review | Malte Ubl |
-| 1100-1130 | The future of AMP: AMP as a Service | Naina Raisinghani 
-| 1130-1200 | How AMP helps developers meet Core Web Vitals |Patrick Kettner |
-| 1200-1230 | AMP Happy Half-Hour | Joey Rozier |
-| 1230-1300 | Make AMPHTML Ads Easier | Caleb Cordry
-| 1300-1330 | AMP Analytics Breakout | Yuxuan Zhou & Jeff Jose |
-| 1330-1400 | TSC Q&A | Joey Rozier
+| 1030-1100 | AMP Year in Review | Malte Ubl | An overview of what's been happening in AMP over the past year and what's coming up.
+| 1100-1130 | The future of AMP: AMP as a Service | Naina Raisinghani | Come along to understand how the AMP team is rethinking how AMP can be most helpful to our users and potential users. 
+| 1130-1200 | How AMP helps developers meet Core Web Vitals |Patrick Kettner | This talk examines how AMP was already well-positioned to help sites meet Core Web Vitals, and the improvements we've made and are making to make this even better.
+| 1200-1230 | AMP Happy Half-Hour | Joey Rozier | Stop by to meet others in the AMP community "in person", and put a face behind the GitHub ids.  This is an informal half hour of introductions and discussing whatever topics come up.
+| 1230-1300 | Make AMPHTML Ads Easier | Caleb Cordry | How the AMP team is working to embed arbitrary ad content safely without server side signing
+| 1300-1330 | AMP Analytics Breakout | Yuxuan Zhou & Jeff Jose | For developers working on managing user consent. Let's talk about the AMP's user-consent capabilities and latest updates.
+| 1330-1400 | TSC Q&A | Joey Rozier | A Q&A session with AMP's Technical Steering Committee.
 | 1400-1430 | ☕️ break
-| 1430-1500 | Latest in Stories | Jon Newmuis |
-| 1500-1530 | Fixing AMP URLs | Devin Mullins |
+| 1430-1500 | Latest in Stories | Jon Newmuis | A technical overview of the latest updates in the AMP Stories format.
+| 1500-1530 | Fixing AMP URLs | Devin Mullins | Let's talk about how best to ease signed exchange deployment, including an exploration of potential alternative technologies.
 
 ### Agenda - Node.js Sessions
 | Time (GMT-5) | Session | Host(s) | Issue # |
@@ -103,7 +103,7 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 ## Collaborator Summit Day Three: Cross-Project Summit Day, 26 June, 2020
 
 ### Agenda
-| Time (GMT-5) | Session | Host(s) | Issue # |
+| Time (GMT-5) | Session | Host(s) | Issue # or Abstract|
 |------|-----------------------------|----------------------------|-----|
 | 0845-0900 | Welcoming Comments & Getting Started (in Info Desk Room) | Event Organizers |
 | 0900-1600 | ☕️ Ad Hoc Room 1
@@ -112,16 +112,16 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 | 0900-1000 | OpenJS Foundation Marketing Support | Rachel Romoff | [300](https://github.com/openjs-foundation/summit/issues/300)
 | 1000-1300 | TC53 Meeting - Day 2 | Donovan Buck, Peter Hoddie | [273](https://github.com/openjs-foundation/summit/issues/273)
 | 1030-1100 | MDN Web Docs Discussion | Chris Mills | [290](https://github.com/openjs-foundation/summit/issues/290)
-| 1030-1100 | Scaling Open-Source Infrastructure | Ryan Cebulko |
+| 1030-1100 | Scaling Open-Source Infrastructure | Ryan Cebulko | AMP has made significant improvements to our infrastructure over the last year, including nightly and long-term-stable releases, release automation, a code ownership bot and more.  This talk covers these improvements, as well as challenges and lessons learned in scaling open-source projects.
 | 1100-1200 | Internationalization & Globalization support for Node.js | Ben Michel | [292](https://github.com/openjs-foundation/summit/issues/292)
-| 1100-1130 | Latest in Bento AMP: How you too can use AMP components outside of AMP |  Dima Voytenko
-| 1130-1200 | How to integrate AMP into your framework or CMS |Sebastian Benz
-| 1200-1230 | AMP Happy Half-Hour | Joey Rozier |
+| 1100-1130 | Latest in Bento AMP: How you too can use AMP components outside of AMP |  Dima Voytenko | The AMP project shared the initial roadmap for Bento AMP 2 years ago. Come along to get an update on the project and understand how you can use AMP components regardless of what framework/library you use.
+| 1130-1200 | How to integrate AMP into your framework or CMS |Sebastian Benz | AMP works best in combination with another framework and CMS. Based on my learnings from integrating AMP into Next.js and Eleventy I want to share a set of best practices for building great AMP integration.
+| 1200-1230 | AMP Happy Half-Hour | Joey Rozier | Stop by to meet others in the AMP community "in person", and put a face behind the GitHub ids.  This is an informal half hour of introductions and discussing whatever topics come up.
 | 1200-1300 | Package Maintainence WG | Wes Todd | [275](https://github.com/openjs-foundation/summit/issues/275)
-| 1230-1300 | Accessibility in AMP: A Case Study | Caroline Liu |
+| 1230-1300 | Accessibility in AMP: A Case Study | Caroline Liu | This talk covers a brief history of accessibility efforts by the UI-and-a11y working group on the AMPHTML project and current initiatives.
 | 1300-1400 | Is our approach to consensus working | Maggie Pint & Myles Borins | [297](https://github.com/openjs-foundation/summit/issues/297)
-| 1300-1330 | So you think AMP needs a new AMP component | Alan Orozco |
-| 1330-1400 | How can AMP make it easier to get involved in contributing? | Ben Morss |
+| 1300-1330 | So you think AMP needs a new AMP component | Alan Orozco | What do we think about when considering whether to add a new component to AMP or find ways to re-use existing components?
+| 1330-1400 | How can AMP make it easier to get involved in contributing? | Ben Morss | For existing contributors and for those who simply want to help AMP be more open: let's talk about how AMP can make it easier to involve new contributors!
 | 1400-1500 | HTTP 2/3 evolution | Ethan Arrowood | [278](https://github.com/openjs-foundation/summit/issues/278) 
 | 1500-1600 | `npm` OpenRFC meeting | Darcy Clarke & Ruy Adorno | [282](https://github.com/openjs-foundation/summit/issues/282)
 
