@@ -64,7 +64,7 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 | 1130-1200 | How AMP helps developers meet Core Web Vitals |Patrick Kettner | This talk examines how AMP was already well-positioned to help sites meet Core Web Vitals, and the improvements we've made and are making to make this even better.
 | 1200-1230 | AMP Happy Half-Hour | Joey Rozier | Stop by to meet others in the AMP community "in person", and put a face behind the GitHub ids.  This is an informal half hour of introductions and discussing whatever topics come up.
 | 1230-1300 | Make AMPHTML Ads Easier | Caleb Cordry | How the AMP team is working to embed arbitrary ad content safely without server side signing
-| 1300-1330 | AMP Analytics Breakout | Yuxuan Zhou & Jeff Jose | For developers working on managing user consent. Let's talk about the AMP's user-consent capabilities and latest updates.
+| 1300-1330 | AMP Analytics Breakout | Micajuine Ho & Jeff Jose | For developers working on managing user consent. Let's talk about the AMP's user-consent capabilities and latest updates.
 | 1330-1400 | TSC Q&A | Joey Rozier | A Q&A session with AMP's Technical Steering Committee.
 | 1400-1430 | ☕️ break
 | 1430-1500 | Latest in Stories | Jon Newmuis | A technical overview of the latest updates in the AMP Stories format.
