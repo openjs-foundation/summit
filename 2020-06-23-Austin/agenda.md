@@ -78,7 +78,7 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 | 0900-1600 | ☕️ Node.js Ad Hoc Room 2
 | 0900-1030 | Promises Developer Experience | Benjamin Gruenbaum | [272](https://github.com/openjs-foundation/summit/issues/272)
 | 0930-1030 | Node.js Diagnostics | Gireesh Punathil | [293](https://github.com/openjs-foundation/summit/issues/293)
-| 1000-1200 | `AbortController` in core | Benjamin Gruenbaum | [273](https://github.com/openjs-foundation/summit/issues/273)
+| 1030-1200 | `AbortController` in core | Benjamin Gruenbaum | [273](https://github.com/openjs-foundation/summit/issues/273)
 | 1030-1130 | Node.js Issue Backlog | Gireesh Punathil | [295](https://github.com/openjs-foundation/summit/issues/295)
 | 1200-1300 | CI Stability | Sam Roberts, Rich Trott & Ash Cripps | [274](https://github.com/openjs-foundation/summit/issues/274)
 | 1230-1330 | Unifying Hook Systems in Node.js | Stephen Belanger | [294](https://github.com/openjs-foundation/summit/issues/294)
