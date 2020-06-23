@@ -68,7 +68,7 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 | 1330-1400 | TSC Q&A | Joey Rozier | A Q&A session with AMP's Technical Steering Committee.
 | 1400-1430 | ☕️ break
 | 1430-1500 | Latest in Stories | Jon Newmuis | A technical overview of the latest updates in the AMP Stories format.
-| 1500-1530 | Fixing AMP URLs | Devin Mullins | Let's talk about how best to ease signed exchange deployment, including an exploration of potential alternative technologies.
+| 1500-1530 | Fixing AMP URLs Breakout | Devin Mullins | Let's talk about how best to ease signed exchange deployment, including an exploration of potential alternative technologies.
 
 ### Agenda - Node.js Sessions
 | Time (GMT-5) | Session | Host(s) | Issue # |
@@ -81,7 +81,7 @@ _To speak/present a topic/do a session, please open a issue in this repo. Check 
 | 1000-1200 | `AbortController` in core | Benjamin Gruenbaum | [273](https://github.com/openjs-foundation/summit/issues/273)
 | 1030-1130 | Node.js Issue Backlog | Gireesh Punathil | [295](https://github.com/openjs-foundation/summit/issues/295)
 | 1200-1300 | CI Stability | Sam Roberts, Rich Trott & Ash Cripps | [274](https://github.com/openjs-foundation/summit/issues/274)
-| 1300-1400 | Unifying Hook Systems in Node.js | Stephen Belanger | [294](https://github.com/openjs-foundation/summit/issues/294)
+| 1230-1330 | Unifying Hook Systems in Node.js | Stephen Belanger | [294](https://github.com/openjs-foundation/summit/issues/294)
 | 1300-1400 | Node.js Tooling Group Collaboration | Chris Hiller, Ben Coe | [299](https://github.com/openjs-foundation/summit/issues/299)|
 | 1400-1600 | Node.js: The next 10 years | Michael Dawson | [279](https://github.com/openjs-foundation/summit/issues/279)
 
