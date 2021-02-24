@@ -132,8 +132,8 @@ _To speak/present a topic/do a session, please open a issue in repo. Check https
 The social media hashtag for OpenJS Collab Summit is [#OpenJSCollabSummit](https://twitter.com/search?q=%23OpenJSCollabSummit)
 
 ## Session Facilitator Information
-It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md).
+It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/HEAD/SESSION_FACILITATOR_GUIDE.md).
 
 ## Code of Conduct
-This event adheres to the OpenJS Foundation's Code of Conduct, which can be viewed at [code-of-conduct.openjsf.org](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md). To report an incident, please email [report@lists.openjsf.org](mailto:report@lists.openjsf.org) or contact an Event Organizer or Foundation staff member.
+This event adheres to the OpenJS Foundation's Code of Conduct, which can be viewed at [code-of-conduct.openjsf.org](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md). To report an incident, please email [report@lists.openjsf.org](mailto:report@lists.openjsf.org) or contact an Event Organizer or Foundation staff member.
 
