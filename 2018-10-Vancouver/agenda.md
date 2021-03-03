@@ -30,7 +30,7 @@ _We are expecting 300 people to participate_.
 |---------------|--------------|-----------------------------------------------|----------------------------------------|--------------------------------------------|-------------------------------------------|
 | 1:00          | Main         | Intro, Sponsor Talk, Code of Conduct          | @mcollina @dshaw @chowdhurian          |                                            | |
 | 1:10          | Main         | V8 Release Schedule and Bisection             | @hashseed                              | https://github.com/nodejs/summit/issues/100#issuecomment-409152001 | [Slides](https://docs.google.com/presentation/d/1OMQbYognUZoSlSdwDsHXiNm0bimPlutU6ZOAhma6rIY) |
-| 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | [The Embedder's POV](https://github.com/codebytere/gives-talks/blob/master/node-collab-summit-2018/the_embedders_pov.pdf)|
+| 1:25          | Main         | The Embedder's POV                            | @codebytere                            | https://github.com/nodejs/summit/issues/100#issuecomment-409629177 | [The Embedder's POV](https://github.com/codebytere/gives-talks/blob/HEAD/node-collab-summit-2018/the_embedders_pov.pdf)|
 | 1:40          | Main         | Automation of Node.js core workflows          | @joyeecheung                           | https://github.com/nodejs/summit/issues/108 | [automation-of-nodejs-workflows](https://docs.google.com/presentation/d/1SZwEOoBxUgaYQLiNk7OAmtvgZ8tFUgdq0IRM6rEAJho/edit?usp=sharing) |
 | 2:00          | Main         | Merger presentation & open forum              | @MylesBorins                           | | |
 | 2:45          |              | Break                                         |                                        | | |
@@ -124,7 +124,7 @@ We'd love to know ahead who will be represented. Filing issues in this repo is h
 ## Travel Fund
 There are funds available for any Individual Member of the Node.js Foundation to receive travel funds to Collab Summit.  Membership is free for active collaborators. Sign up [HERE](https://github.com/nodejs/members#members).
 
-PLEASE follow the instructions for application to receive travel funds [HERE](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md#process).
+PLEASE follow the instructions for application to receive travel funds [HERE](https://github.com/nodejs/admin/blob/HEAD/MEMBER_TRAVEL_FUND.md#process).
 
   
 ------------------------

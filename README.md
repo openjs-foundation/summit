@@ -20,7 +20,7 @@ Join via Zoom: https://zoom.us/j/742726725 - Everyone is welcome!
 ## Cost
 Free!
 
-Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/openjs-foundation/cross-project-council/tree/master/proposals/stage-2/TRAVEL_FUND#openjs-travel-fund) for details.
+Although the summits may be coordinated with other events/conferences, you do not need to pay/attend those events to participate in a summit. We also have travel funds for individual members of the Node.js foundation (e.g. Node.js core collaborators) to cover their travel expenses. See [the documentation on travel funds](https://github.com/openjs-foundation/cross-project-council/tree/HEAD/proposals/approved/TRAVEL_FUND#openjs-travel-fund) for details.
 
 ## Past Events
 - [Dec 13-14 2019, Montreal, Canada](https://github.com/openjs-foundation/summit/issues/202)

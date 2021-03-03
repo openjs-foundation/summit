@@ -89,12 +89,12 @@ Working groups will put together a brief schedule so that people can familiarize
 Attendees must register [HERE]( https://www.cvent.com/events/node-js-interactive-2019/registration-cd8a157b1e074233a1c5222b6e58dd55.aspx?r=e83a52ea-60e2-4fe1-b594-4a8cc88c55d6&tystub=1hqsfg&fqp=true)
 
 ## Session Facilitator
-It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md).
+It would be fantastic if each one of the breakouts is facilitated by a person who will be responsible to "run" the breakout and do a quick presentation at the end. This person would also set outcomes from the breakout to  optimally leverage our time together. There is a facilitator guide available [here](https://github.com/nodejs/summit/blob/HEAD/SESSION_FACILITATOR_GUIDE.md).
 
 ## Travel Fund
 There are funds available for any Individual Member of the Node.js Foundation to receive travel funds to Collab Summit.  Membership is free for active collaborators. Sign up [HERE](https://github.com/nodejs/members#members).
 
-PLEASE follow the instructions for application to receive travel funds [HERE](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md#process).
+PLEASE follow the instructions for application to receive travel funds [HERE](https://github.com/nodejs/admin/blob/HEAD/MEMBER_TRAVEL_FUND.md#process).
 
 ## Contributor Covenant Code of Conduct
 ### Our Pledge
@@ -129,13 +129,13 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
-To learn more about the process of how moderators enforce the Code of Conduct, review the [Moderation Policy](https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#moderation-policy) and [Requesting Moderation](https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#requesting-moderation).
+To learn more about the process of how moderators enforce the Code of Conduct, review the [Moderation Policy](https://github.com/nodejs/admin/blob/HEAD/Moderation-Policy.md#moderation-policy) and [Requesting Moderation](https://github.com/nodejs/admin/blob/HEAD/Moderation-Policy.md#requesting-moderation).
 
 ### Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available [HERE](https://www.contributor-covenant.org/version/1/4/)
 
 ### Appendix A: The report@nodejs.org Alias
-Note: At the current time, all email sent to the [report@nodejs.org](mailto:report@nodejs.org) email alias is copied to all members of the [Node.js Moderation Team](https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#current-members).
+Note: At the current time, all email sent to the [report@nodejs.org](mailto:report@nodejs.org) email alias is copied to all members of the [Node.js Moderation Team](https://github.com/nodejs/admin/blob/HEAD/Moderation-Policy.md#current-members).
 
 
 ------------------------

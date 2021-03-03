@@ -88,7 +88,7 @@ It's ok to keep this very short, especially if you haven't yet finalized the spe
 <!--
 Example: Your name (@yourgithubhandle) - CEST, Another name (@anothergithubhandle) - PST.
 
-Here's a handy [guide](https://github.com/nodejs/summit/blob/master/SESSION_FACILITATOR_GUIDE.md) for the person or persons who will facilitate this session.
+Here's a handy [guide](https://github.com/nodejs/summit/blob/HEAD/SESSION_FACILITATOR_GUIDE.md) for the person or persons who will facilitate this session.
 -->
 
 **Additional context (optional)**
