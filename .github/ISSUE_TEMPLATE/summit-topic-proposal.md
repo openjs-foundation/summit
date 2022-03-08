@@ -1,16 +1,16 @@
 ---
 name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
-title: 'Session Proposal: '
-labels: Austin 2020, Collaborator Summit, Session Proposal
-assignees: christian-bromann, jorydotcom, keywordnew, wesleytodd, waleedashraf
+title: 'Session Proposal: <Project Name> <Session Title>'
+labels: Austin 2022, Collaborator Summit, Session Proposal
+assignees: christian-bromann, jorydotcom, waleedashraf
 
 ---
 
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Austin (TX) 2020!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Austin (TX) 2022!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
@@ -33,26 +33,10 @@ Replace the space between the brackets with an x, like [x], to create a checked 
 - [ ] Workshop
 - [ ] Talk
 
-**Timezone of facilitator**
-
-<!--
-As the event is taking place online the organiser need to know your availability to schedule the track accordingly. For more information, see https://everytimezone.com/
--->
-
-- <your answer>
-
 **Estimated duration of the session**
 
 <!--
 Example: 1 hour / TBD / Open for discussion
--->
-
-**Follow-up / Set-up sessions (if any)**
-
-<!--
-List the sessions that are related. This will help with the sequence of scheduling.
-
-Example: This session depends on the discussions happening in #254.
 -->
 
 **Level**
@@ -91,6 +75,25 @@ Example: Your name (@yourgithubhandle) - CEST, Another name (@anothergithubhandl
 Here's a handy [guide](https://github.com/nodejs/summit/blob/HEAD/SESSION_FACILITATOR_GUIDE.md) for the person or persons who will facilitate this session.
 -->
 
+**Meeting notes and Virtual Meeting Link**
+
+<!--
+Please add link of the Document (Google Doc preferred) with access that everyone can view it.
+Please add link to the Zoom/Google Hangout meeting for people to join remotely
+
+Meeting Notes: <ADD YOUR LINK HERE>
+Virtual Meeting link: <ADD YOUR LINK HERE>
+
+-->
+
+**Follow-up / Set-up sessions (if any)**
+
+<!--
+List the sessions that are related. This will help with the sequence of scheduling.
+
+Example: This session depends on the discussions happening in #254.
+-->
+
 **Additional context (optional)**
 
 <!--
@@ -105,15 +108,3 @@ Please let us know if this session is:
 Thank you for the Session Proposal. You're done! The next section is for logistics and planning only.
 -->
 
-### This section is for contributors handling Collaborator Summit logistics
-
-**Track**
-
-- [ ] New Contributor Orientation Track (see #251)
-- [ ] Regular Track
-- [ ] Cross-Project Track
-
-**Triage**
-
-- [ ] Track chosen
-- [ ] Scheduled
