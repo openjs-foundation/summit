@@ -34,4 +34,4 @@ Registration for summit can be done when you [register for OpenJS World](https:/
 - [Aug 06-07 2015, San Francisco, California, USA](https://github.com/nodejs/summit/issues/1)
 
 ## Code of Conduct
-http://events.linuxfoundation.org/events/node-interactive/attend/code-of-conduct
+https://events.linuxfoundation.org/openjs-world/attend/code-of-conduct/

@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to the OpenJS Collaborator Summit</h1>
 
-We are excited to welcome you to our anual Collaborator Summit. In order to help us make your experience great and ensure you get the most out of it, we've prepared some information for you in the table below. Please follow along:
+We are excited to welcome you to our annual Collaborator Summit. In order to help us make your experience great and ensure you get the most out of it, we've prepared some information for you in the table below. Please follow along:
 
 <p align="center"><strong>I am attending the OpenJS Collaborator Summit as a:</strong><p>
 <p align="center">
@@ -49,3 +49,7 @@ We are excited to welcome you to our anual Collaborator Summit. In order to help
 ## Important for all participants ☝
 
 We want everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or lack thereof, to feel welcome and safe and collaborate with each other in a harassment free environment. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Summit participants violating these rules may be sanctioned or expelled.
+
+## Code of Conduct
+
+https://events.linuxfoundation.org/openjs-world/attend/code-of-conduct/
