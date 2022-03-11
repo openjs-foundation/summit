@@ -7,7 +7,7 @@ The OpenJS Foundation hosts regular summits for active contributors to the found
 
 ## Registration
 - You can sign-up for Collab Summit when [registering for OpenJS World](https://events.linuxfoundation.org/openjs-world/)
-- If you are not attending OpenJS World 2022, and just want to register for Collab Summit, please reach out to [EMAIL].
+- If you are not attending OpenJS World 2022, and just want to register for Collab Summit, please reach out to [collab-summit-reg-2022@openjsf.org](mailto:collab-summit-reg-2022@openjsf.org).
 
 ## Planning Meetings
 
