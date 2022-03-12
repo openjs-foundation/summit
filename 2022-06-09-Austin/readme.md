@@ -51,5 +51,4 @@ We are excited to welcome you to our annual Collaborator Summit. In order to hel
 We want everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or lack thereof, to feel welcome and safe and collaborate with each other in a harassment free environment. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Summit participants violating these rules may be sanctioned or expelled.
 
 ## Code of Conduct
-
-https://events.linuxfoundation.org/openjs-world/attend/code-of-conduct/
+The [Linux Foundation Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) applies to all event spaces.

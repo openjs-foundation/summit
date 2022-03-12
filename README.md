@@ -7,15 +7,7 @@ The OpenJS Foundation hosts regular summits for active contributors to the found
 
 ## Registration
 - You can [sign-up for Collab Summit](https://events.linuxfoundation.org/openjs-world/features/add-on-programming/#day-0-training-sessions) when [registering for OpenJS World](https://events.linuxfoundation.org/openjs-world/)
-- If you are not attending OpenJS World 2022, and just want to register for Collab Summit, please reach out at openjsevents@linuxfoundation.org
-
-## Planning Meetings
-
-Every 2 weeks on Tuesday - see [issues](https://github.com/openjs-foundation/summit/issues) for meeting notices and agendas
-
-15:00 – 16:00 UTC
-
-Join via Zoom: https://zoom.us/j/742726725 - Everyone is welcome!
+- If you are not attending OpenJS World 2022, and just want to register for Collab Summit, please reach out at [collab-summit-reg-2022@openjsf.org](mailto:collab-summit-reg-2022@openjsf.org).
 
 ## Cost
 
@@ -34,4 +26,4 @@ Join via Zoom: https://zoom.us/j/742726725 - Everyone is welcome!
 - [Aug 06-07 2015, San Francisco, California, USA](https://github.com/nodejs/summit/issues/1)
 
 ## Code of Conduct
-https://events.linuxfoundation.org/openjs-world/attend/code-of-conduct/
+The [Linux Foundation Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) applies to all event spaces.
