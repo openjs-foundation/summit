@@ -23,11 +23,11 @@ We are excited to welcome you to our annual Collaborator Summit. In order to hel
         <h3>This event <b>won't</b> help you:</h3>
         <ul>
           <li>Project contributors won't be able to help you with individual bugs or issues</li>
-          <li>Get an introductory understanding of the <a href="https://github.com/openjs-foundation/summit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Austin+2020%22">technical topics</a> that are being discussed. With the exception of the content on New Contributor Day, these topics will not be explained.</li>
+          <li>Get an introductory understanding of the <a href="https://github.com/openjs-foundation/summit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Austin+2022%22">technical topics</a> that are being discussed. With the exception of the content on New Contributor Day, these topics will not be explained.</li>
         </ul>
         <h3>How to prepare for the event:</h3>
         <ul>
-          <li>Check out the <a href="https://github.com/openjs-foundation/summit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Austin+2020%22">summit sessions</a></li>
+          <li>Check out the <a href="https://github.com/openjs-foundation/summit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Austin+2022%22">summit sessions</a></li>
           <li>Give a 👍 for sessions you would like to participate in</li>
           <li>Read up on technical topics that you are not familiar with</li>
         </ul>
@@ -38,7 +38,7 @@ We are excited to welcome you to our annual Collaborator Summit. In order to hel
         <h3>How to prepare for the event:</h3>
         <ul>
           <li>Speak with your project community and evaluate topics that need a broader forum to talk about</li>
-          <li>Create a <a href="https://github.com/openjs-foundation/summit/issues/new?assignees=christian-bromann%2C+jorydotcom%2C+keywordnew%2C+wesleytodd%2C+waleedashraf&labels=Austin+2020%2C+Collaborator+Summit%2C+Session+Proposal&template=summit-topic-proposal.md&title=Session+Proposal%3A+">session proposal</a> and fill out the correspondig issue form</li>
+          <li>Create a <a href="https://github.com/openjs-foundation/summit/issues/new?assignees=christian-bromann%2C+jorydotcom%2C+waleedashraf&labels=Austin+2022%2C+Collaborator+Summit%2C+Session+Proposal&template=summit-topic-proposal.md&title=Session+Proposal%3A+">session proposal</a> and fill out the correspondig issue form</li>
           <li>If you are a session facilitator let the organizing team know about specific session requirements by reaching out in the #collabsummit Slack channel (e.g. whiteboard, markers, post-its etc.)</li>
           <li>Read our <a href="https://github.com/openjs-foundation/summit/blob/HEAD/SESSION_FACILITATOR_GUIDE.md">Session Facilitator Guide</a> for tips and best practices on running your session, and reach out to the organizers for help.
         </ul>
