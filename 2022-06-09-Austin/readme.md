@@ -38,7 +38,7 @@ We are excited to welcome you to our annual Collaborator Summit. In order to hel
         <h3>How to prepare for the event:</h3>
         <ul>
           <li>Speak with your project community and evaluate topics that need a broader forum to talk about</li>
-          <li>Create a <a href="https://github.com/openjs-foundation/summit/issues/new?assignees=christian-bromann%2C+jorydotcom%2C+waleedashraf&labels=Austin+2022%2C+Collaborator+Summit%2C+Session+Proposal&template=summit-topic-proposal.md&title=Session+Proposal%3A+">session proposal</a> and fill out the correspondig issue form</li>
+          <li>Create a <a href="https://github.com/openjs-foundation/summit/issues/new?assignees=christian-bromann%2C+jorydotcom%2C+waleedashraf&labels=Austin+2022%2C+Collaborator+Summit%2C+Session+Proposal&template=summit-topic-proposal.md&title=Session+Proposal%3A+%3CProject+Name%3E+%3CSession+Title%3E">session proposal</a> and fill out the correspondig issue form</li>
           <li>If you are a session facilitator let the organizing team know about specific session requirements by reaching out in the #collabsummit Slack channel (e.g. whiteboard, markers, post-its etc.)</li>
           <li>Read our <a href="https://github.com/openjs-foundation/summit/blob/HEAD/SESSION_FACILITATOR_GUIDE.md">Session Facilitator Guide</a> for tips and best practices on running your session, and reach out to the organizers for help.
         </ul>
