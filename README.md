@@ -2,16 +2,11 @@
 
 The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
 
+## Collaborate
+Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) slack channel in [OpenJS Foundation slack](https://slack-invite.openjsf.org/).
+
 ## Upcoming Events
 - [June 9, 10, 2022 - Austin, Texas, USA](https://github.com/openjs-foundation/summit/issues/310)
-
-## Registration
-- You can [sign-up for Collab Summit](https://events.linuxfoundation.org/openjs-world/features/add-on-programming/#day-0-training-sessions) when [registering for OpenJS World](https://events.linuxfoundation.org/openjs-world/)
-- If you are not attending OpenJS World 2022, and just want to register for Collab Summit, please reach out at [collab-summit-reg-2022@openjsf.org](mailto:collab-summit-reg-2022@openjsf.org).
-
-## Cost
-
-[Registration for Collab Summit](https://events.linuxfoundation.org/openjs-world/features/add-on-programming/#project-and-collab-summits) can be done when you [register for OpenJS World](https://events.linuxfoundation.org/openjs-world/), with additional cost of 15$. We also have travel funds for the participants of OpenJS projects to cover their travel expenses. See [the documentation on travel funds](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/MEMBER_TRAVEL_FUND.md) for details.
 
 ## Past Events
 - [June 22, 25 & 26, 2020 - Online](https://github.com/openjs-foundation/summit/issues/236)
