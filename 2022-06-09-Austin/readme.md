@@ -1,5 +1,6 @@
-
 <h1 align="center">Welcome to the OpenJS Collaborator Summit</h1>
+
+### Event details: [openjs-foundation/summit#310](https://github.com/openjs-foundation/summit/issues/310)
 
 We are excited to welcome you to our annual Collaborator Summit. In order to help us make your experience great and ensure you get the most out of it, we've prepared some information for you in the table below. Please follow along:
 
