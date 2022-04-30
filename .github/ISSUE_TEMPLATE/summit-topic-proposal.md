@@ -39,6 +39,13 @@ Replace the space between the brackets with an x, like [x], to create a checked 
 Example: 1 hour / TBD / Open for discussion
 -->
 
+**Date and Time of the session**
+
+<!--
+Share data and time for the session, so that remote attendees can join.
+Example: June 9, 11:00am CDT / TBD / Open for discussion
+-->
+
 **Level**
 
 <!--
@@ -78,8 +85,8 @@ Here's a handy [guide](https://github.com/nodejs/summit/blob/HEAD/SESSION_FACILI
 **Meeting notes and Virtual Meeting Link**
 
 <!--
-Please add link of the Document (Google Doc preferred) with access that everyone can view it.
-Please add link to the Zoom/Google Hangout meeting for people to join remotely
+We have created a pool of Zoom meeting links to host sessions virtually for remote attendees. These Zoom meeting links will be open for everyone, and Session Facilitator should join as the first person and claim the meeting host. All the meetings will be recorded in the LinuxFoundation Zoom account in the cloud and will be shared later on. Session Facilitator should end the meeting after each session so that we have separate recordings for each session. Note that we have limited meeting links, so they will be shared among all sessions. We'll try to make sure that sessions happening at the same time are using different meeting links.
+Please reach out to waleedashraf in OpenJS Slack for the Zoom meeting link.
 
 Meeting Notes: <ADD YOUR LINK HERE>
 Virtual Meeting link: <ADD YOUR LINK HERE>
