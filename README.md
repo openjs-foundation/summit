@@ -6,9 +6,10 @@ The OpenJS Foundation hosts regular summits for active contributors to the found
 Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) slack channel in [OpenJS Foundation slack](https://slack-invite.openjsf.org/).
 
 ## Upcoming Events
-- [Oct 1-2 2022, Dublin, Ireland](https://github.com/openjs-foundation/summit/issues/323#issuecomment-1221260293)
+- [Oct 1-2 2022, Dublin, Ireland](https://github.com/openjs-foundation/summit/issues/323)
 
 ## Past Events
+- [June 9, 10, 2022 - Austin, Texas, USA](https://github.com/openjs-foundation/summit/issues/310)
 - [June 22, 25 & 26, 2020 - Online](https://github.com/openjs-foundation/summit/issues/236)
 - [Dec 13-14 2019, Montreal, Canada](https://github.com/openjs-foundation/summit/issues/202)
 - [May 30-31 2019, Berlin, Germany](https://github.com/nodejs/summit/issues/135)

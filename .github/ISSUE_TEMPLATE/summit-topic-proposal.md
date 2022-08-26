@@ -2,15 +2,15 @@
 name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
 title: 'Session Proposal: <Project Name> <Session Title>'
-labels: Austin 2022, Collaborator Summit, Session Proposal
-assignees: christian-bromann, jorydotcom, waleedashraf
+labels: Dublin 2022, Collaborator Summit, Session Proposal
+assignees: No9, waleedashraf, ovflowd, mcollina
 
 ---
 
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Austin (TX) 2022!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Dublin (IR) 2022!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
@@ -85,8 +85,6 @@ Here's a handy [guide](https://github.com/nodejs/summit/blob/HEAD/SESSION_FACILI
 **Meeting notes and Virtual Meeting Link**
 
 <!--
-We have created a pool of Zoom meeting links to host sessions virtually for remote attendees. These Zoom meeting links will be open for everyone, and Session Facilitator should join as the first person and claim the meeting host. All the meetings will be recorded in the LinuxFoundation Zoom account in the cloud and will be shared later on. Session Facilitator should end the meeting after each session so that we have separate recordings for each session. Note that we have limited meeting links, so they will be shared among all sessions. We'll try to make sure that sessions happening at the same time are using different meeting links.
-Please reach out to waleedashraf in OpenJS Slack for the Zoom meeting link.
 
 Meeting Notes: <ADD YOUR LINK HERE>
 Virtual Meeting link: <ADD YOUR LINK HERE>
