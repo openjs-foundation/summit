@@ -4,7 +4,7 @@ We are excited to welcome you to our anual Collaborator Summit. In order to help
 
 <p align="center"><strong>I am attending the OpenJS Collaborator Summit as a:</strong><p>
 <p align="center">
-  <img src="./assets/arrow.png" />
+  <img src="../assets/arrow.png" />
 </p>
 
 <table width="100%" style="position:relative; bottom: 30px;">
