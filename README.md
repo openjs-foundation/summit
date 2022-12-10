@@ -7,7 +7,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
-We are sorry there are no upcoming events
+There are no upcoming events at this time.
 
 ## Past Events
 - [Oct 1, 2 2022, Dublin, Ireland - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/323)
