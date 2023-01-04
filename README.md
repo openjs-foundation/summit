@@ -3,11 +3,12 @@
 The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
 
 ## Collaborate
+
 Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) slack channel in [OpenJS Foundation slack](https://slack-invite.openjsf.org/).
 
 ## Upcoming Events
 
-There are no upcoming events at this time.
+- May 9, Vancouver, Canada - OpenJS Collab Summit
 
 ## Past Events
 - [Oct 1, 2 2022, Dublin, Ireland - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/323)
