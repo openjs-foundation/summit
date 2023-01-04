@@ -8,9 +8,10 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
-- May 9, Vancouver, Canada - OpenJS Collab Summit
+- May 9, 2023, Vancouver, Canada - OpenJS Collab Summit
 
 ## Past Events
+
 - [Oct 1, 2 2022, Dublin, Ireland - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/323)
 - [Sept 22, 23 2022, Madrid, Spain - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/328)
 - [June 9, 10, 2022 - Austin, Texas, USA](https://github.com/openjs-foundation/summit/issues/310)
@@ -26,4 +27,5 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 - [Aug 06-07 2015, San Francisco, California, USA](https://github.com/nodejs/summit/issues/1)
 
 ## Code of Conduct
+
 The [Linux Foundation Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) applies to all event spaces.
