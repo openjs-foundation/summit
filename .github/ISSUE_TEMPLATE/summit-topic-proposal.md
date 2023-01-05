@@ -2,7 +2,7 @@
 name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
 title: 'Session Proposal: <Project Name> <Session Title>'
-labels: Dublin 2022, Collaborator Summit, Session Proposal
+labels: Vancouver 2023, Collaborator Summit, Session Proposal
 assignees: No9, waleedashraf, ovflowd, mcollina
 
 ---
@@ -10,7 +10,7 @@ assignees: No9, waleedashraf, ovflowd, mcollina
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Dublin (IR) 2022!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Vancouver (CA) 2023!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
