@@ -3,13 +3,15 @@
 The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
 
 ## Collaborate
+
 Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) slack channel in [OpenJS Foundation slack](https://slack-invite.openjsf.org/).
 
 ## Upcoming Events
 
-There are no upcoming events at this time.
+- [May 9, 2023, Vancouver, Canada - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/343)
 
 ## Past Events
+
 - [Oct 1, 2 2022, Dublin, Ireland - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/323)
 - [Sept 22, 23 2022, Madrid, Spain - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/328)
 - [June 9, 10, 2022 - Austin, Texas, USA](https://github.com/openjs-foundation/summit/issues/310)
@@ -25,4 +27,5 @@ There are no upcoming events at this time.
 - [Aug 06-07 2015, San Francisco, California, USA](https://github.com/nodejs/summit/issues/1)
 
 ## Code of Conduct
+
 The [Linux Foundation Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) applies to all event spaces.
