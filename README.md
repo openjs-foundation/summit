@@ -8,7 +8,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
-- May 9, 2023, Vancouver, Canada - OpenJS Collab Summit
+- [May 9, 2023, Vancouver, Canada - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/343)
 
 ## Past Events
 
