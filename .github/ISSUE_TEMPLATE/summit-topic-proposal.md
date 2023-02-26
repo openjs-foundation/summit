@@ -3,8 +3,7 @@ name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
 title: 'Session Proposal: <Project Name> <Session Title>'
 labels: Vancouver 2023, Collaborator Summit, Session Proposal
-assignees: No9, waleedashraf, ovflowd, mcollina
-
+assignees: ovflowd, mcollina, ruyadorno
 ---
 
 ### Proposal
