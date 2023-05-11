@@ -1,4 +1,11 @@
-# OpenJS Foundation Collaborator Summit
+<a href="https://openjsf.org">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg" />
+     <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200" alt="Openjs Foundation Logo" />
+   </picture>
+</a>
+
+# Collaborator Summit
 
 The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
 
