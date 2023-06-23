@@ -8,7 +8,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
-- September, 18, 2023, Bilbao, Spain - Node.js Collab Summit - TBD
+- [September, 18, 2023, Bilbao, Spain - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/360)
 
 ## Past Events
 
