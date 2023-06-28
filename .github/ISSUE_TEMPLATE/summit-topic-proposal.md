@@ -2,8 +2,8 @@
 name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
 title: 'Session Proposal: <Project Name> <Session Title>'
-labels: Vancouver 2023, Collaborator Summit, Session Proposal
-assignees: ovflowd, mcollina, ruyadorno
+labels: Bilbao 2023, Collaborator Summit, Session Proposal
+assignees: ovflowd, ruyadorno
 ---
 
 ### Proposal
