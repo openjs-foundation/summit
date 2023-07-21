@@ -2,14 +2,14 @@
 name: Summit Session Proposal
 about: Submit a proposal for a session at the Collab Summit
 title: 'Session Proposal: <Project Name> <Session Title>'
-labels: Vancouver 2023, Collaborator Summit, Session Proposal
-assignees: ovflowd, mcollina, ruyadorno
+labels: Bilbao 2023, Collaborator Summit, Session Proposal
+assignees: ovflowd, ruyadorno
 ---
 
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Vancouver (CA) 2023!
+Thank you! You are submitting a topic for the next Collaborator's Summit, Bilbao (ES) 2023!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
@@ -62,7 +62,7 @@ Note that your choice of Level will signal expectations to your potential partic
 **Pre-requisite knowledge**
 
 <!--
-List pre-requisite knowledge that it would be required for participants to have or resources you would like them to review before the session. This is different from Level above. Pre-requisite knowledge 
+List pre-requisite knowledge that it would be required for participants to have or resources you would like them to review before the session. This is different from Level above. Pre-requisite knowledge
 
 Example: It would be helpful for attendees to have some familiarity with the processes of the Release WG, since we plan to do a minor release during the session. That being said, we are happy to walk newer folks through the process. Please review [this doc]() before the session.
 -->
