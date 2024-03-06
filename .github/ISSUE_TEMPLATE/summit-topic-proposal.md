@@ -9,7 +9,7 @@ assignees: ovflowd, ruyadorno, mcollina
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the next Collaborator's Summit, Bilbao (ES) 2023!
+Thank you! You are submitting a topic for the next Collaborator's Summit, London (UK) 2024!
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
