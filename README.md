@@ -1,17 +1,19 @@
-# OpenJS Foundation Collaborator Summit
+# Collaboration Summits of OpenJS Foundation projects
 
-The OpenJS Foundation hosts regular summits for active contributors to the foundation projects, this repository is being used to organize them.
+Some projects under the OpenJS Foundation host regular summits for contributors and community members. This repository is being used to organize them.
 
-## Collaborate
+The collaboration summits tend to be unconferences, either in-person or hybrid, where contributors and community members share knowledge about the project and the ecosystem, brainstorm solutions to technical and non-technical issues, make progress in decision-making discussions, and push forward new initiatives.
+
+## Connect
 
 Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) slack channel in [OpenJS Foundation slack](https://slack-invite.openjsf.org/).
 
 ## Upcoming Events
 
-- [April, 3-5, 2024, London, UK - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/387)
 
 ## Past Events
 
+- [April, 3-5, 2024, London, UK - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/387)
 - [September, 18, 2023, Bilbao, Spain - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/360)
 - [May 9, 2023, Vancouver, Canada - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/343)
 - [Oct 1, 2 2022, Dublin, Ireland - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/323)
