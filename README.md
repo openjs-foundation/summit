@@ -16,6 +16,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 - [April, 3-5, 2024, London, UK - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/387)
 - [September, 18, 2023, Bilbao, Spain - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/360)
+- [Sept 6-7 2023, New York, New York, USA - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/373)
 - [May 9, 2023, Vancouver, Canada - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/343)
 - [Oct 1, 2 2022, Dublin, Ireland - OpenJS Collab Summit](https://github.com/openjs-foundation/summit/issues/323)
 - [Sept 22, 23 2022, Madrid, Spain - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/328)
