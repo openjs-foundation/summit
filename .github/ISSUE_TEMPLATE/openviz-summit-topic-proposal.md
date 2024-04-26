@@ -2,7 +2,7 @@
 name: Open Visualization Collab Summit Session Proposal
 about: Submit a proposal for a session at the Open Visualization Collab Summit 
 title: 'Open Visualization Session Proposal: <Project Name> <Session Title>'
-labels: OpenViz London 2024, Collaborator Summit, Session Proposal
+labels: OpenVis London 2024, Collaborator Summit, Session Proposal
 assignees: chrisgervang
 ---
 
