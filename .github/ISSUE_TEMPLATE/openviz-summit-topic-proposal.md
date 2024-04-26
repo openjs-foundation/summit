@@ -2,14 +2,14 @@
 name: Open Visualization Collab Summit Session Proposal
 about: Submit a proposal for a session at the Open Visualization Collab Summit 
 title: 'Open Visualization Session Proposal: <Project Name> <Session Title>'
-labels: New York 2023, Collaborator Summit, Session Proposal
+labels: OpenViz London 2024, Collaborator Summit, Session Proposal
 assignees: chrisgervang
 ---
 
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the Open Visualization Collab Summit 2023 in New York City!
+Thank you! You are submitting a topic for the Open Visualization Collab Summit 2024 in London
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
