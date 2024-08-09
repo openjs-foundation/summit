@@ -10,6 +10,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
+- [November, 7-8, 2024, Dublin, IE - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/419)
 
 ## Past Events
 
