@@ -10,7 +10,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
-- [TBD, 2025, Paris, FR - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/433)
+- [April, 1-2, 2025, Paris, FR - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/433)
 
 ## Past Events
 
