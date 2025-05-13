@@ -2,14 +2,14 @@
 name: Open Visualization Collab Summit Session Proposal
 about: Submit a proposal for a session at the Open Visualization Collab Summit 
 title: 'Open Visualization Session Proposal: <Project Name> <Session Title>'
-labels: OpenVis London 2024, Collaborator Summit, Session Proposal
+labels: OpenVis Seattle 2025, Collaborator Summit, Session Proposal
 assignees: chrisgervang
 ---
 
 ### Proposal
 
 <!--
-Thank you! You are submitting a topic for the Open Visualization Collab Summit 2024 in London
+Thank you! You are submitting a topic for the Open Visualization Collab Summit 2025 in Seattle
 
 Please include as much detail as you are able to at this moment. Don't worry, it doesn't have to be complete.
 
@@ -42,7 +42,7 @@ Example: 1 hour / TBD / Open for discussion
 
 <!--
 Share data and time for the session, so that remote attendees can join.
-Example: June 9, 11:00am CDT / TBD / Open for discussion
+Example: October 8, 11:00am PDT / TBD / Open for discussion
 -->
 
 **Level**
@@ -50,7 +50,7 @@ Example: June 9, 11:00am CDT / TBD / Open for discussion
 <!--
 This is the expected level of familiarity with the subject of the session.
 
-Example: If the subject of the session is Node.js, and participants cannot contribute without minimum Intermediate familiarity, the x should go in Intermediate and Advanced.
+Example: If the subject of the session is Deck.gl, and participants cannot contribute without minimum Intermediate familiarity, the x should go in Intermediate and Advanced.
 
 Note that your choice of Level will signal expectations to your potential participants.
 -->
