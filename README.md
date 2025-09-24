@@ -10,6 +10,7 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
+- [October 17, 2025, Chesapeake, Maryland, USA - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/453)
 - [October 8-9, 2025, Seattle, Washington, USA - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/450)
 
 ## Past Events
