@@ -10,11 +10,12 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 
 ## Upcoming Events
 
-- [October 17, 2025, Chesapeake, Maryland, USA - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/453)
-- [October 8-9, 2025, Seattle, Washington, USA - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/450)
+- [April 14-15, 2026, London, UK - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/474)
 
 ## Past Events
 
+- [October 17, 2025, Chesapeake, Maryland, USA - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/453)
+- [October 8-9, 2025, Seattle, Washington, USA - Open Visualization Collab Summit](https://github.com/openjs-foundation/summit/issues/450)
 - [April, 1-2, 2025, Paris, FR - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/433)
 - [November, 7-8, 2024, Dublin, IE - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/419)
 - [April, 3-5, 2024, London, UK - Node.js Collab Summit](https://github.com/openjs-foundation/summit/issues/387)
@@ -39,3 +40,4 @@ Join [#collabsummit](https://openjs-foundation.slack.com/archives/CPE10404W) sla
 ## Code of Conduct
 
 The [Linux Foundation Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) applies to all event spaces.
+
